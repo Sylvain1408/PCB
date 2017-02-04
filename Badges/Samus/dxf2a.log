@@ -1,0 +1,27 @@
+Reading Layer Conversion File 
+Reading DXF file...
+done.
+
+ERROR: ERROR(SPMHA1-273): Shape intersects with itself.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / ASSEMBLY_NOTES
+  POLYLINE on line number 170602
+
+ERROR: ERROR(SPMHA1-273): Shape intersects with itself.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / ASSEMBLY_NOTES
+  POLYLINE on line number 204272
+
+ERROR: ERROR(SPMHA1-273): Shape intersects with itself.
+ERROR: Failed to add (LW)POLYLINE
+  on BOARD GEOMETRY / ASSEMBLY_NOTES
+  POLYLINE on line number 471012
+Layer conversion file: C:/Cadence/SPB_16.6/share/pcb/text/dlibx2iff.cnv
+DXF file: C:/Users/CAO-PCB/Downloads/SSB4_-_Samus_Artwork.dxf
+BRD file: C:/Users/CAO-PCB/Desktop/Yello/Badges/Samus/#Taaaaah09392.tmp
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.

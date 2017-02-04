@@ -1,0 +1,23 @@
+\t (00:00:00) allegro 16.6-2015 S069 (v16-6-112FP) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 30 11:07:31 2017
+\t (00:00:00)         Host=DESKTOP-K8Q8V1Q User=CAO-PCB Pid=8896 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -ORCAD
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/Users/CAO-PCB/Desktop/Yello/Badges/Samus/Samus.brd
+\i (00:00:02) trapsize 5785
+\i (00:00:02) trapsize 5681
+\i (00:00:02) trapsize 5803
+\i (00:00:03) trapsize 5813
+\i (00:00:03) trapsize 5813
+\i (00:00:03) placementedit 
+\i (00:00:05) open 
+\i (00:00:20) fillin "C:\Users\CAO-PCB\Desktop\Yello\pcb\Rev3\components\LW-Q38E-Q1OO-3K6L-1.dra"
+\i (00:00:20) cd "C:\Users\CAO-PCB\Desktop\Yello\pcb\Rev3\components"
+\t (00:00:20) Opening existing design...
+\i (00:00:20) trapsize 142
+\i (00:00:20) trapsize 139
+\i (00:00:20) trapsize 142
+\i (00:00:20) trapsize 144
+\i (00:00:20) trapsize 144
+\t (00:00:20)     Journal end - Mon Jan 30 11:07:52 2017
