@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : Samus.brd                                     )
+(    Software Version : 16.6-2015S069                                 )
+(    Date/Time        : Thu Feb 16 21:52:05 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+current class name(ETCH)
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+Intersection point nil is not in design
+Creating Open shape by path _axlPath@0x8f86098 failed!
+Creating closed shape by cpshShapeDataStruct@0x8f86078 failed
+Creating Open shape by path _axlPath@0x8f86168 failed!
+Creating closed shape by cpshShapeDataStruct@0x8f86078 failed
+Intersection point nil is not in design
+Creating Open shape by path _axlPath@0x8f864a8 failed!
+Creating closed shape by cpshShapeDataStruct@0x8f86078 failed
+Creating Open shape by path _axlPath@0x8f868e8 failed!
+Creating closed shape by cpshShapeDataStruct@0x8f86078 failed
+Intersection point nil is not in design
+Find smallest gap failed. Be cautious, this may not be an error
+Creating Open shape by path _axlPath@0x8f869b8 failed!
+Creating closed shape by cpshShapeDataStruct@0x8f86998 failed
+Creating Open shape by path _axlPath@0xfeeae38 failed!
+Creating closed shape by cpshShapeDataStruct@0x8f86998 failed
+ERROR(SPMHIS-437): Increasing the gap tolerance to 30.9825 MM to close the next smallest gap.
+Intersection point nil is not in design
+Intersection point nil is not in design
+Intersection point nil is not in design
+Find smallest gap failed. Be cautious, this may not be an error
+Creating Open shape by path _axlPath@0x5724468 failed!
+Creating closed shape by cpshShapeDataStruct@0x5724448 failed
+Creating Open shape by path _axlPath@0x57278d8 failed!
+Creating closed shape by cpshShapeDataStruct@0x5724448 failed
+A total of 2 shapes were created.
