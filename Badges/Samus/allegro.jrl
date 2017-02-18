@@ -1,963 +1,3559 @@
-\t (00:17:51) allegro 16.6-2015 S069 (v16-6-112FP) Windows 32
-\t (00:17:51)     Journal start - Mon Jan 30 11:25:22 2017
-\t (00:17:51)         Host=DESKTOP-K8Q8V1Q User=CAO-PCB Pid=8896 CPUs=4
-\t (00:17:51) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -ORCAD
-\t (00:17:51) 
-\d (00:17:51) Design opened: C:/Users/CAO-PCB/Desktop/Yello/Badges/Samus/Samus.brd
-\i (00:17:51) shapeedit 
-\i (00:18:49) 3d_viewer 
-\i (00:18:50) setwindow pcb3D
-\i (00:18:50) trapsize 5813
-\i (00:18:50) setwindow pcb
-\i (00:18:50) shapeedit 
-\i (00:19:18) setwindow form.mini
-\i (00:19:18) FORM mini class BOARD GEOMETRY 
-\i (00:20:39) FORM mini subclass SOLDERMASK_TOP 
-\i (00:20:40) FORM mini subcolor 0 
-\i (00:20:43) setwindow pcb
-\i (00:20:43) zoom in 1 
-\i (00:20:43) setwindow pcb
-\i (00:20:43) zoom in 47.8491 58.5761
-\i (00:20:43) trapsize 2907
-\i (00:20:44) zoom in 1 
-\i (00:20:44) setwindow pcb
-\i (00:20:44) zoom in 50.1164 55.5532
-\i (00:20:44) trapsize 1453
-\i (00:20:48) delete 
-\i (00:20:49) pick grid 47.4132 54.4487
-\t (00:20:49) last pick:  47.4130 54.4490
-\t (00:20:49) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:50) pick grid 50.8140 48.7806
-\t (00:20:50) last pick:  50.8140 48.7810
-\t (00:20:50) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:50) pick grid 51.5989 51.6873
-\t (00:20:50) last pick:  51.5990 51.6870
-\t (00:20:50) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:50) pick grid 54.1277 53.4604
-\t (00:20:50) last pick:  54.1280 53.4600
-\t (00:20:50) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:51) pick grid 51.8314 54.7103
-\t (00:20:51) last pick:  51.8310 54.7100
-\t (00:20:51) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:51) pick grid 52.1221 56.5124
-\t (00:20:51) last pick:  52.1220 56.5120
-\t (00:20:51) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:52) pick grid 54.9125 58.4018
-\t (00:20:52) last pick:  54.9130 58.4020
-\t (00:20:52) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:52) pick grid 55.3485 57.9949
-\t (00:20:52) last pick:  55.3490 57.9950
-\t (00:20:52) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:53) pick grid 55.8427 59.9133
-\t (00:20:53) last pick:  55.8430 59.9130
-\t (00:20:53) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:54) pick grid 54.4475 59.7680
-\t (00:20:54) last pick:  54.4480 59.7680
-\t (00:20:54) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:54) pick grid 52.3837 59.6517
-\t (00:20:54) last pick:  52.3840 59.6520
-\t (00:20:54) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:54) pick grid 47.1225 60.1168
-\t (00:20:54) last pick:  47.1230 60.1170
-\t (00:20:54) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:55) pick grid 48.1108 58.8960
-\t (00:20:55) last pick:  48.1110 58.8960
-\t (00:20:55) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:55) pick grid 47.4422 57.9949
-\t (00:20:55) last pick:  47.4420 57.9950
-\t (00:20:55) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:56) pick grid 45.9598 60.9307
-\t (00:20:56) last pick:  45.9600 60.9310
-\t (00:20:56) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:56) pick grid 45.1459 62.0934
-\t (00:20:56) last pick:  45.1460 62.0930
-\t (00:20:56) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:57) pick grid 43.0240 59.7389
-\t (00:20:57) last pick:  43.0240 59.7390
-\i (00:20:57) pick grid 48.4305 59.6808
-\t (00:20:57) last pick:  48.4310 59.6810
-\t (00:20:57) Shape "Board Geometry/Silkscreen_Top"
-\i (00:20:58) pick grid 44.1867 58.1983
-\t (00:20:58) last pick:  44.1870 58.1980
-\i (00:20:58) prepopup 43.4891 58.1693
-\i (00:20:58) done 
-\i (00:20:58) shapeedit 
-\i (00:20:59) zoom out 1 
-\i (00:20:59) setwindow pcb
-\i (00:20:59) zoom out 45.2913 54.2161
-\i (00:20:59) trapsize 2907
-\i (00:20:59) zoom out 1 
-\i (00:20:59) setwindow pcb
-\i (00:20:59) zoom out 44.8262 54.6231
-\i (00:20:59) trapsize 5813
-\i (00:20:59) zoom in 1 
-\i (00:20:59) setwindow pcb
-\i (00:20:59) zoom in 86.4505 13.4639
-\i (00:20:59) trapsize 2907
-\i (00:21:00) zoom out 1 
-\i (00:21:00) setwindow pcb
-\i (00:21:00) zoom out 81.0441 30.1485
-\i (00:21:00) trapsize 5813
-\i (00:21:00) zoom out 1 
-\i (00:21:00) setwindow pcb
-\i (00:21:00) zoom out 84.4158 29.3347
-\i (00:21:00) trapsize 11627
-\i (00:21:00) zoom in 1 
-\i (00:21:00) setwindow pcb
-\i (00:21:00) zoom in -11.8551 -12.9874
-\i (00:21:00) trapsize 5813
-\i (00:21:01) zoom in 1 
-\i (00:21:01) setwindow pcb
-\i (00:21:01) zoom in 15.4681 15.7311
-\i (00:21:01) trapsize 2907
-\i (00:21:01) zoom in 1 
-\i (00:21:01) setwindow pcb
-\i (00:21:01) zoom in 15.5263 15.7311
-\i (00:21:01) trapsize 1453
-\i (00:21:01) zoom out 1 
-\i (00:21:01) setwindow pcb
-\i (00:21:01) zoom out 4.9168 9.5398
-\i (00:21:01) trapsize 2907
-\i (00:21:01) zoom out 1 
-\i (00:21:01) setwindow pcb
-\i (00:21:01) zoom out 4.9168 9.5398
-\i (00:21:01) trapsize 5813
-\i (00:21:04) setwindow form.mini
-\i (00:21:04) FORM mini subcolor 1 
-\i (00:21:05) FORM mini subclass SILKSCREEN_TOP 
-\i (00:21:06) FORM mini subcolor 0 
-\i (00:21:07) setwindow pcb
-\i (00:21:07) zoom in 1 
-\i (00:21:07) setwindow pcb
-\i (00:21:07) zoom in 91.7698 8.7258
-\i (00:21:07) trapsize 2907
-\i (00:21:07) zoom in 1 
-\i (00:21:07) setwindow pcb
-\i (00:21:07) zoom in 91.8861 8.7258
-\i (00:21:07) trapsize 1453
-\i (00:21:12) setwindow form.mini
-\i (00:21:12) FORM mini subcolor 1 
-\i (00:21:21) setwindow pcb
-\i (00:21:21) zoom out 1 
-\i (00:21:21) setwindow pcb
-\i (00:21:21) zoom out 94.0370 8.5514
-\i (00:21:21) trapsize 2907
-\i (00:21:22) zoom out 1 
-\i (00:21:22) setwindow pcb
-\i (00:21:22) zoom out 94.0371 8.5514
-\i (00:21:22) trapsize 5813
-\i (00:21:22) zoom in 1 
-\i (00:21:22) setwindow pcb
-\i (00:21:22) zoom in 54.3894 74.7086
-\i (00:21:22) trapsize 2907
-\i (00:21:22) zoom in 1 
-\i (00:21:22) setwindow pcb
-\i (00:21:22) zoom in 53.4012 74.7086
-\i (00:21:22) trapsize 1453
-\i (00:21:23) zoom in 1 
-\i (00:21:23) setwindow pcb
-\i (00:21:23) zoom in 51.8606 74.6214
-\i (00:21:23) trapsize 727
-\i (00:21:23) zoom out 1 
-\i (00:21:23) setwindow pcb
-\i (00:21:23) zoom out 52.6891 67.5871
-\i (00:21:23) trapsize 1453
-\i (00:21:23) zoom in 1 
-\i (00:21:23) setwindow pcb
-\i (00:21:23) zoom in 51.2938 73.8075
-\i (00:21:23) trapsize 727
-\i (00:21:31) show measure 
-\i (00:21:40) prepopup 46.8175 77.1793
-\i (00:21:41) done 
-\i (00:21:41) shapeedit 
-\i (00:21:47) zoom out 1 
-\i (00:21:47) setwindow pcb
-\i (00:21:47) zoom out 51.1195 77.7171
-\i (00:21:47) trapsize 1453
-\i (00:21:48) zoom in 1 
-\i (00:21:48) setwindow pcb
-\i (00:21:48) zoom in 53.3576 67.8051
-\i (00:21:48) trapsize 727
-\i (00:21:48) zoom out 1 
-\i (00:21:48) setwindow pcb
-\i (00:21:48) zoom out 51.6572 74.5051
-\i (00:21:48) trapsize 1453
-\i (00:21:48) zoom out 1 
-\i (00:21:48) setwindow pcb
-\i (00:21:48) zoom out 51.7444 74.4179
-\i (00:21:48) trapsize 2907
-\i (00:21:49) zoom in 1 
-\i (00:21:49) setwindow pcb
-\i (00:21:49) zoom in 51.5119 62.6748
-\i (00:21:49) trapsize 1453
-\i (00:21:51) zoom out 1 
-\i (00:21:51) setwindow pcb
-\i (00:21:51) zoom out 53.5175 60.3204
-\i (00:21:51) trapsize 2907
-\i (00:21:52) zoom in 1 
-\i (00:21:52) setwindow pcb
-\i (00:21:52) zoom in 32.4146 40.0895
-\i (00:21:52) trapsize 1453
-\i (00:21:52) zoom in 1 
-\i (00:21:52) setwindow pcb
-\i (00:21:52) zoom in 29.4207 40.2639
-\i (00:21:52) trapsize 727
-\i (00:21:53) zoom in 1 
-\i (00:21:53) setwindow pcb
-\i (00:21:53) zoom in 29.7986 41.1941
-\i (00:21:53) trapsize 363
-\i (00:21:53) zoom out 1 
-\i (00:21:53) setwindow pcb
-\i (00:21:53) zoom out 31.5426 41.9789
-\i (00:21:53) trapsize 727
-\i (00:21:53) zoom out 1 
-\i (00:21:53) setwindow pcb
-\i (00:21:53) zoom out 31.6008 42.0952
-\i (00:21:53) trapsize 1453
-\i (00:21:55) zoom out 1 
-\i (00:21:55) setwindow pcb
-\i (00:21:55) zoom out 24.6828 37.3864
-\i (00:21:55) trapsize 2907
-\i (00:21:56) zoom in 1 
-\i (00:21:56) setwindow pcb
-\i (00:21:56) zoom in 53.1687 31.2822
-\i (00:21:56) trapsize 1453
-\i (00:21:57) zoom out 1 
-\i (00:21:57) setwindow pcb
-\i (00:21:57) zoom out 53.3140 31.3694
-\i (00:21:57) trapsize 2907
-\i (00:21:59) zoom out 1 
-\i (00:21:59) setwindow pcb
-\i (00:21:59) zoom out 48.8958 35.4388
-\i (00:21:59) trapsize 5813
-\i (00:21:59) zoom in 1 
-\i (00:21:59) setwindow pcb
-\i (00:21:59) zoom in 50.9886 66.7153
-\i (00:21:59) trapsize 2907
-\i (00:22:02) zoom in 1 
-\i (00:22:02) setwindow pcb
-\i (00:22:02) zoom in 52.5582 75.3193
-\i (00:22:02) trapsize 1453
-\i (00:22:02) zoom in 1 
-\i (00:22:02) setwindow pcb
-\i (00:22:02) zoom in 50.9305 76.7436
-\i (00:22:02) trapsize 727
-\i (00:23:41) zoom out 1 
-\i (00:23:41) setwindow pcb
-\i (00:23:41) zoom out 53.9826 72.2236
-\i (00:23:41) trapsize 1453
-\i (00:23:41) zoom out 1 
-\i (00:23:41) setwindow pcb
-\i (00:23:41) zoom out 54.6802 73.0085
-\i (00:23:41) trapsize 2907
-\i (00:23:41) zoom out 1 
-\i (00:23:41) setwindow pcb
-\i (00:23:41) zoom out 55.2616 74.1711
-\i (00:23:41) trapsize 5813
-\i (00:23:42) zoom out 1 
-\i (00:23:42) setwindow pcb
-\i (00:23:42) zoom out 47.4715 84.9842
-\i (00:23:42) trapsize 11627
-\i (00:23:43) zoom in 1 
-\i (00:23:43) setwindow pcb
-\i (00:23:43) zoom in 12.3581 7.5488
-\i (00:23:43) trapsize 5813
-\i (00:23:43) zoom in 1 
-\i (00:23:43) setwindow pcb
-\i (00:23:43) zoom in 12.2418 4.2933
-\i (00:23:43) trapsize 2907
-\i (00:23:43) zoom in 1 
-\i (00:23:43) setwindow pcb
-\i (00:23:43) zoom in 12.3000 3.7120
-\i (00:23:43) trapsize 1453
-\i (00:23:43) zoom in 1 
-\i (00:23:43) setwindow pcb
-\i (00:23:43) zoom in 15.4974 3.8573
-\i (00:23:43) trapsize 727
-\i (00:23:44) zoom out 1 
-\i (00:23:44) setwindow pcb
-\i (00:23:44) zoom out 14.1022 3.1161
-\i (00:23:44) trapsize 1453
-\i (00:23:48) zoom out 1 
-\i (00:23:48) setwindow pcb
-\i (00:23:48) zoom out 2.6496 3.1161
-\i (00:23:48) trapsize 2907
-\i (00:23:54) zoom out 1 
-\i (00:23:54) setwindow pcb
-\i (00:23:54) zoom out -6.6519 3.1742
-\i (00:23:54) trapsize 5813
-\i (00:24:11) add connect 
-\t (00:24:12) Pick first element.
-\i (00:24:19) setwindow form.mini
-\i (00:24:19) FORM mini acon_line_width 0.5 
-\i (00:24:20) setwindow pcb
-\i (00:24:20) pick grid 17.7646 83.6327
-\t (00:24:20) last pick:  17.7650 83.6330
-\t (00:24:20) last pick:  17.7650 83.6330
-\i (00:24:23) pick grid 28.1126 32.8229
-\t (00:24:23) last pick:  28.1130 32.8230
-\t (00:24:23) No DRC errors detected.
-\i (00:24:25) pick grid 43.3439 28.0559
-\t (00:24:25) last pick:  43.3440 28.0560
-\t (00:24:25) No DRC errors detected.
-\i (00:24:28) pick grid 43.3439 7.0111
-\t (00:24:28) last pick:  43.3440 7.0110
-\t (00:24:28) No DRC errors detected.
-\i (00:24:28) pick grid dbl 43.3439 7.0111
-\t (00:24:28) last pick:  43.3440 7.0110
-\t (00:24:28) VIA used for drill.
-\t (00:24:28) No DRC errors detected.
-\i (00:24:29) zoom in 1 
-\i (00:24:29) setwindow pcb
-\i (00:24:29) zoom in 43.6927 7.3599
-\i (00:24:29) trapsize 2907
-\i (00:24:30) zoom in 1 
-\i (00:24:30) setwindow pcb
-\i (00:24:30) zoom in 43.6927 7.3600
-\i (00:24:30) trapsize 1453
-\i (00:24:30) zoom in 1 
-\i (00:24:30) setwindow pcb
-\i (00:24:30) zoom in 44.0706 7.3890
-\i (00:24:30) trapsize 727
-\i (00:24:30) zoom in 1 
-\i (00:24:30) setwindow pcb
-\i (00:24:30) zoom in 44.0706 7.3891
-\i (00:24:30) trapsize 363
-\i (00:24:31) prepopup 44.0198 7.3237
-\i (00:24:32) oops 
-\t (00:24:32) last pick:  43.3440 7.0110
-\i (00:24:36) zoom out 1 
-\i (00:24:36) setwindow pcb
-\i (00:24:36) zoom out 42.5737 8.3265
-\i (00:24:36) trapsize 727
-\i (00:24:36) pick grid 43.4747 7.7597
-\t (00:24:36) last pick:  43.4750 7.7600
-\t (00:24:36) No DRC errors detected.
-\t (00:24:36) last pick:  43.3440 7.7600
-\i (00:24:37) add connect 
-\t (00:24:37) Pick first element.
-\i (00:24:37) zoom out 1 
-\i (00:24:37) setwindow pcb
-\i (00:24:37) zoom out 45.1897 6.2773
-\i (00:24:37) trapsize 1453
-\i (00:24:37) zoom out 1 
-\i (00:24:37) setwindow pcb
-\i (00:24:37) zoom out 45.2768 6.2772
-\i (00:24:37) trapsize 2907
-\i (00:24:38) zoom out 1 
-\i (00:24:38) setwindow pcb
-\i (00:24:38) zoom out 45.2768 6.2773
-\i (00:24:38) trapsize 5813
-\i (00:24:38) add connect 
-\t (00:24:38) Pick first element.
-\i (00:24:39) pick grid 15.9770 82.2012
-\t (00:24:39) last pick:  15.9770 82.2010
-\t (00:24:39) last pick:  15.9770 82.2010
-\i (00:24:41) pick grid 28.5341 29.2986
-\t (00:24:41) last pick:  28.5340 29.2990
-\t (00:24:41) No DRC errors detected.
-\i (00:24:42) pick grid 40.0448 27.2058
-\t (00:24:42) last pick:  40.0450 27.2060
-\t (00:24:42) No DRC errors detected.
-\i (00:24:43) pick grid 41.4400 7.4400
-\t (00:24:43) last pick:  41.4400 7.4400
-\t (00:24:43) No DRC errors detected.
-\i (00:24:43) add connect 
-\t (00:24:43) Pick first element.
-\i (00:24:44) pick grid 14.0004 82.6663
-\t (00:24:44) last pick:  14.0000 82.6660
-\t (00:24:44) last pick:  14.0000 82.6660
-\i (00:24:45) pick grid 28.9992 25.1129
-\t (00:24:45) last pick:  28.9990 25.1130
-\t (00:24:45) No DRC errors detected.
-\i (00:24:46) pick grid 37.4868 22.6713
-\t (00:24:46) last pick:  37.4870 22.6710
-\t (00:24:46) No DRC errors detected.
-\i (00:24:48) pick grid 33.7662 4.8820
-\t (00:24:48) last pick:  33.7660 4.8820
-\t (00:24:48) No DRC errors detected.
-\i (00:24:48) add connect 
-\t (00:24:48) Pick first element.
-\i (00:24:49) pick grid 9.9310 79.8758
-\t (00:24:49) last pick:  9.9310 79.8760
-\t (00:24:49) last pick:  9.9310 79.8760
-\i (00:24:50) pick grid 3.0711 26.7407
-\t (00:24:50) last pick:  3.0710 26.7410
-\t (00:24:50) No DRC errors detected.
-\i (00:24:51) pick grid 1.3270 20.2296
-\t (00:24:51) last pick:  1.3270 20.2300
-\t (00:24:51) No DRC errors detected.
-\i (00:24:52) add connect 
-\t (00:24:53) Pick first element.
-\i (00:24:55) add connect 
-\t (00:24:55) Pick first element.
-\i (00:24:55) pick grid 24.8135 41.5069
-\t (00:24:55) last pick:  24.8140 41.5070
-\t (00:24:55) last pick:  24.8140 41.5070
-\i (00:24:56) pick grid 31.7896 60.2263
-\t (00:24:56) last pick:  31.7900 60.2260
-\t (00:24:56) No DRC errors detected.
-\i (00:24:57) pick grid 32.3710 78.0155
-\t (00:24:57) last pick:  32.3710 78.0160
-\t (00:24:57) No DRC errors detected.
-\t (00:24:57) last pick:  31.7900 77.4350
-\i (00:24:57) add connect 
-\t (00:24:58) Pick first element.
-\i (00:24:58) pick grid 29.2317 78.3643
-\t (00:24:58) last pick:  29.2320 78.3640
-\t (00:24:58) last pick:  29.2320 78.3640
-\i (00:24:59) pick grid 21.2091 54.2965
-\t (00:24:59) last pick:  21.2090 54.2970
-\t (00:24:59) No DRC errors detected.
-\i (00:24:59) pick grid 22.0230 42.3208
-\t (00:24:59) last pick:  22.0230 42.3210
-\t (00:24:59) No DRC errors detected.
-\t (00:24:59) last pick:  21.2090 43.1350
-\i (00:24:59) add connect 
-\t (00:25:00) Pick first element.
-\i (00:25:00) add connect 
-\t (00:25:01) Pick first element.
-\i (00:25:01) pick grid 19.2325 45.4601
-\t (00:25:01) last pick:  19.2330 45.4600
-\t (00:25:01) last pick:  19.2330 45.4600
-\i (00:25:01) mouse_pos 20.3952 49.0644
-\i (00:25:01) mouse_pos 21.5579 54.9942
-\i (00:25:02) mouse_pos 22.1393 56.9707
-\i (00:25:02) pick grid 25.5111 62.3191
-\t (00:25:02) last pick:  25.5110 62.3190
-\t (00:25:02) No DRC errors detected.
-\i (00:25:02) mouse_pos 28.4178 68.9465
-\i (00:25:02) mouse_pos 30.2781 76.3877
-\i (00:25:03) zoom out 1 
-\i (00:25:03) setwindow pcb
-\i (00:25:03) zoom out 23.9996 83.8290
-\i (00:25:03) trapsize 11627
-\i (00:25:04) pick grid 34.2313 98.2464
-\t (00:25:04) last pick:  34.2310 98.2460
-\t (00:25:04) No DRC errors detected.
-\i (00:25:04) add connect 
-\t (00:25:05) Pick first element.
-\i (00:25:07) zoom out 1 
-\i (00:25:07) setwindow pcb
-\i (00:25:07) zoom out 48.1836 -24.7667
-\i (00:25:07) trapsize 23254
-\i (00:25:08) zoom in 1 
-\i (00:25:08) setwindow pcb
-\i (00:25:08) zoom in 27.2551 79.4107
-\i (00:25:08) trapsize 11627
-\i (00:25:08) zoom in 1 
-\i (00:25:08) setwindow pcb
-\i (00:25:08) zoom in 32.3710 44.7624
-\i (00:25:08) trapsize 5813
-\i (00:25:17) zoom in 1 
-\i (00:25:17) setwindow pcb
-\i (00:25:17) zoom in 45.0444 78.3643
-\i (00:25:17) trapsize 2907
-\i (00:25:17) zoom in 1 
-\i (00:25:17) setwindow pcb
-\i (00:25:17) zoom in 45.0444 78.3644
-\i (00:25:17) trapsize 1453
-\i (00:25:20) zoom out 1 
-\i (00:25:20) setwindow pcb
-\i (00:25:20) zoom out 43.6492 73.6846
-\i (00:25:20) trapsize 2907
-\i (00:25:21) zoom out 1 
-\i (00:25:21) setwindow pcb
-\i (00:25:21) zoom out 43.6491 73.6846
-\i (00:25:21) trapsize 5813
-\i (00:25:30) zoom out 1 
-\i (00:25:30) setwindow pcb
-\i (00:25:30) zoom out 61.2058 92.1714
-\i (00:25:30) trapsize 11627
-\i (00:25:30) zoom in 1 
-\i (00:25:30) setwindow pcb
-\i (00:25:30) zoom in 55.3923 58.2207
-\i (00:25:30) trapsize 5813
-\i (00:25:31) zoom out 1 
-\i (00:25:31) setwindow pcb
-\i (00:25:31) zoom out 74.6931 54.3839
-\i (00:25:31) trapsize 11627
-\i (00:25:32) pick grid 68.4145 99.2638
-\t (00:25:32) last pick:  68.4150 99.2640
-\t (00:25:32) last pick:  68.4150 99.2640
-\i (00:25:34) pick grid 75.3907 92.7527
-\t (00:25:34) last pick:  75.3910 92.7530
-\t (00:25:34) No DRC errors detected.
-\i (00:25:36) pick grid 79.5764 44.3847
-\t (00:25:36) last pick:  79.5760 44.3850
-\t (00:25:36) No DRC errors detected.
-\i (00:25:37) pick grid 71.4375 31.3625
-\t (00:25:37) last pick:  71.4380 31.3630
-\t (00:25:37) No DRC errors detected.
-\i (00:25:39) pick grid 60.2757 25.0839
-\t (00:25:39) last pick:  60.2760 25.0840
-\t (00:25:39) No DRC errors detected.
-\i (00:25:41) pick grid 61.9035 4.1554
-\t (00:25:41) last pick:  61.9040 4.1550
-\t (00:25:41) No DRC errors detected.
-\t (00:25:41) last pick:  60.2760 5.7830
-\i (00:25:41) prepopup 61.9035 4.1554
-\i (00:25:42) done 
-\i (00:25:42) shapeedit 
-\i (00:25:45) zoom in 1 
-\i (00:25:45) setwindow pcb
-\i (00:25:45) zoom in 84.9248 91.5900
-\i (00:25:45) trapsize 5813
-\i (00:25:46) zoom out 1 
-\i (00:25:46) setwindow pcb
-\i (00:25:46) zoom out 85.2737 66.8247
-\i (00:25:46) trapsize 11627
-\i (00:25:46) zoom in 1 
-\i (00:25:46) setwindow pcb
-\i (00:25:46) zoom in 68.5308 41.9430
-\i (00:25:46) trapsize 5813
-\i (00:26:16) add connect 
-\t (00:26:16) Pick first element.
-\i (00:26:18) setwindow form.mini
-\i (00:26:18) FORM mini lock_direction Off 
-\i (00:26:18) setwindow pcb
-\i (00:26:18) pick grid 83.4133 76.5913
-\t (00:26:18) last pick:  83.4130 76.5910
-\t (00:26:18) last pick:  83.4130 76.5910
-\i (00:26:19) pick grid 91.9010 66.5922
-\t (00:26:19) last pick:  91.9010 66.5920
-\t (00:26:19) No DRC errors detected.
-\i (00:26:19) pick grid 81.4368 58.9184
-\t (00:26:19) last pick:  81.4370 58.9180
-\t (00:26:19) No DRC errors detected.
-\i (00:26:19) pick grid 87.4828 45.8962
-\t (00:26:19) last pick:  87.4830 45.8960
-\t (00:26:19) No DRC errors detected.
-\i (00:26:20) pick grid 91.7847 32.1764
-\t (00:26:20) last pick:  91.7850 32.1760
-\t (00:26:20) No DRC errors detected.
-\i (00:26:20) pick grid 73.4142 28.3395
-\t (00:26:20) last pick:  73.4140 28.3400
-\t (00:26:20) No DRC errors detected.
-\i (00:26:21) pick grid 67.8332 21.3634
-\t (00:26:21) last pick:  67.8330 21.3630
-\t (00:26:21) No DRC errors detected.
-\i (00:26:21) pick grid 67.8332 11.4805
-\t (00:26:21) last pick:  67.8330 11.4810
-\t (00:26:21) No DRC errors detected.
-\i (00:26:22) pick grid 71.7864 9.2714
-\t (00:26:22) last pick:  71.7860 9.2710
-\t (00:26:22) No DRC errors detected.
-\i (00:26:23) prepopup 72.4840 19.2705
-\i (00:26:24) cancel 
-\i (00:26:25) shapeedit 
-\i (00:26:28) zoom out 1 
-\i (00:26:28) setwindow pcb
-\i (00:26:28) zoom out 83.9947 62.5227
-\i (00:26:28) trapsize 11627
-\i (00:26:29) zoom in 1 
-\i (00:26:29) setwindow pcb
-\i (00:26:29) zoom in 72.6003 77.4053
-\i (00:26:29) trapsize 5813
-\i (00:28:31) zoom in 1 
-\i (00:28:31) setwindow pcb
-\i (00:28:31) zoom in 56.3226 44.7336
-\i (00:28:31) trapsize 2907
-\i (00:28:31) zoom in 1 
-\i (00:28:31) setwindow pcb
-\i (00:28:31) zoom in 56.3808 44.3267
-\i (00:28:31) trapsize 1453
-\i (00:28:32) zoom out 1 
-\i (00:28:32) setwindow pcb
-\i (00:28:32) zoom out 59.5491 46.0417
-\i (00:28:32) trapsize 2907
-\i (00:28:32) zoom out 1 
-\i (00:28:32) setwindow pcb
-\i (00:28:32) zoom out 58.8514 45.9254
-\i (00:28:32) trapsize 5813
-\i (00:28:33) zoom in 1 
-\i (00:28:33) setwindow pcb
-\i (00:28:33) zoom in 52.8055 55.6920
-\i (00:28:33) trapsize 2907
-\i (00:28:36) zoom out 1 
-\i (00:28:36) setwindow pcb
-\i (00:28:36) zoom out 53.2706 57.0291
-\i (00:28:36) trapsize 5813
-\i (00:28:36) zoom out 1 
-\i (00:28:36) setwindow pcb
-\i (00:28:36) zoom out 52.5730 57.0291
-\i (00:28:36) trapsize 11627
-\i (00:28:42) zoom in 1 
-\i (00:28:42) setwindow pcb
-\i (00:28:42) zoom in 19.7850 11.6840
-\i (00:28:42) trapsize 5813
-\i (00:28:42) zoom in 1 
-\i (00:28:42) setwindow pcb
-\i (00:28:42) zoom in 21.1803 13.5444
-\i (00:28:42) trapsize 2907
-\i (00:28:44) add connect 
-\t (00:28:44) Pick first element.
-\i (00:28:44) prepopup -12.4797 35.4612
-\i (00:28:47) pop dyn_option_select '@:@Multi-Line Route...' 
-\i (00:28:48) pick grid -16.1422 37.3796
-\t (00:28:48) last pick:  -16.1420 37.3800
-\i (00:28:51) setwindow form.acon_ml
-\i (00:28:51) FORM acon_ml quantity 100 
-\i (00:28:51) FORM acon_ml ok  
-\t (00:28:51) last pick:  -16.1420 37.3800
-\t (00:28:51) last pick:  -16.1420 37.3800
-\i (00:28:53) setwindow pcb
-\i (00:28:53) zoom out 1 
-\i (00:28:53) setwindow pcb
-\i (00:28:53) zoom out -16.0840 16.1604
-\i (00:28:53) trapsize 5813
-\i (00:28:54) pick grid -16.0840 16.1605
-\t (00:28:54) last pick:  -16.0840 16.1610
-\t (00:28:54) No DRC errors detected.
-\t (00:28:54) last pick:  -16.2690 16.1610
-\i (00:28:56) setwindow form.mini
-\i (00:28:56) FORM mini lock_direction 45 
-\i (00:28:58) setwindow pcb
-\i (00:28:58) pick grid -7.7126 -6.1632
-\t (00:28:58) last pick:  -7.7130 -6.1630
-\t (00:28:58) No DRC errors detected.
-\i (00:28:59) pick grid 72.3970 -10.4652
-\t (00:28:59) last pick:  72.3970 -10.4650
-\t (00:28:59) No DRC errors detected.
-\i (00:29:00) pick grid 119.3698 6.3938
-\t (00:29:00) last pick:  119.3700 6.3940
-\t (00:29:00) No DRC errors detected.
-\i (00:29:02) pick grid 115.6492 55.9246
-\t (00:29:02) last pick:  115.6490 55.9250
-\t (00:29:02) No DRC errors detected.
-\t (00:29:02) last pick:  119.3700 52.2040
-\i (00:29:04) pick grid 116.1143 55.9246
-\t (00:29:04) last pick:  116.1140 55.9250
-\t (00:29:04) No DRC errors detected.
-\t (00:29:04) last pick:  119.3700 55.9250
-\i (00:29:04) pick grid dbl 116.1143 55.9246
-\t (00:29:04) last pick:  116.1140 55.9250
-\i (00:29:05) pick grid 109.1381 59.9940
-\t (00:29:05) last pick:  109.1380 59.9940
-\t (00:29:06) No DRC errors detected.
-\t (00:29:06) last pick:  119.3700 59.9940
-\i (00:29:06) pick grid dbl 109.1381 59.9940
-\t (00:29:06) last pick:  109.1380 59.9940
-\i (00:29:07) pick grid 113.7889 70.1095
-\t (00:29:07) last pick:  113.7890 70.1100
-\t (00:29:07) No DRC errors detected.
-\t (00:29:07) last pick:  119.3700 70.1100
-\i (00:29:07) pick grid dbl 113.7889 70.1095
-\t (00:29:07) last pick:  113.7890 70.1100
-\i (00:29:09) zoom out 1 
-\i (00:29:09) setwindow pcb
-\i (00:29:09) zoom out 113.9052 58.1337
-\i (00:29:09) trapsize 11627
-\i (00:29:11) pick grid 115.5329 86.7360
-\t (00:29:11) last pick:  115.5330 86.7360
-\t (00:29:11) No DRC errors detected.
-\t (00:29:11) last pick:  119.3700 86.7360
-\i (00:29:11) prepopup 115.5329 86.7360
-\i (00:29:11) done 
-\i (00:29:11) shapeedit 
-\i (00:29:11) zoom in 1 
-\i (00:29:11) setwindow pcb
-\i (00:29:11) zoom in 142.9725 84.1781
-\i (00:29:11) trapsize 5813
-\i (00:29:11) zoom in 1 
-\i (00:29:12) setwindow pcb
-\i (00:29:12) zoom in 143.9027 84.5269
-\i (00:29:12) trapsize 2907
-\i (00:29:13) setwindow form.mini
-\i (00:29:13) FORM mini subcolor 1 
-\i (00:29:13) setwindow pcb
-\i (00:29:13) zoom out 1 
-\i (00:29:13) setwindow pcb
-\i (00:29:13) zoom out 106.9290 66.7959
-\i (00:29:13) trapsize 5813
-\i (00:29:14) zoom out 1 
-\i (00:29:14) setwindow pcb
-\i (00:29:14) zoom out 157.9713 79.3529
-\i (00:29:14) trapsize 11627
-\i (00:29:26) delete 
-\i (00:29:27) drag_start grid 79.8383 90.2823
-\i (00:29:27) drag_stop 166.1102 49.8206
-\i (00:29:29) setwindow form.find
-\i (00:29:29) FORM find all_off  
-\i (00:29:31) FORM find clines YES 
-\i (00:29:32) setwindow pcb
-\i (00:29:32) pick grid 202.6188 80.5157
-\t (00:29:32) last pick:  202.6190 80.5160
-\i (00:29:32) drag_start grid 175.1792 92.3752
-\i (00:29:34) drag_stop 141.9262 63.3078
-\i (00:29:35) undo 
-\i (00:29:35) trapsize 11627
-\i (00:29:35) shapeedit 
-\i (00:30:09) delete 
-\i (00:30:11) setwindow form.find
-\i (00:30:11) FORM find all_off  
-\i (00:30:12) FORM find clines YES 
-\i (00:30:13) setwindow pcb
-\i (00:30:13) drag_start grid -35.0359 44.0071
-\i (00:30:14) drag_stop -2.7130 21.4508
-\i (00:30:15) pick grid -50.3834 52.3785
-\t (00:30:15) last pick:  -50.3830 52.3790
-\i (00:30:17) drag_start grid 175.6443 54.2388
-\i (00:30:18) drag_stop 103.7898 105.8624
-\i (00:30:19) pick grid 121.2302 105.8624
-\t (00:30:19) last pick:  121.2300 105.8620
-\i (00:30:19) zoom in 1 
-\i (00:30:19) setwindow pcb
-\i (00:30:19) zoom in 140.0658 77.4927
-\i (00:30:19) trapsize 5813
-\i (00:30:19) zoom in 1 
-\i (00:30:19) setwindow pcb
-\i (00:30:19) zoom in 139.7171 77.6090
-\i (00:30:19) trapsize 2907
-\i (00:30:21) pick grid 80.4197 89.1778
-\t (00:30:21) last pick:  80.4200 89.1780
-\i (00:30:22) undo 
-\i (00:30:22) trapsize 11627
-\i (00:30:22) undo 
-\i (00:30:22) trapsize 2907
-\i (00:30:22) shapeedit 
-\i (00:30:22) undo 
-\i (00:30:22) trapsize 5813
-\i (00:30:22) shapeedit 
-\i (00:30:22) undo 
-\i (00:30:22) trapsize 11627
-\i (00:30:23) shapeedit 
-\i (00:30:24) redo 
-\i (00:30:24) trapsize 11627
-\i (00:30:24) replay C:/Users/CAO-PCB/AppData/Local/Temp/#Taaaaaq08896.tmp 
-\i (00:30:24) scriptmode +i 
-\i (00:30:24) add connect 
-\t (00:30:24) Pick first element.
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom out 48.1836 -24.7667 
-\i (00:30:24) zoom out 48.1836 -24.7667
-\i (00:30:24) trapsize 23254
-\i (00:30:24) trapsize 23254 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom in 27.2551 79.4107 
-\i (00:30:24) zoom in 27.2551 79.4107
-\i (00:30:24) trapsize 11627
-\i (00:30:24) trapsize 11627 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom in 32.3710 44.7624 
-\i (00:30:24) zoom in 32.3710 44.7624
-\i (00:30:24) trapsize 5813
-\i (00:30:24) trapsize 5813 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom in 45.0444 78.3643 
-\i (00:30:24) zoom in 45.0444 78.3643
-\i (00:30:24) trapsize 2907
-\i (00:30:24) trapsize 2907 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom in 45.0444 78.3644 
-\i (00:30:24) zoom in 45.0444 78.3644
-\i (00:30:24) trapsize 1453
-\i (00:30:24) trapsize 1453 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom out 43.6492 73.6846 
-\i (00:30:24) zoom out 43.6492 73.6846
-\i (00:30:24) trapsize 2907
-\i (00:30:24) trapsize 2907 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom out 43.6491 73.6846 
-\i (00:30:24) zoom out 43.6491 73.6846
-\i (00:30:24) trapsize 5813
-\i (00:30:24) trapsize 5813 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom out 61.2058 92.1714 
-\i (00:30:24) zoom out 61.2058 92.1714
-\i (00:30:24) trapsize 11627
-\i (00:30:24) trapsize 11627 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom in 55.3923 58.2207 
-\i (00:30:24) zoom in 55.3923 58.2207
-\i (00:30:24) trapsize 5813
-\i (00:30:24) trapsize 5813 
-\i (00:30:24) setwindow pcb 
-\i (00:30:24) zoom out 74.6931 54.3839 
-\i (00:30:25) zoom out 74.6931 54.3839
-\i (00:30:25) trapsize 11627
-\i (00:30:25) trapsize 11627 
-\i (00:30:25) pick grid 68.4145 99.2638 
-\t (00:30:25) last pick:  68.4150 99.2640
-\t (00:30:25) last pick:  68.4150 99.2640
-\i (00:30:25) pick grid 75.3907 92.7527 
-\t (00:30:25) last pick:  75.3910 92.7530
-\t (00:30:25) No DRC errors detected.
-\i (00:30:25) pick grid 79.5764 44.3847 
-\t (00:30:25) last pick:  79.5760 44.3850
-\t (00:30:25) No DRC errors detected.
-\i (00:30:25) pick grid 71.4375 31.3625 
-\t (00:30:25) last pick:  71.4380 31.3630
-\t (00:30:25) No DRC errors detected.
-\i (00:30:25) pick grid 60.2757 25.0839 
-\t (00:30:25) last pick:  60.2760 25.0840
-\t (00:30:25) No DRC errors detected.
-\i (00:30:25) pick grid 61.9035 4.1554 
-\t (00:30:25) last pick:  61.9040 4.1550
-\t (00:30:25) No DRC errors detected.
-\t (00:30:25) last pick:  60.2760 5.7830
-\i (00:30:25) prepopup 61.9035 4.1554 
-\i (00:30:25) prepopup 61.9035 4.1554
-\i (00:30:25) done 
-\i (00:30:25) trapsize 11627
-\i (00:30:25) shapeedit 
-\i (00:30:26) zoom out 1 
-\i (00:30:26) setwindow pcb
-\i (00:30:26) zoom out 0.9783 84.1488
-\i (00:30:26) trapsize 23254
-\i (00:30:26) zoom in 1 
-\i (00:30:26) setwindow pcb
-\i (00:30:26) zoom in 63.7638 39.5013
-\i (00:30:26) trapsize 11627
-\i (00:30:27) zoom in 1 
-\i (00:30:27) setwindow pcb
-\i (00:30:27) zoom in 35.3941 101.1242
-\i (00:30:27) trapsize 5813
-\i (00:30:27) zoom out 1 
-\i (00:30:27) setwindow pcb
-\i (00:30:27) zoom out 37.4869 94.9619
-\i (00:30:27) trapsize 11627
-\i (00:30:35) save 
-\i (00:30:38) fillin yes 
-\i (00:30:38) shapeedit 
-\i (00:30:41) zoom in 1 
-\i (00:30:41) setwindow pcb
-\i (00:30:41) zoom in 47.4862 75.8937
-\i (00:30:41) trapsize 5813
-\i (00:30:44) zoom fit 
-\i (00:30:44) trapsize 5813
-\i (00:30:58) zoom in 1 
-\i (00:30:58) setwindow pcb
-\i (00:30:58) zoom in 10.8755 51.6000
-\i (00:30:58) trapsize 2907
-\i (00:30:58) zoom in 1 
-\i (00:30:58) setwindow pcb
-\i (00:30:58) zoom in 10.8756 51.6000
-\i (00:30:58) trapsize 1453
-\i (00:30:59) zoom out 1 
-\i (00:30:59) setwindow pcb
-\i (00:30:59) zoom out 13.8405 52.7336
-\i (00:30:59) trapsize 2907
-\i (00:31:00) zoom out 1 
-\i (00:31:00) setwindow pcb
-\i (00:31:00) zoom out 13.3173 52.7337
-\i (00:31:00) trapsize 5813
-\i (00:31:00) zoom in 1 
-\i (00:31:00) setwindow pcb
-\i (00:31:00) zoom in 14.5962 52.8499
-\i (00:31:00) trapsize 2907
-\i (00:31:00) zoom in 1 
-\i (00:31:00) setwindow pcb
-\i (00:31:00) zoom in 14.5963 52.8499
-\i (00:31:00) trapsize 1453
-\i (00:31:01) zoom out 1 
-\i (00:31:01) setwindow pcb
-\i (00:31:01) zoom out 13.3174 52.2104
-\i (00:31:01) trapsize 2907
-\i (00:31:01) zoom out 1 
-\i (00:31:01) setwindow pcb
-\i (00:31:01) zoom out 13.3173 52.2104
-\i (00:31:01) trapsize 5813
-\i (00:31:43) zoom in 1 
-\i (00:31:43) setwindow pcb
-\i (00:31:43) zoom in 59.5925 8.6095
-\i (00:31:43) trapsize 2907
-\i (00:31:43) zoom out 1 
-\i (00:31:43) setwindow pcb
-\i (00:31:43) zoom out 64.1270 32.9098
-\i (00:31:43) trapsize 5813
-\i (00:31:44) zoom in 1 
-\i (00:31:44) setwindow pcb
-\i (00:31:44) zoom in 49.5934 22.7944
-\i (00:31:44) trapsize 2907
-\i (00:31:45) zoom out 1 
-\i (00:31:45) setwindow pcb
-\i (00:31:45) zoom out 49.1864 25.0035
-\i (00:31:45) trapsize 5813
-\i (00:31:46) zoom out 1 
-\i (00:31:46) setwindow pcb
-\i (00:31:46) zoom out 43.3730 -1.2733
-\i (00:31:46) trapsize 11627
-\i (00:31:46) zoom in 1 
-\i (00:31:46) setwindow pcb
-\i (00:31:46) zoom in 68.9522 99.1833
-\i (00:31:46) trapsize 5813
-\i (00:33:31) zoom out 1 
-\i (00:33:31) setwindow pcb
-\i (00:33:31) zoom out 49.0702 84.8822
-\i (00:33:31) trapsize 11627
-\i (00:33:32) zoom in 1 
-\i (00:33:32) setwindow pcb
-\i (00:33:32) zoom in 66.9756 15.8183
-\i (00:33:32) trapsize 5813
-\i (00:33:49) zcopy shape 
-\t (00:33:49) Select cline, shape, rectangle or closed polygon.
-   (00:33:49) Loading cmds.cxt 
-   (00:33:49) Loading axlcore.cxt 
-\i (00:33:51) setwindow form.mini
-\i (00:33:51) FORM mini class_name BOARD GEOMETRY 
-\i (00:33:55) FORM mini subclass_name SILKSCREEN_BOTTOM 
-\i (00:33:55) setwindow pcb
-\i (00:33:55) zoom in 1 
-\i (00:33:55) setwindow pcb
-\i (00:33:55) zoom in 93.8338 7.3307
-\i (00:33:55) trapsize 2907
-\i (00:33:56) zoom in 1 
-\i (00:33:56) setwindow pcb
-\i (00:33:56) zoom in 91.1597 8.1446
-\i (00:33:56) trapsize 1453
-\i (00:33:58) pick 90.3748 19.0449
-\t (00:33:58) last pick:  90.3748 19.0449
-\i (00:33:59) pick 90.3748 19.1321
-\t (00:33:59) last pick:  90.3748 19.1321
-\i (00:34:00) prepopup 97.2928 20.8761
-\i (00:34:00) pop Done 
-\i (00:34:01) shapeedit 
-\i (00:34:02) setwindow form.mini
-\i (00:34:02) FORM mini class BOARD GEOMETRY 
-\i (00:34:03) FORM mini subclass SILKSCREEN_TOP 
-\i (00:34:04) FORM mini subcolor 0 
-\i (00:34:05) FORM mini subclass SILKSCREEN_BOTTOM 
-\i (00:34:06) FORM mini subcolor 0 
-\i (00:34:06) FORM mini subcolor 1 
-\i (00:34:07) FORM mini subcolor 0 
-\i (00:34:07) FORM mini subcolor 1 
-\i (00:34:07) FORM mini subcolor 0 
-\i (00:34:07) FORM mini subcolor 1 
-\i (00:34:08) FORM mini subcolor 0 
-\i (00:34:08) FORM mini subcolor 1 
-\i (00:34:08) FORM mini subcolor 0 
-\i (00:34:09) FORM mini subcolor 1 
-\i (00:34:11) FORM mini subclass SILKSCREEN_TOP 
-\i (00:34:11) FORM mini subcolor 1 
-\i (00:34:15) setwindow pcb
-\i (00:34:15) zoom out 1 
-\i (00:34:15) setwindow pcb
-\i (00:34:15) zoom out 102.4087 18.7251
-\i (00:34:15) trapsize 2907
-\i (00:34:15) zoom out 1 
-\i (00:34:15) setwindow pcb
-\i (00:34:15) zoom out 100.8972 17.6206
-\i (00:34:15) trapsize 5813
-\i (00:34:16) zoom out 1 
-\i (00:34:16) setwindow pcb
-\i (00:34:16) zoom out 50.0877 -8.8887
-\i (00:34:16) trapsize 11627
-\i (00:34:17) zoom in 1 
-\i (00:34:17) setwindow pcb
-\i (00:34:17) zoom in 53.3431 59.4775
-\i (00:34:17) trapsize 5813
-\i (00:34:18) zoom out 1 
-\i (00:34:18) setwindow pcb
-\i (00:34:18) zoom out 51.3665 35.7586
-\i (00:34:18) trapsize 11627
-\i (00:34:22) save 
-\i (00:34:23) fillin yes 
-\i (00:34:23) shapeedit 
-\i (00:37:04) open 
-\i (00:37:19) fillin "C:\Users\CAO-PCB\Desktop\Yello\pcb\Rev3\Flex_led_security_left_3AA007\Board\Board_54\3AA007_54.brd"
-\i (00:37:19) cd "C:\Users\CAO-PCB\Desktop\Yello\pcb\Rev3\Flex_led_security_left_3AA007\Board\Board_54"
-\t (00:37:19) Opening existing design...
-\i (00:37:19) trapsize 267
-\t (00:37:20)     Journal end - Mon Jan 30 11:44:51 2017
+\t (00:00:04) allegro 16.6-2015 S069 (v16-6-112FP) Windows 32
+\t (00:00:04)     Journal start - Sat Feb 18 20:25:01 2017
+\t (00:00:04)         Host=DESKTOP-K8Q8V1Q User=CAO-PCB Pid=16056 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -ORCAD
+\t (00:00:04) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd
+\i (00:00:05) trapsize 2999
+\i (00:00:05) trapsize 2945
+\i (00:00:05) trapsize 3008
+\i (00:00:05) trapsize 3113
+\i (00:00:05) trapsize 3113
+\i (00:00:05) shapeedit 
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 47.9289 66.6159
+\i (00:00:37) trapsize 6226
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 49.2986 63.7520
+\i (00:00:38) trapsize 12452
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 50.2948 65.4953
+\i (00:00:39) trapsize 6226
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 70.4671 47.1908
+\i (00:00:40) trapsize 3113
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 73.3934 46.0701
+\i (00:00:40) trapsize 1557
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 73.4246 45.5098
+\i (00:00:41) trapsize 3113
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 73.4245 45.0739
+\i (00:00:41) trapsize 6226
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 48.3960 42.2100
+\i (00:00:42) trapsize 3113
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 49.4545 42.8327
+\i (00:01:13) trapsize 6226
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 44.5981 57.2770
+\i (00:01:13) trapsize 3113
+\i (00:02:09) flipdesign 
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in 51.5090 62.1333
+\i (00:02:29) trapsize 1557
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out 51.4779 62.0711
+\i (00:02:30) trapsize 3113
+\i (00:02:31) zoom in 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom in 66.0467 74.0872
+\i (00:02:31) trapsize 1557
+\i (00:02:32) zoom out 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom out 58.8868 69.5111
+\i (00:02:32) trapsize 3113
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 61.2527 75.9240
+\i (00:02:33) trapsize 1557
+\i (00:02:42) zoom out 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom out 58.2020 67.8613
+\i (00:02:42) trapsize 3113
+\i (00:02:43) zoom in 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom in 50.6062 72.0951
+\i (00:02:43) trapsize 1557
+\i (00:02:47) zoom points 
+\t (00:02:47) Pick 1st corner of the new window.
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 68.0702 78.3834
+\i (00:02:48) trapsize 3113
+\i (00:02:49) drag_start 71.6813 78.1966
+\i (00:02:50) drag_stop 27.0407 52.3586
+\i (00:02:50) trapsize 1593
+\i (00:02:50) shapeedit 
+\i (00:02:51) zoom out 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom out 38.1971 61.5978
+\i (00:02:51) trapsize 3186
+\i (00:02:52) zoom in 1 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) zoom in 53.0436 68.6707
+\i (00:02:52) trapsize 1593
+\i (00:02:53) prepopup 55.7517 69.6265
+\i (00:02:53) pick grid 52.9162 71.6336
+\t (00:02:53) last pick:  52.9160 71.6340
+\i (00:03:08) zoom out 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom out 51.5781 70.2637
+\i (00:03:08) trapsize 3186
+\i (00:03:10) zoom in 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom in 51.3232 70.2637
+\i (00:03:10) trapsize 1593
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out 51.9604 71.1876
+\i (00:03:10) trapsize 3186
+\i (00:03:12) zoom points 
+\t (00:03:12) Pick 1st corner of the new window.
+\i (00:03:13) pick 100.7692 86.8625
+\t (00:03:13) last pick:  100.7692 86.8625
+\t (00:03:13) Pick to complete the window.
+\i (00:03:14) pick 18.4444 48.4400
+\t (00:03:14) last pick:  18.4444 48.4400
+\i (00:03:14) trapsize 2607
+\i (00:03:14) shapeedit 
+\i (00:03:16) pick grid 96.3898 83.5779
+\t (00:03:16) last pick:  96.3900 83.5780
+\i (00:03:21) pick grid 87.3179 61.4196
+\t (00:03:21) last pick:  87.3180 61.4200
+\e (00:03:22) Command not found: yout~1~S1~S2~S3~S4~S5RightRightRight
+\i (00:03:22) roam x 96 
+\i (00:03:22) roam x 96
+\i (00:03:23) roam x 96 
+\i (00:03:23) roam x 96
+\i (00:03:23) roam x -96 
+\i (00:03:23) roam x -96
+\i (00:03:25) zoom in 1 
+\i (00:03:25) setwindow pcb
+\i (00:03:25) zoom in 46.5997 71.8992
+\i (00:03:25) trapsize 1303
+\i (00:03:26) zoom out 1 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) zoom out 48.3724 69.9962
+\i (00:03:26) trapsize 2607
+\i (00:03:29) zoom points 
+\t (00:03:29) Pick 1st corner of the new window.
+\i (00:03:30) drag_start 90.2909 85.2724
+\i (00:03:30) drag_stop 89.3003 84.0732
+\i (00:03:30) trapsize 74
+\i (00:03:30) shapeedit 
+\i (00:03:31) zoom out 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 89.2825 84.7253
+\i (00:03:31) trapsize 148
+\i (00:03:31) zoom out 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 89.2824 84.7253
+\i (00:03:31) trapsize 296
+\i (00:03:31) zoom out 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 89.2825 84.7253
+\i (00:03:31) trapsize 591
+\i (00:03:31) zoom out 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 89.2825 84.7253
+\i (00:03:31) trapsize 1183
+\i (00:03:31) zoom out 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 89.2824 84.7252
+\i (00:03:31) trapsize 2366
+\i (00:03:31) zoom out 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 89.2823 84.7253
+\i (00:03:31) trapsize 4732
+\i (00:03:31) zoom out 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 89.2824 84.7253
+\i (00:03:31) trapsize 9464
+\i (00:03:32) zoom in 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 44.9929 53.6849
+\i (00:03:32) trapsize 4732
+\i (00:03:32) zoom in 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 44.5198 51.6976
+\i (00:03:32) trapsize 2366
+\i (00:03:34) zoom points 
+\t (00:03:34) Pick 1st corner of the new window.
+\i (00:03:35) drag_start 82.6579 74.5521
+\i (00:03:36) drag_stop 20.4825 42.2341
+\i (00:03:36) trapsize 1992
+\i (00:03:36) shapeedit 
+\i (00:03:37) roam y -96 
+\i (00:03:37) roam y -96
+\i (00:03:38) roam y -96 
+\i (00:03:38) roam y -96
+\i (00:03:44) roam x 96 
+\i (00:03:44) roam x 96
+\i (00:03:45) roam x -96 
+\i (00:03:45) roam x -96
+\i (00:03:46) roam x -96 
+\i (00:03:46) roam x -96
+\i (00:03:46) roam x 96 
+\i (00:03:46) roam x 96
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out 50.0450 67.0210
+\i (00:04:04) trapsize 3985
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in 50.2842 67.1006
+\i (00:04:05) trapsize 1992
+\i (00:04:07) zoom out 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom out 51.2804 66.0247
+\i (00:04:07) trapsize 3985
+\i (00:04:09) zoom fit 
+\i (00:04:09) trapsize 6226
+\i (00:04:09) rats all 
+\i (00:04:09) shapeedit 
+\i (00:04:11) drag_start grid 80.3208 77.8116
+\i (00:04:12) drag_stop 20.5508 37.0933
+\i (00:04:13) zoom points 
+\t (00:04:13) Pick 1st corner of the new window.
+\i (00:04:14) drag_start 81.5660 78.5588
+\i (00:04:16) drag_stop 26.0297 38.3385
+\i (00:04:16) trapsize 2480
+\i (00:04:16) shapeedit 
+\i (00:04:17) roam x 96 
+\i (00:04:17) roam x 96
+\i (00:04:18) roam x 96 
+\i (00:04:18) roam x 96
+\i (00:04:18) roam y 96 
+\i (00:04:18) roam y 96
+\i (00:04:18) roam y 96 
+\i (00:04:18) roam y 96
+\i (00:04:18) roam x -96 
+\i (00:04:18) roam x -96
+\i (00:04:19) roam x -96 
+\i (00:04:19) roam x -96
+\i (00:04:19) roam x -96 
+\i (00:04:19) roam x -96
+\i (00:04:19) roam y -96 
+\i (00:04:19) roam y -96
+\i (00:04:19) roam y -96 
+\i (00:04:19) roam y -96
+\i (00:04:20) roam y -96 
+\i (00:04:20) roam y -96
+\i (00:04:20) roam x 96 
+\i (00:04:20) roam x 96
+\i (00:04:21) roam x -96 
+\i (00:04:21) roam x -96
+\i (00:04:21) roam x -96 
+\i (00:04:21) roam x -96
+\i (00:04:30) zoom out 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom out 54.7232 72.7752
+\i (00:04:30) trapsize 4959
+\i (00:04:30) zoom in 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom in 51.7476 69.7004
+\i (00:04:30) trapsize 2480
+\i (00:04:31) zoom in 1 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) zoom in 51.6980 69.7004
+\i (00:04:31) trapsize 1240
+\i (00:04:32) zoom out 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out 51.6980 70.2708
+\i (00:04:32) trapsize 2480
+\i (00:04:58) add line 
+\i (00:05:01) setwindow form.mini
+\i (00:05:01) FORM mini class BOARD GEOMETRY 
+\i (00:05:05) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:05:07) setwindow pcb
+\i (00:05:07) pick grid 59.2362 73.6927
+\t (00:05:07) last pick:  59.2360 73.6930
+\i (00:05:09) pick grid 59.4842 71.6098
+\t (00:05:09) last pick:  59.4840 71.6100
+\i (00:05:09) pick grid 59.0378 70.9651
+\t (00:05:09) last pick:  59.0380 70.9650
+\i (00:05:10) pick grid 58.5915 73.3455
+\t (00:05:10) last pick:  58.5920 73.3460
+\i (00:05:11) pick grid 59.0874 73.7423
+\t (00:05:11) last pick:  59.0870 73.7420
+\t (00:05:11) last pick:  59.2360 73.6930
+\i (00:05:11) prepopup 59.0874 73.7423
+\i (00:05:11) done 
+\i (00:05:11) shapeedit 
+\i (00:05:12) pick grid 58.9386 70.9155
+\t (00:05:12) last pick:  58.9390 70.9160
+\i (00:05:13) add line 
+\i (00:05:14) pick grid 59.0874 71.2130
+\t (00:05:14) last pick:  59.0870 71.2130
+\t (00:05:14) last pick:  59.0380 70.9650
+\i (00:05:15) pick grid 59.0378 70.4691
+\t (00:05:15) last pick:  59.0380 70.4690
+\i (00:05:15) pick grid 58.3931 69.9236
+\t (00:05:15) last pick:  58.3930 69.9240
+\t (00:05:15) last pick:  57.9790 70.3300
+\i (00:05:16) prepopup 59.1370 69.7252
+\i (00:05:17) done 
+\i (00:05:17) shapeedit 
+\i (00:05:18) add line 
+\i (00:05:21) pick grid 44.0110 73.6927
+\t (00:05:21) last pick:  44.0110 73.6930
+\i (00:05:22) pick grid 43.3663 73.9407
+\t (00:05:22) last pick:  43.3660 73.9410
+\i (00:05:23) pick grid 43.1183 72.2545
+\t (00:05:23) last pick:  43.1180 72.2550
+\i (00:05:23) pick grid 43.6142 71.9569
+\t (00:05:23) last pick:  43.6140 71.9570
+\i (00:05:24) pick grid 43.9118 73.7919
+\t (00:05:24) last pick:  43.9120 73.7920
+\t (00:05:24) last pick:  44.0110 73.6930
+\i (00:05:25) pick grid 43.6142 72.0561
+\t (00:05:25) last pick:  43.6140 72.0560
+\i (00:05:26) pick grid 43.7134 71.2626
+\t (00:05:26) last pick:  43.7130 71.2630
+\i (00:05:27) pick grid 44.6061 70.4691
+\t (00:05:27) last pick:  44.6060 70.4690
+\t (00:05:27) last pick:  45.0140 70.4710
+\i (00:05:27) prepopup 44.6061 70.4691
+\i (00:05:27) done 
+\i (00:05:27) shapeedit 
+\i (00:05:30) add line 
+\i (00:05:31) add line 
+\i (00:05:32) pick grid 51.4996 77.2634
+\t (00:05:32) last pick:  51.5000 77.2630
+\t (00:05:32) last pick:  51.3730 77.4530
+\i (00:05:33) pick grid 51.4996 76.9659
+\t (00:05:33) last pick:  51.5000 76.9660
+\i (00:05:34) pick grid 51.4996 76.4699
+\t (00:05:34) last pick:  51.5000 76.4700
+\i (00:05:34) pick grid 51.5492 76.1228
+\t (00:05:34) last pick:  51.5490 76.1230
+\i (00:05:34) pick grid 51.5492 75.8748
+\t (00:05:34) last pick:  51.5490 75.8750
+\i (00:05:34) pick grid 51.5492 75.5772
+\t (00:05:34) last pick:  51.5490 75.5770
+\i (00:05:34) pick grid 51.5492 75.3789
+\t (00:05:34) last pick:  51.5490 75.3790
+\i (00:05:34) pick grid 51.4996 75.1805
+\t (00:05:34) last pick:  51.5000 75.1810
+\i (00:05:35) pick grid 51.4500 74.9821
+\t (00:05:35) last pick:  51.4500 74.9820
+\i (00:05:35) pick grid 51.4996 74.6846
+\t (00:05:35) last pick:  51.5000 74.6850
+\i (00:05:35) pick grid 51.5988 74.3870
+\t (00:05:35) last pick:  51.5990 74.3870
+\i (00:05:35) pick grid 51.6484 74.1886
+\t (00:05:35) last pick:  51.6480 74.1890
+\i (00:05:35) pick grid 51.8468 73.9903
+\t (00:05:35) last pick:  51.8470 73.9900
+\i (00:05:35) pick grid 51.9955 73.9903
+\t (00:05:35) last pick:  51.9960 73.9900
+\i (00:05:36) pick grid 52.5411 73.9903
+\t (00:05:36) last pick:  52.5410 73.9900
+\i (00:05:36) pick grid 52.8882 73.9407
+\t (00:05:36) last pick:  52.8880 73.9410
+\i (00:05:36) pick grid 53.2850 73.9407
+\t (00:05:36) last pick:  53.2850 73.9410
+\i (00:05:36) pick grid 53.6321 73.8911
+\t (00:05:36) last pick:  53.6320 73.8910
+\i (00:05:36) pick grid 54.0785 73.8415
+\t (00:05:36) last pick:  54.0790 73.8420
+\i (00:05:37) pick grid 54.6736 73.6431
+\t (00:05:37) last pick:  54.6740 73.6430
+\i (00:05:37) pick grid 55.3183 73.5935
+\t (00:05:37) last pick:  55.3180 73.5940
+\t (00:05:37) last pick:  55.5880 73.6820
+\i (00:05:37) pick grid 55.3183 73.5935
+\t (00:05:37) last pick:  55.3180 73.5940
+\i (00:05:37) prepopup 55.7151 73.4447
+\i (00:05:38) done 
+\i (00:05:38) shapeedit 
+\i (00:05:39) add line 
+\i (00:05:40) pick grid 50.9045 77.3130
+\t (00:05:40) last pick:  50.9050 77.3130
+\t (00:05:40) last pick:  50.7820 77.4030
+\i (00:05:40) pick grid 50.8549 77.0651
+\t (00:05:40) last pick:  50.8550 77.0650
+\t (00:05:40) last pick:  50.7820 77.4030
+\t (00:05:40) last pick:  50.7820 77.4030
+\w (00:05:40) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:05:40) pick grid 50.8053 76.9163
+\t (00:05:40) last pick:  50.8050 76.9160
+\i (00:05:40) pick grid 50.8053 76.6683
+\t (00:05:40) last pick:  50.8050 76.6680
+\i (00:05:41) pick grid 50.8053 76.2220
+\t (00:05:41) last pick:  50.8050 76.2220
+\i (00:05:41) pick grid 50.8053 75.7756
+\t (00:05:41) last pick:  50.8050 75.7760
+\i (00:05:41) pick grid 50.7557 75.4781
+\t (00:05:41) last pick:  50.7560 75.4780
+\i (00:05:41) pick grid 50.7557 75.0317
+\t (00:05:41) last pick:  50.7560 75.0320
+\i (00:05:41) pick grid 50.7557 74.6846
+\t (00:05:41) last pick:  50.7560 74.6850
+\i (00:05:41) pick grid 50.7557 74.4366
+\t (00:05:41) last pick:  50.7560 74.4370
+\i (00:05:42) pick grid 50.7557 74.1886
+\t (00:05:42) last pick:  50.7560 74.1890
+\i (00:05:42) pick grid 50.5077 74.0398
+\t (00:05:42) last pick:  50.5080 74.0400
+\i (00:05:42) pick grid 50.0614 74.0398
+\t (00:05:42) last pick:  50.0610 74.0400
+\i (00:05:42) pick grid 49.7638 73.9903
+\t (00:05:42) last pick:  49.7640 73.9900
+\i (00:05:42) pick grid 49.4663 73.9407
+\t (00:05:42) last pick:  49.4660 73.9410
+\i (00:05:42) pick grid 49.1191 73.9407
+\t (00:05:42) last pick:  49.1190 73.9410
+\i (00:05:43) pick grid 48.6728 73.9407
+\t (00:05:43) last pick:  48.6730 73.9410
+\i (00:05:43) pick grid 48.6728 73.9407
+\t (00:05:43) last pick:  48.6730 73.9410
+\t (00:05:43) last pick:  48.6730 73.9410
+\w (00:05:43) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\e (00:05:43) ERROR(SPMHA1-415): Line segments cannot overlap.
+\t (00:05:43) last pick:  49.1190 73.9410
+\i (00:05:43) pick grid 48.2760 73.9407
+\t (00:05:43) last pick:  48.2760 73.9410
+\i (00:05:43) pick grid 47.7305 73.8911
+\t (00:05:43) last pick:  47.7310 73.8910
+\t (00:05:43) last pick:  47.4300 73.8050
+\i (00:05:43) pick grid dbl 47.7305 73.8911
+\t (00:05:43) last pick:  47.7310 73.8910
+\i (00:05:44) prepopup 47.5817 73.8415
+\i (00:05:44) done 
+\i (00:05:44) shapeedit 
+\i (00:05:47) add line 
+\i (00:05:48) pick grid 55.7646 71.2626
+\t (00:05:48) last pick:  55.7650 71.2630
+\t (00:05:48) last pick:  56.0320 71.3160
+\i (00:05:48) pick grid 55.4671 71.4114
+\t (00:05:48) last pick:  55.4670 71.4110
+\i (00:05:48) pick grid 55.1695 71.7090
+\t (00:05:48) last pick:  55.1700 71.7090
+\i (00:05:48) pick grid 54.4752 72.0561
+\t (00:05:48) last pick:  54.4750 72.0560
+\i (00:05:48) pick grid 53.7809 72.2049
+\t (00:05:48) last pick:  53.7810 72.2050
+\i (00:05:48) pick grid 53.3346 72.3537
+\t (00:05:48) last pick:  53.3350 72.3540
+\i (00:05:49) pick grid 52.5411 72.4529
+\t (00:05:49) last pick:  52.5410 72.4530
+\i (00:05:49) pick grid 51.7972 72.4529
+\t (00:05:49) last pick:  51.7970 72.4530
+\i (00:05:49) pick grid 51.1029 72.4529
+\t (00:05:49) last pick:  51.1030 72.4530
+\i (00:05:49) pick grid 50.1606 72.4529
+\t (00:05:49) last pick:  50.1610 72.4530
+\i (00:05:49) pick grid 49.5655 72.4529
+\t (00:05:49) last pick:  49.5660 72.4530
+\i (00:05:50) pick grid 48.7224 72.4529
+\t (00:05:50) last pick:  48.7220 72.4530
+\i (00:05:50) pick grid 48.1768 72.4033
+\t (00:05:50) last pick:  48.1770 72.4030
+\i (00:05:50) pick grid 47.7801 72.2545
+\t (00:05:50) last pick:  47.7800 72.2550
+\i (00:05:50) pick grid 47.4329 72.0561
+\t (00:05:50) last pick:  47.4330 72.0560
+\i (00:05:50) pick grid 47.1850 71.8577
+\t (00:05:50) last pick:  47.1850 71.8580
+\i (00:05:50) pick grid 46.9866 71.6098
+\t (00:05:50) last pick:  46.9870 71.6100
+\i (00:05:51) pick grid 46.9370 71.3618
+\t (00:05:51) last pick:  46.9370 71.3620
+\t (00:05:51) last pick:  46.8630 71.2170
+\i (00:05:51) pick grid 46.9370 71.2626
+\t (00:05:51) last pick:  46.9370 71.2630
+\i (00:05:51) prepopup 46.9370 71.1634
+\i (00:05:51) done 
+\i (00:05:51) shapeedit 
+\i (00:06:42) add line 
+\i (00:06:47) pick grid 51.6484 70.0724
+\t (00:06:47) last pick:  51.6480 70.0720
+\i (00:06:47) pick grid 51.8468 70.0228
+\t (00:06:47) last pick:  51.8470 70.0230
+\i (00:06:47) pick grid 51.8964 69.8740
+\t (00:06:47) last pick:  51.8960 69.8740
+\i (00:06:48) pick grid 52.1443 69.5268
+\t (00:06:48) last pick:  52.1440 69.5270
+\i (00:06:48) pick grid 52.1443 69.3285
+\t (00:06:48) last pick:  52.1440 69.3290
+\i (00:06:48) pick grid 52.1939 69.0309
+\t (00:06:48) last pick:  52.1940 69.0310
+\i (00:06:48) pick grid 52.1939 68.6838
+\t (00:06:48) last pick:  52.1940 68.6840
+\i (00:06:48) pick grid 52.1443 68.4854
+\t (00:06:48) last pick:  52.1440 68.4850
+\i (00:06:48) pick grid 52.0947 68.1878
+\t (00:06:48) last pick:  52.0950 68.1880
+\i (00:06:49) pick grid 52.0451 67.6423
+\t (00:06:49) last pick:  52.0450 67.6420
+\i (00:06:49) pick grid 51.9955 67.2951
+\t (00:06:49) last pick:  51.9960 67.2950
+\i (00:06:49) pick grid dbl 52.0451 67.1959
+\t (00:06:49) last pick:  52.0450 67.1960
+\i (00:06:49) pick grid 52.3923 67.6423
+\t (00:06:49) last pick:  52.3920 67.6420
+\i (00:06:49) pick grid 52.6899 67.8903
+\t (00:06:49) last pick:  52.6900 67.8900
+\i (00:06:50) pick grid 53.0866 67.8903
+\t (00:06:50) last pick:  53.0870 67.8900
+\i (00:06:50) pick grid 53.1858 67.4439
+\t (00:06:50) last pick:  53.1860 67.4440
+\i (00:06:50) pick grid 53.1858 67.1959
+\t (00:06:50) last pick:  53.1860 67.1960
+\i (00:06:50) pick grid 53.1858 66.7000
+\t (00:06:50) last pick:  53.1860 66.7000
+\i (00:06:50) pick grid 53.1858 66.0553
+\t (00:06:50) last pick:  53.1860 66.0550
+\i (00:06:51) pick grid 53.1858 65.6586
+\t (00:06:51) last pick:  53.1860 65.6590
+\i (00:06:51) pick grid 53.1362 65.4106
+\t (00:06:51) last pick:  53.1360 65.4110
+\i (00:06:51) pick grid 53.0370 64.9146
+\t (00:06:51) last pick:  53.0370 64.9150
+\i (00:06:51) pick grid 53.1362 64.6171
+\t (00:06:51) last pick:  53.1360 64.6170
+\i (00:06:51) pick grid 53.1858 64.3691
+\t (00:06:51) last pick:  53.1860 64.3690
+\i (00:06:51) pick grid 53.1858 64.2203
+\t (00:06:51) last pick:  53.1860 64.2200
+\i (00:06:52) pick grid 53.0370 63.7244
+\t (00:06:52) last pick:  53.0370 63.7240
+\i (00:06:52) pick grid 52.8882 63.4764
+\t (00:06:52) last pick:  52.8880 63.4760
+\i (00:06:52) pick grid 52.8386 63.1293
+\t (00:06:52) last pick:  52.8390 63.1290
+\i (00:06:52) pick grid 52.8882 62.7325
+\t (00:06:52) last pick:  52.8880 62.7330
+\i (00:06:52) pick grid dbl 52.9378 62.7325
+\t (00:06:52) last pick:  52.9380 62.7330
+\i (00:06:52) pick grid 51.9460 62.5838
+\t (00:06:52) last pick:  51.9460 62.5840
+\i (00:06:53) pick grid 51.4500 62.4350
+\t (00:06:53) last pick:  51.4500 62.4350
+\i (00:06:53) pick grid 51.0533 62.4350
+\t (00:06:53) last pick:  51.0530 62.4350
+\i (00:06:53) pick grid 50.6565 62.3854
+\t (00:06:53) last pick:  50.6570 62.3850
+\i (00:06:53) pick grid 50.5077 62.4350
+\t (00:06:53) last pick:  50.5080 62.4350
+\i (00:06:53) pick grid 50.3094 62.6333
+\t (00:06:53) last pick:  50.3090 62.6330
+\i (00:06:54) pick grid 50.0614 63.2781
+\t (00:06:54) last pick:  50.0610 63.2780
+\i (00:06:54) pick grid 49.9622 63.6748
+\t (00:06:54) last pick:  49.9620 63.6750
+\i (00:06:54) pick grid 49.8134 64.1212
+\t (00:06:54) last pick:  49.8130 64.1210
+\i (00:06:54) pick grid 49.8134 64.1212
+\t (00:06:54) last pick:  49.8130 64.1210
+\t (00:06:54) last pick:  49.8130 64.1210
+\w (00:06:54) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:06:54) pick grid 49.6151 64.7659
+\t (00:06:54) last pick:  49.6150 64.7660
+\i (00:06:54) pick grid 49.6151 65.3114
+\t (00:06:54) last pick:  49.6150 65.3110
+\i (00:06:55) pick grid 49.6151 65.4602
+\t (00:06:55) last pick:  49.6150 65.4600
+\i (00:06:55) pick grid 49.5655 65.8073
+\t (00:06:55) last pick:  49.5660 65.8070
+\i (00:06:55) pick grid 49.5159 66.1049
+\t (00:06:55) last pick:  49.5160 66.1050
+\i (00:06:55) pick grid 49.4167 66.4025
+\t (00:06:55) last pick:  49.4170 66.4030
+\i (00:06:55) pick grid 49.3671 66.7000
+\t (00:06:55) last pick:  49.3670 66.7000
+\i (00:06:55) pick grid 49.3175 67.0968
+\t (00:06:55) last pick:  49.3180 67.0970
+\i (00:06:56) pick grid 49.3175 67.3447
+\t (00:06:56) last pick:  49.3180 67.3450
+\i (00:06:56) pick grid 49.2183 67.5927
+\t (00:06:56) last pick:  49.2180 67.5930
+\i (00:06:56) pick grid 49.3175 67.7415
+\t (00:06:56) last pick:  49.3180 67.7420
+\i (00:06:56) pick grid 49.5159 67.4935
+\t (00:06:56) last pick:  49.5160 67.4940
+\i (00:06:56) pick grid 49.6151 67.2951
+\t (00:06:56) last pick:  49.6150 67.2950
+\i (00:06:57) pick grid 49.7142 67.1464
+\t (00:06:57) last pick:  49.7140 67.1460
+\i (00:06:57) pick grid 49.7142 67.3447
+\t (00:06:57) last pick:  49.7140 67.3450
+\i (00:06:57) pick grid 49.8134 68.0390
+\t (00:06:57) last pick:  49.8130 68.0390
+\i (00:06:57) pick grid 49.9126 68.4358
+\t (00:06:57) last pick:  49.9130 68.4360
+\i (00:06:57) pick grid 50.0614 68.8325
+\t (00:06:57) last pick:  50.0610 68.8330
+\i (00:06:57) pick grid 50.2102 69.0805
+\t (00:06:57) last pick:  50.2100 69.0810
+\i (00:06:58) pick grid 50.5077 69.4772
+\t (00:06:58) last pick:  50.5080 69.4770
+\i (00:06:58) pick grid 50.8549 69.8740
+\t (00:06:58) last pick:  50.8550 69.8740
+\i (00:06:58) pick grid 51.1029 69.9732
+\t (00:06:58) last pick:  51.1030 69.9730
+\i (00:06:58) pick grid 51.3508 70.1220
+\t (00:06:58) last pick:  51.3510 70.1220
+\i (00:07:02) prepopup 50.0614 69.1797
+\i (00:07:02) cancel 
+\i (00:07:02) shapeedit 
+\i (00:07:04) add line 
+\i (00:07:05) pick grid 56.7069 64.4683
+\t (00:07:05) last pick:  56.7070 64.4680
+\i (00:07:06) pick grid 56.6077 64.7659
+\t (00:07:06) last pick:  56.6080 64.7660
+\i (00:07:06) pick grid 56.1614 65.0138
+\t (00:07:06) last pick:  56.1610 65.0140
+\i (00:07:06) pick grid 55.9134 65.1130
+\t (00:07:06) last pick:  55.9130 65.1130
+\i (00:07:06) pick grid 55.6159 65.1626
+\t (00:07:06) last pick:  55.6160 65.1630
+\i (00:07:06) pick grid 55.2687 65.1626
+\t (00:07:06) last pick:  55.2690 65.1630
+\i (00:07:06) pick grid 54.9216 65.1130
+\t (00:07:06) last pick:  54.9220 65.1130
+\i (00:07:07) pick grid 54.6736 65.0634
+\t (00:07:07) last pick:  54.6740 65.0630
+\i (00:07:07) pick grid 54.4256 64.9642
+\t (00:07:07) last pick:  54.4260 64.9640
+\i (00:07:07) pick grid 54.2273 64.8155
+\t (00:07:07) last pick:  54.2270 64.8160
+\i (00:07:07) pick grid 54.1777 64.8155
+\t (00:07:07) last pick:  54.1780 64.8160
+\i (00:07:07) pick grid 53.8801 64.5179
+\t (00:07:07) last pick:  53.8800 64.5180
+\i (00:07:07) pick grid 53.6817 64.1212
+\t (00:07:07) last pick:  53.6820 64.1210
+\i (00:07:08) pick grid 53.6321 63.7244
+\t (00:07:08) last pick:  53.6320 63.7240
+\i (00:07:08) pick grid 53.6321 63.2781
+\t (00:07:08) last pick:  53.6320 63.2780
+\i (00:07:08) pick grid 53.7809 62.9805
+\t (00:07:08) last pick:  53.7810 62.9810
+\i (00:07:08) pick grid 54.1777 62.5838
+\t (00:07:08) last pick:  54.1780 62.5840
+\i (00:07:08) pick grid 54.6736 62.3358
+\t (00:07:08) last pick:  54.6740 62.3360
+\i (00:07:08) pick grid 55.5167 62.2862
+\t (00:07:08) last pick:  55.5170 62.2860
+\i (00:07:09) pick grid 55.9134 62.4350
+\t (00:07:09) last pick:  55.9130 62.4350
+\i (00:07:09) pick grid 56.2110 62.8317
+\t (00:07:09) last pick:  56.2110 62.8320
+\i (00:07:09) pick grid 56.4094 63.1293
+\t (00:07:09) last pick:  56.4090 63.1290
+\i (00:07:09) pick grid 56.5581 63.6252
+\t (00:07:09) last pick:  56.5580 63.6250
+\i (00:07:09) pick grid 56.5581 64.1707
+\t (00:07:09) last pick:  56.5580 64.1710
+\t (00:07:09) last pick:  56.7070 64.4680
+\i (00:07:10) pick grid 56.5086 64.5179
+\t (00:07:10) last pick:  56.5090 64.5180
+\i (00:07:10) prepopup 56.3598 64.7659
+\i (00:07:10) done 
+\i (00:07:10) shapeedit 
+\i (00:07:11) add line 
+\i (00:07:12) pick grid 46.6394 62.5838
+\t (00:07:12) last pick:  46.6390 62.5840
+\i (00:07:12) pick grid dbl 46.7386 62.5838
+\t (00:07:12) last pick:  46.7390 62.5840
+\i (00:07:12) pick grid 47.1354 62.6829
+\t (00:07:12) last pick:  47.1350 62.6830
+\i (00:07:12) pick grid 47.3338 62.7325
+\t (00:07:12) last pick:  47.3340 62.7330
+\i (00:07:13) pick grid 47.5321 62.7821
+\t (00:07:13) last pick:  47.5320 62.7820
+\i (00:07:13) pick grid 47.6809 62.9309
+\t (00:07:13) last pick:  47.6810 62.9310
+\i (00:07:13) pick grid 47.8297 63.1293
+\t (00:07:13) last pick:  47.8300 63.1290
+\i (00:07:13) pick grid 47.9289 63.4268
+\t (00:07:13) last pick:  47.9290 63.4270
+\i (00:07:13) pick grid 47.9289 63.7740
+\t (00:07:13) last pick:  47.9290 63.7740
+\i (00:07:13) pick grid 47.7801 64.1212
+\t (00:07:13) last pick:  47.7800 64.1210
+\i (00:07:14) pick grid 47.4329 64.5179
+\t (00:07:14) last pick:  47.4330 64.5180
+\i (00:07:14) pick grid 46.9866 64.9146
+\t (00:07:14) last pick:  46.9870 64.9150
+\i (00:07:14) pick grid 46.6394 65.0634
+\t (00:07:14) last pick:  46.6390 65.0630
+\i (00:07:14) pick grid 45.8460 64.9642
+\t (00:07:14) last pick:  45.8460 64.9640
+\i (00:07:14) pick grid 45.3996 64.8155
+\t (00:07:14) last pick:  45.4000 64.8160
+\i (00:07:14) pick grid 45.2012 64.4683
+\t (00:07:14) last pick:  45.2010 64.4680
+\i (00:07:15) pick grid 45.1021 64.0716
+\t (00:07:15) last pick:  45.1020 64.0720
+\i (00:07:15) pick grid 45.1021 63.4764
+\t (00:07:15) last pick:  45.1020 63.4760
+\i (00:07:15) pick grid 45.4492 63.0301
+\t (00:07:15) last pick:  45.4490 63.0300
+\i (00:07:15) pick grid 45.4492 63.0301
+\t (00:07:15) last pick:  45.4490 63.0300
+\t (00:07:15) last pick:  45.4490 63.0300
+\w (00:07:15) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:07:16) pick grid 46.3419 62.5342
+\t (00:07:16) last pick:  46.3420 62.5340
+\t (00:07:16) last pick:  46.6390 62.5840
+\i (00:07:16) pick grid 46.5403 62.5342
+\t (00:07:16) last pick:  46.5400 62.5340
+\i (00:07:16) prepopup 46.5403 62.5342
+\i (00:07:16) done 
+\i (00:07:16) shapeedit 
+\i (00:07:20) add line 
+\i (00:07:21) pick grid 56.5086 64.9146
+\t (00:07:21) last pick:  56.5090 64.9150
+\t (00:07:21) last pick:  56.6080 64.7660
+\i (00:07:21) pick grid 56.5086 65.1626
+\t (00:07:21) last pick:  56.5090 65.1630
+\t (00:07:21) last pick:  56.1610 65.0140
+\i (00:07:21) pick grid 56.5086 65.6586
+\t (00:07:21) last pick:  56.5090 65.6590
+\i (00:07:21) pick grid 56.4590 66.0057
+\t (00:07:21) last pick:  56.4590 66.0060
+\i (00:07:22) pick grid 56.3598 66.6504
+\t (00:07:22) last pick:  56.3600 66.6500
+\i (00:07:22) pick grid 56.2110 67.0968
+\t (00:07:22) last pick:  56.2110 67.0970
+\i (00:07:22) pick grid 56.0622 67.4439
+\t (00:07:22) last pick:  56.0620 67.4440
+\i (00:07:22) pick grid 55.9134 67.9399
+\t (00:07:22) last pick:  55.9130 67.9400
+\i (00:07:22) pick grid 55.7646 68.5350
+\t (00:07:22) last pick:  55.7650 68.5350
+\i (00:07:23) pick grid 55.5167 68.9813
+\t (00:07:23) last pick:  55.5170 68.9810
+\i (00:07:23) pick grid 55.1695 69.2293
+\t (00:07:23) last pick:  55.1700 69.2290
+\i (00:07:23) pick grid 54.9712 69.4277
+\t (00:07:23) last pick:  54.9710 69.4280
+\i (00:07:23) pick grid 54.5744 69.7252
+\t (00:07:23) last pick:  54.5740 69.7250
+\i (00:07:23) pick grid 54.3760 69.8740
+\t (00:07:23) last pick:  54.3760 69.8740
+\i (00:07:23) pick grid 54.1281 69.9236
+\t (00:07:23) last pick:  54.1280 69.9240
+\i (00:07:24) pick grid 53.8801 69.8244
+\t (00:07:24) last pick:  53.8800 69.8240
+\i (00:07:24) pick grid 53.7809 69.6260
+\t (00:07:24) last pick:  53.7810 69.6260
+\i (00:07:24) pick grid 53.6817 69.4277
+\t (00:07:24) last pick:  53.6820 69.4280
+\i (00:07:24) pick grid 53.6321 69.0805
+\t (00:07:24) last pick:  53.6320 69.0810
+\i (00:07:24) pick grid 53.5329 68.2870
+\t (00:07:24) last pick:  53.5330 68.2870
+\i (00:07:24) pick grid 53.4833 67.8407
+\t (00:07:24) last pick:  53.4830 67.8410
+\i (00:07:25) pick grid 53.4338 67.0472
+\t (00:07:25) last pick:  53.4340 67.0470
+\i (00:07:25) pick grid 53.4338 66.3033
+\t (00:07:25) last pick:  53.4340 66.3030
+\i (00:07:25) pick grid 53.4833 65.7081
+\t (00:07:25) last pick:  53.4830 65.7080
+\i (00:07:25) pick grid 53.5329 65.0634
+\t (00:07:25) last pick:  53.5330 65.0630
+\i (00:07:25) pick grid 53.5329 64.4187
+\t (00:07:25) last pick:  53.5330 64.4190
+\t (00:07:25) last pick:  53.6820 64.1210
+\i (00:07:25) pick grid 53.5329 64.2203
+\t (00:07:25) last pick:  53.5330 64.2200
+\i (00:07:26) prepopup 53.5329 64.0716
+\i (00:07:27) done 
+\i (00:07:27) shapeedit 
+\i (00:07:28) add line 
+\i (00:07:29) pick grid 48.0281 63.9228
+\t (00:07:29) last pick:  48.0280 63.9230
+\t (00:07:29) last pick:  47.9290 63.7740
+\i (00:07:29) pick grid dbl 48.1273 63.9724
+\t (00:07:29) last pick:  48.1270 63.9720
+\t (00:07:29) last pick:  47.9290 63.7740
+\t (00:07:29) last pick:  47.9290 63.7740
+\w (00:07:29) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:07:29) pick grid 48.2760 64.5675
+\t (00:07:29) last pick:  48.2760 64.5680
+\i (00:07:30) pick grid 48.3752 64.9146
+\t (00:07:30) last pick:  48.3750 64.9150
+\i (00:07:30) pick grid 48.5736 65.5098
+\t (00:07:30) last pick:  48.5740 65.5100
+\i (00:07:30) pick grid 48.6232 65.8569
+\t (00:07:30) last pick:  48.6230 65.8570
+\i (00:07:30) pick grid 48.5736 66.5016
+\t (00:07:30) last pick:  48.5740 66.5020
+\i (00:07:30) pick grid 48.5240 67.1464
+\t (00:07:30) last pick:  48.5240 67.1460
+\i (00:07:31) pick grid 48.4248 67.8407
+\t (00:07:31) last pick:  48.4250 67.8410
+\i (00:07:31) pick grid 48.3256 68.4854
+\t (00:07:31) last pick:  48.3260 68.4850
+\i (00:07:31) pick grid 48.1768 69.1301
+\t (00:07:31) last pick:  48.1770 69.1300
+\i (00:07:31) pick grid 48.0281 69.5268
+\t (00:07:31) last pick:  48.0280 69.5270
+\i (00:07:31) pick grid 47.8793 69.8244
+\t (00:07:31) last pick:  47.8790 69.8240
+\i (00:07:32) pick grid 47.6313 70.2212
+\t (00:07:32) last pick:  47.6310 70.2210
+\i (00:07:32) pick grid 47.2842 70.4195
+\t (00:07:32) last pick:  47.2840 70.4200
+\t (00:07:32) last pick:  47.1590 70.7240
+\i (00:07:32) pick grid 46.7386 69.8740
+\t (00:07:32) last pick:  46.7390 69.8740
+\i (00:07:32) pick grid 46.6394 69.8244
+\t (00:07:32) last pick:  46.6390 69.8240
+\i (00:07:32) pick grid 46.4907 69.5268
+\t (00:07:32) last pick:  46.4910 69.5270
+\i (00:07:33) pick grid 46.2923 68.9317
+\t (00:07:33) last pick:  46.2920 68.9320
+\i (00:07:33) pick grid 45.9947 68.1382
+\t (00:07:33) last pick:  45.9950 68.1380
+\i (00:07:33) pick grid 45.7468 67.2455
+\t (00:07:33) last pick:  45.7470 67.2460
+\i (00:07:33) pick grid 45.4988 66.4520
+\t (00:07:33) last pick:  45.4990 66.4520
+\i (00:07:33) pick grid 45.3004 65.6586
+\t (00:07:33) last pick:  45.3000 65.6590
+\i (00:07:34) pick grid 45.1516 65.0634
+\t (00:07:34) last pick:  45.1520 65.0630
+\t (00:07:34) last pick:  45.4000 64.8160
+\i (00:07:34) pick grid 45.1021 64.6667
+\t (00:07:34) last pick:  45.1020 64.6670
+\t (00:07:34) last pick:  45.2010 64.4680
+\i (00:07:34) prepopup 45.1021 64.6171
+\i (00:07:34) done 
+\i (00:07:34) shapeedit 
+\i (00:07:35) add line 
+\i (00:07:36) pick grid 51.2020 69.7252
+\t (00:07:36) last pick:  51.2020 69.7250
+\i (00:07:37) pick grid 51.4996 69.4772
+\t (00:07:37) last pick:  51.5000 69.4770
+\i (00:07:37) pick grid 51.6980 69.1301
+\t (00:07:37) last pick:  51.6980 69.1300
+\i (00:07:37) pick grid 51.7972 68.9317
+\t (00:07:37) last pick:  51.7970 68.9320
+\i (00:07:37) pick grid 51.8468 68.6838
+\t (00:07:37) last pick:  51.8470 68.6840
+\i (00:07:37) pick grid 51.7972 68.2374
+\t (00:07:37) last pick:  51.7970 68.2370
+\i (00:07:38) pick grid 51.7476 67.8903
+\t (00:07:38) last pick:  51.7480 67.8900
+\i (00:07:38) pick grid 51.7476 67.5431
+\t (00:07:38) last pick:  51.7480 67.5430
+\i (00:07:38) pick grid 51.7476 67.3447
+\t (00:07:38) last pick:  51.7480 67.3450
+\i (00:07:38) pick grid 51.8964 67.1959
+\t (00:07:38) last pick:  51.8960 67.1960
+\i (00:07:38) pick grid 52.3923 67.3447
+\t (00:07:38) last pick:  52.3920 67.3450
+\i (00:07:39) pick grid 52.7890 67.7911
+\t (00:07:39) last pick:  52.7890 67.7910
+\i (00:07:39) pick grid dbl 52.7890 67.7911
+\t (00:07:39) last pick:  52.7890 67.7910
+\t (00:07:39) last pick:  52.7890 67.7910
+\w (00:07:39) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:07:39) pick grid 52.8882 67.3943
+\t (00:07:39) last pick:  52.8880 67.3940
+\i (00:07:39) pick grid 52.9874 66.8984
+\t (00:07:39) last pick:  52.9870 66.8980
+\i (00:07:39) pick grid 52.9874 66.4520
+\t (00:07:39) last pick:  52.9870 66.4520
+\i (00:07:40) pick grid 52.9874 65.7577
+\t (00:07:40) last pick:  52.9870 65.7580
+\i (00:07:40) pick grid 52.8882 65.2122
+\t (00:07:40) last pick:  52.8880 65.2120
+\i (00:07:40) pick grid 52.8386 64.5675
+\t (00:07:40) last pick:  52.8390 64.5680
+\i (00:07:41) pick grid 52.5907 64.1707
+\t (00:07:41) last pick:  52.5910 64.1710
+\i (00:07:41) pick grid 52.1939 64.1707
+\t (00:07:41) last pick:  52.1940 64.1710
+\i (00:07:41) pick grid 51.8468 64.1707
+\t (00:07:41) last pick:  51.8470 64.1710
+\i (00:07:42) pick grid 51.4996 64.1707
+\t (00:07:42) last pick:  51.5000 64.1710
+\i (00:07:42) pick grid 50.5077 64.1707
+\t (00:07:42) last pick:  50.5080 64.1710
+\i (00:07:42) pick grid 50.2598 64.2203
+\t (00:07:42) last pick:  50.2600 64.2200
+\i (00:07:42) pick grid 49.7638 64.2699
+\t (00:07:42) last pick:  49.7640 64.2700
+\i (00:07:43) pick grid 49.3175 64.2699
+\t (00:07:43) last pick:  49.3180 64.2700
+\i (00:07:43) pick grid 48.8216 64.4187
+\t (00:07:43) last pick:  48.8220 64.4190
+\i (00:07:43) pick grid 48.6728 64.5675
+\t (00:07:43) last pick:  48.6730 64.5680
+\i (00:07:44) pick grid 48.6728 65.2618
+\t (00:07:44) last pick:  48.6730 65.2620
+\t (00:07:44) last pick:  48.5740 65.5100
+\i (00:07:44) pick grid 48.9207 66.0553
+\t (00:07:44) last pick:  48.9210 66.0550
+\t (00:07:44) last pick:  48.6230 65.8570
+\i (00:07:44) pick grid 48.9703 66.6504
+\t (00:07:44) last pick:  48.9700 66.6500
+\i (00:07:44) pick grid 48.9703 67.3447
+\t (00:07:44) last pick:  48.9700 67.3450
+\i (00:07:45) pick grid 48.9703 67.5927
+\t (00:07:45) last pick:  48.9700 67.5930
+\i (00:07:45) pick grid 49.3175 67.4439
+\t (00:07:45) last pick:  49.3180 67.4440
+\i (00:07:45) pick grid 49.5159 67.1959
+\t (00:07:45) last pick:  49.5160 67.1960
+\i (00:07:45) pick grid dbl 49.6151 67.1464
+\t (00:07:45) last pick:  49.6150 67.1460
+\i (00:07:45) pick grid 49.7142 67.0472
+\t (00:07:45) last pick:  49.7140 67.0470
+\i (00:07:45) pick grid 49.9126 67.7911
+\t (00:07:45) last pick:  49.9130 67.7910
+\i (00:07:46) pick grid 49.9126 68.3862
+\t (00:07:46) last pick:  49.9130 68.3860
+\i (00:07:46) pick grid 49.9622 68.7333
+\t (00:07:46) last pick:  49.9620 68.7330
+\i (00:07:46) pick grid 50.0118 68.8821
+\t (00:07:46) last pick:  50.0120 68.8820
+\i (00:07:46) pick grid 50.6565 69.6756
+\t (00:07:46) last pick:  50.6570 69.6760
+\i (00:07:46) pick grid 51.0037 69.9236
+\t (00:07:46) last pick:  51.0040 69.9240
+\t (00:07:46) last pick:  51.2020 69.7250
+\i (00:07:47) prepopup 51.0037 69.9236
+\i (00:07:47) done 
+\i (00:07:47) shapeedit 
+\i (00:07:50) add line 
+\i (00:07:51) pick grid 53.5825 62.7325
+\t (00:07:51) last pick:  53.5830 62.7330
+\t (00:07:51) last pick:  53.7810 62.9810
+\i (00:07:52) pick grid 52.5411 63.0301
+\t (00:07:52) last pick:  52.5410 63.0300
+\i (00:07:52) pick grid 51.4996 62.6333
+\t (00:07:52) last pick:  51.5000 62.6330
+\i (00:07:53) pick grid 50.0614 62.6829
+\t (00:07:53) last pick:  50.0610 62.6830
+\i (00:07:54) pick grid 48.8712 62.6333
+\t (00:07:54) last pick:  48.8710 62.6330
+\i (00:07:54) pick grid 47.6809 62.7821
+\t (00:07:54) last pick:  47.6810 62.7820
+\t (00:07:54) last pick:  47.6810 62.9310
+\i (00:07:55) prepopup 47.6809 62.7821
+\i (00:07:55) done 
+\i (00:07:55) shapeedit 
+\i (00:07:56) add line 
+\i (00:07:58) pick grid 56.2606 65.5098
+\t (00:07:58) last pick:  56.2610 65.5100
+\t (00:07:58) last pick:  56.5090 65.6590
+\i (00:07:58) pick grid 55.8142 65.8569
+\t (00:07:58) last pick:  55.8140 65.8570
+\i (00:07:58) pick grid 55.5663 66.0057
+\t (00:07:58) last pick:  55.5660 66.0060
+\i (00:07:58) pick grid 55.2687 66.1049
+\t (00:07:58) last pick:  55.2690 66.1050
+\i (00:07:59) pick grid 54.8720 66.1049
+\t (00:07:59) last pick:  54.8720 66.1050
+\i (00:07:59) pick grid 54.6736 66.1049
+\t (00:07:59) last pick:  54.6740 66.1050
+\i (00:07:59) pick grid 54.4256 66.0553
+\t (00:07:59) last pick:  54.4260 66.0550
+\i (00:07:59) pick grid 54.2273 65.9561
+\t (00:07:59) last pick:  54.2270 65.9560
+\i (00:07:59) prepopup 54.1281 65.9065
+\i (00:08:00) done 
+\i (00:08:00) shapeedit 
+\i (00:08:01) add line 
+\i (00:08:02) pick grid 56.2110 66.2537
+\t (00:08:02) last pick:  56.2110 66.2540
+\t (00:08:02) last pick:  56.4590 66.0060
+\i (00:08:02) pick grid dbl 56.2110 66.2537
+\t (00:08:02) last pick:  56.2110 66.2540
+\t (00:08:02) last pick:  56.4590 66.0060
+\t (00:08:02) last pick:  56.4590 66.0060
+\w (00:08:02) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:08:02) pick grid 55.8638 66.5016
+\t (00:08:02) last pick:  55.8640 66.5020
+\i (00:08:02) pick grid 55.4175 66.7496
+\t (00:08:02) last pick:  55.4180 66.7500
+\i (00:08:03) pick grid 55.0207 66.7496
+\t (00:08:03) last pick:  55.0210 66.7500
+\i (00:08:03) pick grid 54.5248 66.7992
+\t (00:08:03) last pick:  54.5250 66.7990
+\i (00:08:03) pick grid 54.5248 66.7992
+\t (00:08:03) last pick:  54.5250 66.7990
+\t (00:08:03) last pick:  54.5250 66.7990
+\w (00:08:03) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:08:03) prepopup 54.2768 66.6008
+\i (00:08:03) done 
+\i (00:08:03) shapeedit 
+\i (00:08:05) add line 
+\i (00:08:06) pick grid 45.7468 66.7000
+\t (00:08:06) last pick:  45.7470 66.7000
+\t (00:08:06) last pick:  45.4990 66.4520
+\i (00:08:06) pick grid 46.1435 66.7000
+\t (00:08:06) last pick:  46.1440 66.7000
+\i (00:08:06) pick grid 46.3915 66.7000
+\t (00:08:06) last pick:  46.3920 66.7000
+\i (00:08:07) pick grid 46.8378 66.7000
+\t (00:08:07) last pick:  46.8380 66.7000
+\i (00:08:07) pick grid 47.2346 66.6504
+\t (00:08:07) last pick:  47.2350 66.6500
+\i (00:08:07) pick grid 47.4825 66.5016
+\t (00:08:07) last pick:  47.4830 66.5020
+\i (00:08:07) pick grid 47.7305 66.3529
+\t (00:08:07) last pick:  47.7310 66.3530
+\i (00:08:07) prepopup 47.7305 66.3529
+\i (00:08:08) done 
+\i (00:08:08) shapeedit 
+\i (00:08:09) add line 
+\i (00:08:10) pick grid 45.4492 65.9065
+\t (00:08:10) last pick:  45.4490 65.9070
+\t (00:08:10) last pick:  45.3000 65.6590
+\i (00:08:10) pick grid 45.5484 65.9065
+\t (00:08:10) last pick:  45.5480 65.9070
+\t (00:08:10) last pick:  45.3000 65.6590
+\t (00:08:10) last pick:  45.3000 65.6590
+\w (00:08:10) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:08:10) pick grid 45.9451 66.0057
+\t (00:08:10) last pick:  45.9450 66.0060
+\i (00:08:11) pick grid 46.2923 66.1049
+\t (00:08:11) last pick:  46.2920 66.1050
+\i (00:08:11) pick grid 46.6890 66.1545
+\t (00:08:11) last pick:  46.6890 66.1550
+\i (00:08:11) pick grid 47.0362 66.1545
+\t (00:08:11) last pick:  47.0360 66.1550
+\i (00:08:11) pick grid 47.2346 66.0057
+\t (00:08:11) last pick:  47.2350 66.0060
+\i (00:08:11) pick grid dbl 47.2346 66.0057
+\t (00:08:11) last pick:  47.2350 66.0060
+\t (00:08:11) last pick:  47.2350 66.0060
+\w (00:08:11) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:08:11) prepopup 47.2842 65.9561
+\i (00:08:12) done 
+\i (00:08:12) shapeedit 
+\i (00:08:15) add line 
+\i (00:08:17) pick grid 57.5004 60.8976
+\t (00:08:17) last pick:  57.5000 60.8980
+\t (00:08:17) last pick:  57.6580 60.6360
+\i (00:08:17) pick grid 57.2525 61.0464
+\t (00:08:17) last pick:  57.2530 61.0460
+\i (00:08:17) pick grid 56.9053 61.4431
+\t (00:08:17) last pick:  56.9050 61.4430
+\i (00:08:18) pick grid 56.5581 61.7407
+\t (00:08:18) last pick:  56.5580 61.7410
+\i (00:08:18) pick grid 56.4094 61.9390
+\t (00:08:18) last pick:  56.4090 61.9390
+\i (00:08:18) pick grid 56.3598 62.3358
+\t (00:08:18) last pick:  56.3600 62.3360
+\t (00:08:18) last pick:  55.9130 62.4350
+\i (00:08:18) pick grid 56.6077 62.6829
+\t (00:08:18) last pick:  56.6080 62.6830
+\t (00:08:18) last pick:  56.2110 62.8320
+\i (00:08:18) pick grid 56.7069 62.7325
+\t (00:08:18) last pick:  56.7070 62.7330
+\i (00:08:19) pick grid 57.1533 62.7325
+\t (00:08:19) last pick:  57.1530 62.7330
+\i (00:08:19) pick grid 57.5500 62.5838
+\t (00:08:19) last pick:  57.5500 62.5840
+\i (00:08:19) pick grid 57.7484 62.5342
+\t (00:08:19) last pick:  57.7480 62.5340
+\i (00:08:19) pick grid 58.0955 62.2862
+\t (00:08:19) last pick:  58.0960 62.2860
+\t (00:08:19) last pick:  58.4960 62.2880
+\i (00:08:19) pick grid 58.2443 61.9886
+\t (00:08:19) last pick:  58.2440 61.9890
+\t (00:08:19) last pick:  58.3240 61.8440
+\i (00:08:19) prepopup 58.2443 61.9390
+\i (00:08:20) done 
+\i (00:08:20) shapeedit 
+\i (00:08:21) add line 
+\i (00:08:22) pick grid 56.4590 59.5090
+\t (00:08:22) last pick:  56.4590 59.5090
+\t (00:08:22) last pick:  56.6720 59.5770
+\i (00:08:22) pick grid 56.3102 59.7569
+\t (00:08:22) last pick:  56.3100 59.7570
+\t (00:08:22) last pick:  56.6720 59.5770
+\t (00:08:22) last pick:  56.6720 59.5770
+\w (00:08:22) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:08:22) pick grid 55.8638 60.1537
+\t (00:08:22) last pick:  55.8640 60.1540
+\i (00:08:22) pick grid 55.5663 60.4016
+\t (00:08:22) last pick:  55.5660 60.4020
+\i (00:08:23) pick grid 55.2191 60.6992
+\t (00:08:23) last pick:  55.2190 60.6990
+\i (00:08:23) pick grid 55.0703 60.9968
+\t (00:08:23) last pick:  55.0700 60.9970
+\i (00:08:23) pick grid 54.8720 61.1951
+\t (00:08:23) last pick:  54.8720 61.1950
+\i (00:08:23) pick grid 54.8720 61.4927
+\t (00:08:23) last pick:  54.8720 61.4930
+\i (00:08:23) pick grid 54.8720 61.6911
+\t (00:08:23) last pick:  54.8720 61.6910
+\i (00:08:23) pick grid 54.5744 61.9886
+\t (00:08:23) last pick:  54.5740 61.9890
+\t (00:08:23) last pick:  54.6740 62.3360
+\i (00:08:24) pick grid 53.9793 62.4350
+\t (00:08:24) last pick:  53.9790 62.4350
+\t (00:08:24) last pick:  54.1780 62.5840
+\i (00:08:24) pick grid 53.6321 62.5342
+\t (00:08:24) last pick:  53.6320 62.5340
+\t (00:08:24) last pick:  53.7810 62.9810
+\i (00:08:24) pick grid 53.3346 62.5342
+\t (00:08:24) last pick:  53.3350 62.5340
+\i (00:08:24) pick grid 53.1858 62.4846
+\t (00:08:24) last pick:  53.1860 62.4850
+\i (00:08:24) prepopup 53.1362 62.3854
+\i (00:08:25) oops 
+\t (00:08:25) last pick:  53.3350 62.5340
+\i (00:08:26) oops 
+\t (00:08:26) last pick:  53.7810 62.9810
+\i (00:08:26) oops 
+\t (00:08:26) last pick:  54.1780 62.5840
+\i (00:08:26) oops 
+\t (00:08:26) last pick:  54.6740 62.3360
+\i (00:08:27) oops 
+\t (00:08:27) last pick:  54.8720 61.6910
+\i (00:08:28) pick grid 53.3346 62.5342
+\t (00:08:28) last pick:  53.3350 62.5340
+\i (00:08:28) pick grid 53.0370 61.9886
+\t (00:08:28) last pick:  53.0370 61.9890
+\i (00:08:29) pick grid 54.2273 61.1951
+\t (00:08:29) last pick:  54.2270 61.1950
+\i (00:08:29) pick grid 54.6240 61.1455
+\t (00:08:29) last pick:  54.6240 61.1460
+\i (00:08:29) oops 
+\t (00:08:29) last pick:  54.2270 61.1950
+\i (00:08:31) pick grid 54.8224 61.1455
+\t (00:08:31) last pick:  54.8220 61.1460
+\i (00:08:31) prepopup 54.8224 61.1455
+\i (00:08:31) done 
+\i (00:08:32) shapeedit 
+\i (00:08:32) add line 
+\i (00:08:34) pick grid 45.2012 60.8976
+\t (00:08:34) last pick:  45.2010 60.8980
+\t (00:08:34) last pick:  45.0140 60.9820
+\i (00:08:34) pick grid 45.3500 61.0464
+\t (00:08:34) last pick:  45.3500 61.0460
+\t (00:08:34) last pick:  45.0140 60.9820
+\t (00:08:34) last pick:  45.0140 60.9820
+\w (00:08:34) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:08:34) pick grid 45.6476 61.3439
+\t (00:08:34) last pick:  45.6480 61.3440
+\i (00:08:34) pick grid 45.8955 61.8399
+\t (00:08:34) last pick:  45.8960 61.8400
+\i (00:08:34) pick grid 45.9947 62.1374
+\t (00:08:34) last pick:  45.9950 62.1370
+\i (00:08:34) pick grid 45.9947 62.4846
+\t (00:08:34) last pick:  45.9950 62.4850
+\i (00:08:35) prepopup 45.9947 62.5838
+\i (00:08:35) done 
+\i (00:08:35) shapeedit 
+\i (00:08:37) add line 
+\i (00:08:38) pick grid 46.1435 59.5090
+\t (00:08:38) last pick:  46.1440 59.5090
+\t (00:08:38) last pick:  46.1230 59.6260
+\i (00:08:38) pick grid 46.4411 59.8561
+\t (00:08:38) last pick:  46.4410 59.8560
+\t (00:08:38) last pick:  46.1230 59.6260
+\t (00:08:38) last pick:  46.1230 59.6260
+\w (00:08:38) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:08:38) pick grid 46.7386 60.3025
+\t (00:08:38) last pick:  46.7390 60.3030
+\i (00:08:39) pick grid 46.9866 60.6000
+\t (00:08:39) last pick:  46.9870 60.6000
+\i (00:08:39) pick grid 47.2842 60.9968
+\t (00:08:39) last pick:  47.2840 60.9970
+\i (00:08:39) pick grid 47.5321 61.2943
+\t (00:08:39) last pick:  47.5320 61.2940
+\i (00:08:39) pick grid 47.7305 61.5919
+\t (00:08:39) last pick:  47.7310 61.5920
+\i (00:08:39) pick grid 48.2264 61.9886
+\t (00:08:39) last pick:  48.2260 61.9890
+\i (00:08:39) pick grid 48.7720 62.2862
+\t (00:08:39) last pick:  48.7720 62.2860
+\t (00:08:39) last pick:  48.8710 62.6330
+\i (00:08:40) pick grid 49.0199 62.4350
+\t (00:08:40) last pick:  49.0200 62.4350
+\i (00:08:40) pick grid 49.2679 62.4350
+\t (00:08:40) last pick:  49.2680 62.4350
+\i (00:08:40) pick grid 49.2183 62.0382
+\t (00:08:40) last pick:  49.2180 62.0380
+\i (00:08:40) pick grid 49.1191 61.6911
+\t (00:08:40) last pick:  49.1190 61.6910
+\i (00:08:40) pick grid 48.6232 61.3935
+\t (00:08:40) last pick:  48.6230 61.3940
+\i (00:08:41) pick grid 48.1273 61.1951
+\t (00:08:41) last pick:  48.1270 61.1950
+\i (00:08:41) pick grid 47.4329 61.0960
+\t (00:08:41) last pick:  47.4330 61.0960
+\i (00:08:41) prepopup 47.3834 61.0960
+\i (00:08:41) done 
+\i (00:08:41) shapeedit 
+\i (00:08:42) add line 
+\i (00:08:43) pick grid 47.1850 58.4675
+\t (00:08:43) last pick:  47.1850 58.4680
+\t (00:08:43) last pick:  47.0350 58.4430
+\i (00:08:43) pick grid 47.6809 58.8147
+\t (00:08:43) last pick:  47.6810 58.8150
+\i (00:08:44) pick grid 48.0777 59.4098
+\t (00:08:44) last pick:  48.0780 59.4100
+\i (00:08:44) pick grid 48.3256 59.6577
+\t (00:08:44) last pick:  48.3260 59.6580
+\i (00:08:44) pick grid 48.6232 60.1537
+\t (00:08:44) last pick:  48.6230 60.1540
+\i (00:08:44) pick grid 48.6728 60.5504
+\t (00:08:44) last pick:  48.6730 60.5500
+\i (00:08:44) pick grid 48.6232 60.8480
+\t (00:08:44) last pick:  48.6230 60.8480
+\i (00:08:45) pick grid 48.5736 61.0960
+\t (00:08:45) last pick:  48.5740 61.0960
+\i (00:08:45) pick grid 48.5736 61.2447
+\t (00:08:45) last pick:  48.5740 61.2450
+\i (00:08:45) prepopup 48.5736 61.2447
+\i (00:08:45) done 
+\i (00:08:45) shapeedit 
+\i (00:08:45) pick grid 47.8297 60.7984
+\t (00:08:45) last pick:  47.8300 60.7980
+\i (00:08:47) add line 
+\i (00:08:49) pick grid 55.9630 58.9138
+\t (00:08:49) last pick:  55.9630 58.9140
+\i (00:08:49) pick grid 55.6655 58.9634
+\t (00:08:49) last pick:  55.6660 58.9630
+\i (00:08:49) pick grid 55.2687 59.0626
+\t (00:08:49) last pick:  55.2690 59.0630
+\i (00:08:49) pick grid 54.7232 59.3602
+\t (00:08:49) last pick:  54.7230 59.3600
+\i (00:08:49) pick grid 54.3264 59.7073
+\t (00:08:49) last pick:  54.3260 59.7070
+\i (00:08:49) pick grid 54.2273 59.9553
+\t (00:08:49) last pick:  54.2270 59.9550
+\i (00:08:50) pick grid 54.0785 60.2529
+\t (00:08:50) last pick:  54.0790 60.2530
+\i (00:08:50) pick grid 54.0289 60.6000
+\t (00:08:50) last pick:  54.0290 60.6000
+\i (00:08:50) pick grid 54.0289 60.9472
+\t (00:08:50) last pick:  54.0290 60.9470
+\t (00:08:50) last pick:  54.2270 61.1950
+\i (00:08:50) pick grid 54.0289 61.2447
+\t (00:08:50) last pick:  54.0290 61.2450
+\i (00:08:50) prepopup 54.0289 61.3439
+\i (00:08:51) done 
+\i (00:08:51) shapeedit 
+\i (00:08:51) add line 
+\i (00:08:53) pick grid 49.5159 61.0960
+\t (00:08:53) last pick:  49.5160 61.0960
+\i (00:08:53) pick grid 50.0614 61.1455
+\t (00:08:53) last pick:  50.0610 61.1460
+\i (00:08:54) pick grid 50.5573 61.1951
+\t (00:08:54) last pick:  50.5570 61.1950
+\i (00:08:54) pick grid 51.2516 61.2447
+\t (00:08:54) last pick:  51.2520 61.2450
+\i (00:08:54) pick grid 51.9460 61.2943
+\t (00:08:54) last pick:  51.9460 61.2940
+\i (00:08:54) pick grid 52.2931 61.2447
+\t (00:08:54) last pick:  52.2930 61.2450
+\i (00:08:54) pick grid 52.6899 61.0960
+\t (00:08:54) last pick:  52.6900 61.0960
+\i (00:08:54) pick grid 52.9378 61.0464
+\t (00:08:54) last pick:  52.9380 61.0460
+\i (00:08:55) pick grid 53.0370 60.9968
+\t (00:08:55) last pick:  53.0370 60.9970
+\i (00:08:55) pick grid 53.2354 61.0960
+\t (00:08:55) last pick:  53.2350 61.0960
+\i (00:08:56) pick grid 53.1858 61.7407
+\t (00:08:56) last pick:  53.1860 61.7410
+\t (00:08:56) last pick:  53.0370 61.9890
+\i (00:08:56) prepopup 53.1858 61.7407
+\i (00:08:56) done 
+\i (00:08:56) shapeedit 
+\i (00:08:57) add line 
+\i (00:08:58) pick grid 49.4663 61.1455
+\t (00:08:58) last pick:  49.4660 61.1460
+\t (00:08:58) last pick:  49.5160 61.0960
+\i (00:08:59) pick grid 49.2679 61.6911
+\t (00:08:59) last pick:  49.2680 61.6910
+\t (00:08:59) last pick:  49.1190 61.6910
+\i (00:08:59) prepopup 49.2679 61.6911
+\i (00:08:59) done 
+\i (00:08:59) shapeedit 
+\i (00:09:00) add line 
+\i (00:09:01) pick grid 53.0370 60.1537
+\t (00:09:01) last pick:  53.0370 60.1540
+\i (00:09:01) pick grid 52.8882 60.1537
+\t (00:09:01) last pick:  52.8880 60.1540
+\i (00:09:01) pick grid 52.4419 59.9057
+\t (00:09:01) last pick:  52.4420 59.9060
+\i (00:09:02) pick grid 52.2931 59.5090
+\t (00:09:02) last pick:  52.2930 59.5090
+\i (00:09:02) pick grid 52.2435 59.2114
+\t (00:09:02) last pick:  52.2440 59.2110
+\i (00:09:02) pick grid 52.3427 59.0130
+\t (00:09:02) last pick:  52.3430 59.0130
+\i (00:09:02) pick grid 52.6403 59.1122
+\t (00:09:02) last pick:  52.6400 59.1120
+\i (00:09:02) pick grid 52.8386 59.3602
+\t (00:09:02) last pick:  52.8390 59.3600
+\i (00:09:02) pick grid 52.9874 59.8561
+\t (00:09:02) last pick:  52.9870 59.8560
+\t (00:09:02) last pick:  53.0370 60.1540
+\i (00:09:03) pick grid 52.9874 60.0545
+\t (00:09:03) last pick:  52.9870 60.0550
+\i (00:09:03) prepopup 52.9874 60.1537
+\i (00:09:03) done 
+\i (00:09:03) shapeedit 
+\i (00:09:04) add line 
+\i (00:09:05) pick grid 49.3671 60.0545
+\t (00:09:05) last pick:  49.3670 60.0550
+\i (00:09:05) pick grid 49.4167 60.0049
+\t (00:09:05) last pick:  49.4170 60.0050
+\i (00:09:05) pick grid 49.7142 59.6081
+\t (00:09:05) last pick:  49.7140 59.6080
+\i (00:09:05) pick grid 50.1110 59.4594
+\t (00:09:05) last pick:  50.1110 59.4590
+\i (00:09:05) pick grid 50.0614 59.1618
+\t (00:09:05) last pick:  50.0610 59.1620
+\i (00:09:05) pick grid 49.6647 59.1618
+\t (00:09:05) last pick:  49.6650 59.1620
+\i (00:09:06) pick grid 49.3175 59.5090
+\t (00:09:06) last pick:  49.3180 59.5090
+\i (00:09:06) pick grid 49.3175 60.0049
+\t (00:09:06) last pick:  49.3180 60.0050
+\t (00:09:06) last pick:  49.3670 60.0550
+\i (00:09:06) pick grid 49.4167 60.2033
+\t (00:09:06) last pick:  49.4170 60.2030
+\i (00:09:06) prepopup 49.4167 60.2033
+\i (00:09:06) done 
+\i (00:09:07) shapeedit 
+\i (00:09:08) add line 
+\i (00:09:09) pick grid 52.6403 60.1537
+\t (00:09:09) last pick:  52.6400 60.1540
+\t (00:09:09) last pick:  52.8880 60.1540
+\i (00:09:09) pick grid 51.9460 60.2529
+\t (00:09:09) last pick:  51.9460 60.2530
+\i (00:09:09) pick grid 51.1525 60.5008
+\t (00:09:09) last pick:  51.1530 60.5010
+\i (00:09:09) pick grid 50.2598 60.5504
+\t (00:09:09) last pick:  50.2600 60.5500
+\i (00:09:09) pick grid 49.7638 60.3025
+\t (00:09:09) last pick:  49.7640 60.3030
+\t (00:09:09) last pick:  49.4170 60.2030
+\t (00:09:09) Merged with existing line. Start next line.
+\i (00:09:10) prepopup 49.6151 60.1537
+\i (00:09:10) done 
+\i (00:09:10) shapeedit 
+\i (00:09:11) add line 
+\i (00:09:13) pick grid 54.4256 59.3602
+\t (00:09:13) last pick:  54.4260 59.3600
+\t (00:09:13) last pick:  54.7230 59.3600
+\i (00:09:13) pick grid 54.2273 59.2114
+\t (00:09:13) last pick:  54.2270 59.2110
+\i (00:09:13) pick grid 53.9297 58.6163
+\t (00:09:13) last pick:  53.9300 58.6160
+\i (00:09:14) pick grid 53.5825 58.0707
+\t (00:09:14) last pick:  53.5830 58.0710
+\i (00:09:14) pick grid 53.3346 57.3268
+\t (00:09:14) last pick:  53.3350 57.3270
+\i (00:09:14) pick grid 52.9378 56.7813
+\t (00:09:14) last pick:  52.9380 56.7810
+\i (00:09:14) pick grid 52.3427 55.9878
+\t (00:09:14) last pick:  52.3430 55.9880
+\i (00:09:14) pick grid 52.2435 55.7894
+\t (00:09:14) last pick:  52.2440 55.7890
+\i (00:09:14) pick grid 51.7972 55.4919
+\t (00:09:14) last pick:  51.7970 55.4920
+\i (00:09:15) pick grid 50.7061 55.4423
+\t (00:09:15) last pick:  50.7060 55.4420
+\i (00:09:15) pick grid 50.3094 55.5415
+\t (00:09:15) last pick:  50.3090 55.5420
+\i (00:09:15) pick grid 49.6647 55.8390
+\t (00:09:15) last pick:  49.6650 55.8390
+\i (00:09:15) pick grid 49.4167 56.1862
+\t (00:09:15) last pick:  49.4170 56.1860
+\i (00:09:15) pick grid 49.0199 56.6821
+\t (00:09:15) last pick:  49.0200 56.6820
+\i (00:09:16) pick grid 48.7224 57.2277
+\t (00:09:16) last pick:  48.7220 57.2280
+\i (00:09:16) pick grid 48.4744 57.7236
+\t (00:09:16) last pick:  48.4740 57.7240
+\i (00:09:16) pick grid 48.0777 58.2195
+\t (00:09:16) last pick:  48.0780 58.2200
+\i (00:09:16) pick grid 47.7801 58.6659
+\t (00:09:16) last pick:  47.7800 58.6660
+\t (00:09:16) last pick:  47.6810 58.8150
+\i (00:09:16) pick grid 47.7801 58.6659
+\t (00:09:16) last pick:  47.7800 58.6660
+\i (00:09:16) prepopup 47.6313 58.7651
+\i (00:09:17) done 
+\i (00:09:17) shapeedit 
+\i (00:09:18) add line 
+\i (00:09:20) pick grid 49.1191 58.3187
+\t (00:09:20) last pick:  49.1190 58.3190
+\i (00:09:20) pick grid 49.4167 57.9220
+\t (00:09:20) last pick:  49.4170 57.9220
+\i (00:09:20) pick grid 49.6647 57.5748
+\t (00:09:20) last pick:  49.6650 57.5750
+\i (00:09:20) pick grid 50.0614 57.2773
+\t (00:09:20) last pick:  50.0610 57.2770
+\i (00:09:20) pick grid 50.5573 57.0789
+\t (00:09:20) last pick:  50.5570 57.0790
+\i (00:09:21) pick grid 51.3012 57.0789
+\t (00:09:21) last pick:  51.3010 57.0790
+\i (00:09:21) pick grid 51.7476 57.0789
+\t (00:09:21) last pick:  51.7480 57.0790
+\i (00:09:21) pick grid 52.2931 57.3764
+\t (00:09:21) last pick:  52.2930 57.3760
+\i (00:09:21) pick grid 52.5907 57.7732
+\t (00:09:21) last pick:  52.5910 57.7730
+\i (00:09:21) pick grid 52.6899 58.2691
+\t (00:09:21) last pick:  52.6900 58.2690
+\i (00:09:22) prepopup 52.7394 58.4179
+\i (00:09:22) done 
+\i (00:09:22) shapeedit 
+\i (00:09:24) add line 
+\i (00:09:25) pick grid 54.4752 56.8805
+\t (00:09:25) last pick:  54.4750 56.8810
+\i (00:09:25) pick grid 54.0785 56.5334
+\t (00:09:25) last pick:  54.0790 56.5330
+\i (00:09:25) pick grid 53.7313 56.1862
+\t (00:09:25) last pick:  53.7310 56.1860
+\i (00:09:25) pick grid 53.3842 55.8886
+\t (00:09:25) last pick:  53.3840 55.8890
+\i (00:09:25) pick grid 53.0370 55.6903
+\t (00:09:25) last pick:  53.0370 55.6900
+\i (00:09:26) pick grid 52.7394 55.2935
+\t (00:09:26) last pick:  52.7390 55.2940
+\i (00:09:26) pick grid 52.8882 55.0455
+\t (00:09:26) last pick:  52.8880 55.0460
+\i (00:09:26) pick grid 53.0866 54.9960
+\t (00:09:26) last pick:  53.0870 54.9960
+\i (00:09:26) pick grid 53.6321 55.3431
+\t (00:09:26) last pick:  53.6320 55.3430
+\i (00:09:26) pick grid 54.0289 55.6903
+\t (00:09:26) last pick:  54.0290 55.6900
+\i (00:09:26) pick grid 54.2768 55.8390
+\t (00:09:26) last pick:  54.2770 55.8390
+\i (00:09:27) pick grid 54.6240 56.1862
+\t (00:09:27) last pick:  54.6240 56.1860
+\i (00:09:27) pick grid 54.5248 56.6325
+\t (00:09:27) last pick:  54.5250 56.6330
+\t (00:09:27) last pick:  54.4750 56.8810
+\i (00:09:27) prepopup 54.4752 56.6821
+\i (00:09:27) done 
+\i (00:09:27) shapeedit 
+\i (00:09:28) add line 
+\i (00:09:29) pick grid 48.2760 56.4342
+\t (00:09:29) last pick:  48.2760 56.4340
+\i (00:09:30) pick grid 48.6232 56.2854
+\t (00:09:30) last pick:  48.6230 56.2850
+\i (00:09:30) pick grid 49.0199 55.9382
+\t (00:09:30) last pick:  49.0200 55.9380
+\i (00:09:30) pick grid 49.3671 55.6407
+\t (00:09:30) last pick:  49.3670 55.6410
+\t (00:09:30) last pick:  49.6650 55.8390
+\i (00:09:30) pick grid 49.6647 55.2935
+\t (00:09:30) last pick:  49.6650 55.2940
+\i (00:09:30) pick grid 49.7638 54.9960
+\t (00:09:30) last pick:  49.7640 54.9960
+\i (00:09:30) pick grid 49.3175 54.8968
+\t (00:09:30) last pick:  49.3180 54.8970
+\i (00:09:31) pick grid 48.6728 55.2439
+\t (00:09:31) last pick:  48.6730 55.2440
+\i (00:09:31) pick grid 48.3752 55.6903
+\t (00:09:31) last pick:  48.3750 55.6900
+\i (00:09:31) pick grid 48.1768 55.9382
+\t (00:09:31) last pick:  48.1770 55.9380
+\i (00:09:31) prepopup 48.1273 56.5334
+\i (00:09:32) done 
+\i (00:09:32) shapeedit 
+\i (00:09:33) add line 
+\i (00:09:44) pick grid 59.4842 65.7577
+\t (00:09:44) last pick:  59.4840 65.7580
+\i (00:09:44) pick grid 60.5256 66.1049
+\t (00:09:44) last pick:  60.5260 66.1050
+\i (00:09:44) pick grid 60.9720 66.1049
+\t (00:09:44) last pick:  60.9720 66.1050
+\i (00:09:45) pick grid 61.1207 66.8488
+\t (00:09:45) last pick:  61.1210 66.8490
+\i (00:09:45) pick grid 61.4183 67.4935
+\t (00:09:45) last pick:  61.4180 67.4940
+\i (00:09:45) pick grid 61.9142 67.8407
+\t (00:09:45) last pick:  61.9140 67.8410
+\i (00:09:45) pick grid 62.5094 68.2374
+\t (00:09:45) last pick:  62.5090 68.2370
+\i (00:09:45) pick grid 63.1541 68.4358
+\t (00:09:45) last pick:  63.1540 68.4360
+\i (00:09:45) pick grid 63.8484 68.5846
+\t (00:09:45) last pick:  63.8480 68.5850
+\i (00:09:46) pick grid 64.4435 68.6342
+\t (00:09:46) last pick:  64.4440 68.6340
+\i (00:09:46) pick grid 65.2866 68.6838
+\t (00:09:46) last pick:  65.2870 68.6840
+\i (00:09:46) pick grid 65.9809 68.2870
+\t (00:09:46) last pick:  65.9810 68.2870
+\i (00:09:46) pick grid 66.2785 67.7415
+\t (00:09:46) last pick:  66.2790 67.7420
+\i (00:09:46) pick grid 66.1297 67.2455
+\t (00:09:46) last pick:  66.1300 67.2460
+\i (00:09:46) pick grid 65.9313 66.7000
+\t (00:09:46) last pick:  65.9310 66.7000
+\i (00:09:47) pick grid 65.7329 66.4025
+\t (00:09:47) last pick:  65.7330 66.4030
+\t (00:09:47) last pick:  65.9400 66.1640
+\i (00:09:47) prepopup 65.6338 66.3529
+\i (00:09:48) done 
+\i (00:09:48) shapeedit 
+\i (00:09:48) add line 
+\i (00:09:50) pick grid 43.4159 66.0553
+\t (00:09:50) last pick:  43.4160 66.0550
+\t (00:09:50) last pick:  43.6090 66.2810
+\i (00:09:50) pick grid 41.1346 67.5431
+\t (00:09:50) last pick:  41.1350 67.5430
+\i (00:09:51) pick grid 40.7874 69.3285
+\t (00:09:51) last pick:  40.7870 69.3290
+\i (00:09:51) pick grid 38.8533 69.4772
+\t (00:09:51) last pick:  38.8530 69.4770
+\i (00:09:51) pick grid 37.9110 69.3781
+\t (00:09:51) last pick:  37.9110 69.3780
+\i (00:09:51) pick grid 37.1175 69.1301
+\t (00:09:51) last pick:  37.1180 69.1300
+\i (00:09:52) pick grid 36.6712 68.6838
+\t (00:09:52) last pick:  36.6710 68.6840
+\i (00:09:52) pick grid 36.6712 68.1878
+\t (00:09:52) last pick:  36.6710 68.1880
+\i (00:09:52) pick grid 36.7208 67.7911
+\t (00:09:52) last pick:  36.7210 67.7910
+\i (00:09:52) pick grid 37.0183 67.3943
+\t (00:09:52) last pick:  37.0180 67.3940
+\i (00:09:52) pick grid 37.0679 67.1464
+\t (00:09:52) last pick:  37.0680 67.1460
+\i (00:09:53) pick grid 36.7208 66.6504
+\t (00:09:53) last pick:  36.7210 66.6500
+\i (00:09:53) pick grid 36.6216 66.4025
+\t (00:09:53) last pick:  36.6220 66.4030
+\i (00:09:53) prepopup 36.5720 66.4025
+\i (00:09:53) done 
+\i (00:09:53) shapeedit 
+\i (00:09:57) add line 
+\i (00:09:58) pick grid 47.5321 46.3171
+\t (00:09:58) last pick:  47.5320 46.3170
+\t (00:09:58) last pick:  47.7360 46.5200
+\i (00:09:59) pick grid 47.7801 44.4325
+\t (00:09:59) last pick:  47.7800 44.4330
+\i (00:09:59) pick grid 47.8793 43.8374
+\t (00:09:59) last pick:  47.8790 43.8370
+\i (00:10:00) pick grid 47.9289 43.0439
+\t (00:10:00) last pick:  47.9290 43.0440
+\i (00:10:00) pick grid 48.1273 42.4488
+\t (00:10:00) last pick:  48.1270 42.4490
+\i (00:10:00) pick grid 48.4248 41.7049
+\t (00:10:00) last pick:  48.4250 41.7050
+\i (00:10:03) pick grid 48.5240 41.1594
+\t (00:10:03) last pick:  48.5240 41.1590
+\i (00:10:03) prepopup 48.5240 41.1594
+\i (00:10:03) done 
+\i (00:10:04) shapeedit 
+\i (00:10:04) add line 
+\i (00:10:05) pick grid 55.3183 46.6147
+\t (00:10:05) last pick:  55.3180 46.6150
+\i (00:10:06) pick grid 55.4671 46.2675
+\t (00:10:06) last pick:  55.4670 46.2680
+\i (00:10:06) pick grid 55.7646 45.5236
+\t (00:10:06) last pick:  55.7650 45.5240
+\i (00:10:06) pick grid 56.0126 44.3334
+\t (00:10:06) last pick:  56.0130 44.3330
+\i (00:10:06) pick grid 55.9630 43.8374
+\t (00:10:06) last pick:  55.9630 43.8370
+\i (00:10:07) pick grid 55.9134 43.0439
+\t (00:10:07) last pick:  55.9130 43.0440
+\i (00:10:07) pick grid 55.7646 42.3000
+\t (00:10:07) last pick:  55.7650 42.3000
+\i (00:10:07) pick grid 55.6655 41.7545
+\t (00:10:07) last pick:  55.6660 41.7550
+\i (00:10:07) pick grid 55.6655 41.4073
+\t (00:10:07) last pick:  55.6660 41.4070
+\i (00:10:07) prepopup 55.5663 41.2090
+\i (00:10:08) done 
+\i (00:10:08) shapeedit 
+\i (00:10:09) roam y 96 
+\i (00:10:09) roam y 96
+\i (00:10:10) roam y 96 
+\i (00:10:10) roam y 96
+\i (00:10:10) roam y 96 
+\i (00:10:10) roam y 96
+\i (00:10:10) roam y 96 
+\i (00:10:10) roam y 96
+\i (00:10:10) roam y 96 
+\i (00:10:10) roam y 96
+\i (00:10:11) roam y 96 
+\i (00:10:11) roam y 96
+\i (00:10:12) roam y 96 
+\i (00:10:12) roam y 96
+\i (00:10:17) roam y 96 
+\i (00:10:17) roam y 96
+\i (00:10:17) roam y -96 
+\i (00:10:17) roam y -96
+\i (00:10:18) roam y -96 
+\i (00:10:18) roam y -96
+\i (00:10:18) roam y -96 
+\i (00:10:18) roam y -96
+\i (00:10:20) add line 
+\i (00:10:22) pick grid 55.6655 41.5313
+\t (00:10:22) last pick:  55.6660 41.5310
+\t (00:10:22) last pick:  55.6660 41.4070
+\i (00:10:22) pick grid 55.5663 41.1345
+\t (00:10:22) last pick:  55.5660 41.1350
+\t (00:10:22) last pick:  55.6660 41.4070
+\t (00:10:22) last pick:  55.6660 41.4070
+\w (00:10:22) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:10:22) pick grid 55.5167 40.5890
+\t (00:10:22) last pick:  55.5170 40.5890
+\i (00:10:22) pick grid 55.6159 39.7459
+\t (00:10:22) last pick:  55.6160 39.7460
+\i (00:10:22) pick grid 55.5663 38.7541
+\t (00:10:22) last pick:  55.5660 38.7540
+\i (00:10:22) pick grid 55.3679 37.9606
+\t (00:10:22) last pick:  55.3680 37.9610
+\i (00:10:23) pick grid 55.3183 37.6134
+\t (00:10:23) last pick:  55.3180 37.6130
+\i (00:10:23) pick grid 55.3679 37.1671
+\t (00:10:23) last pick:  55.3680 37.1670
+\i (00:10:23) pick grid 56.0622 36.8695
+\t (00:10:23) last pick:  56.0620 36.8700
+\i (00:10:23) pick grid 56.5086 36.6215
+\t (00:10:23) last pick:  56.5090 36.6220
+\i (00:10:23) pick grid 56.8557 36.4232
+\t (00:10:23) last pick:  56.8560 36.4230
+\i (00:10:23) pick grid 56.9053 36.2248
+\t (00:10:23) last pick:  56.9050 36.2250
+\i (00:10:24) pick grid 56.9053 35.9768
+\t (00:10:24) last pick:  56.9050 35.9770
+\i (00:10:24) pick grid 56.7565 35.4313
+\t (00:10:24) last pick:  56.7570 35.4310
+\i (00:10:24) pick grid 56.5581 34.9850
+\t (00:10:24) last pick:  56.5580 34.9850
+\t (00:10:24) last pick:  56.4970 34.5710
+\i (00:10:24) pick grid 56.2606 34.3402
+\t (00:10:24) last pick:  56.2610 34.3400
+\i (00:10:24) pick grid 55.9134 34.0427
+\t (00:10:24) last pick:  55.9130 34.0430
+\t (00:10:24) last pick:  56.2380 34.0010
+\t (00:10:24) Merged with existing line. Start next line.
+\i (00:10:24) pick grid 54.9712 33.8443
+\t (00:10:24) last pick:  54.9710 33.8440
+\i (00:10:25) pick grid 53.9793 33.7451
+\t (00:10:25) last pick:  53.9790 33.7450
+\i (00:10:25) pick grid 53.3346 33.6459
+\t (00:10:25) last pick:  53.3350 33.6460
+\i (00:10:25) pick grid 53.0370 34.2410
+\t (00:10:25) last pick:  53.0370 34.2410
+\i (00:10:25) pick grid 53.0370 34.6874
+\t (00:10:25) last pick:  53.0370 34.6870
+\i (00:10:25) pick grid 53.5329 35.5801
+\t (00:10:25) last pick:  53.5330 35.5800
+\i (00:10:25) pick grid 53.6321 35.8776
+\t (00:10:25) last pick:  53.6320 35.8780
+\i (00:10:26) pick grid 53.9297 36.6711
+\t (00:10:26) last pick:  53.9300 36.6710
+\i (00:10:26) pick grid 54.4256 37.0679
+\t (00:10:26) last pick:  54.4260 37.0680
+\i (00:10:26) pick grid 55.0207 37.2663
+\t (00:10:26) last pick:  55.0210 37.2660
+\t (00:10:26) last pick:  55.3680 37.1670
+\i (00:10:26) pick grid 55.0703 37.3158
+\t (00:10:26) last pick:  55.0700 37.3160
+\i (00:10:27) pick grid 53.6321 36.6711
+\t (00:10:27) last pick:  53.6320 36.6710
+\i (00:10:27) pick grid 53.0370 37.0679
+\t (00:10:27) last pick:  53.0370 37.0680
+\i (00:10:27) pick grid 52.7394 37.3158
+\t (00:10:27) last pick:  52.7390 37.3160
+\i (00:10:28) pick grid 52.6403 38.0102
+\t (00:10:28) last pick:  52.6400 38.0100
+\i (00:10:28) pick grid 52.5907 38.2581
+\t (00:10:28) last pick:  52.5910 38.2580
+\i (00:10:28) pick grid 52.5411 39.0020
+\t (00:10:28) last pick:  52.5410 39.0020
+\i (00:10:28) pick grid 52.3923 39.6963
+\t (00:10:28) last pick:  52.3920 39.6960
+\i (00:10:28) pick grid 52.1939 40.6882
+\t (00:10:28) last pick:  52.1940 40.6880
+\i (00:10:28) pick grid 51.9955 41.9776
+\t (00:10:28) last pick:  51.9960 41.9780
+\i (00:10:29) pick grid 51.8964 42.9199
+\t (00:10:29) last pick:  51.8960 42.9200
+\i (00:10:29) pick grid 51.8468 43.3662
+\t (00:10:29) last pick:  51.8470 43.3660
+\t (00:10:29) last pick:  51.7280 43.4610
+\t (00:10:29) Merged with existing line. Start next line.
+\i (00:10:29) prepopup 51.7972 43.6638
+\i (00:10:29) done 
+\i (00:10:29) shapeedit 
+\i (00:10:30) add line 
+\i (00:10:31) pick grid 52.6899 34.4394
+\t (00:10:31) last pick:  52.6900 34.4390
+\t (00:10:31) last pick:  53.0370 34.2410
+\i (00:10:32) pick grid 52.5907 35.1337
+\t (00:10:32) last pick:  52.5910 35.1340
+\i (00:10:32) pick grid 52.5907 35.7289
+\t (00:10:32) last pick:  52.5910 35.7290
+\i (00:10:32) pick grid 52.6403 36.4728
+\t (00:10:32) last pick:  52.6400 36.4730
+\i (00:10:32) pick grid 52.6403 37.0183
+\t (00:10:32) last pick:  52.6400 37.0180
+\t (00:10:32) last pick:  52.7390 37.3160
+\i (00:10:32) prepopup 52.6403 37.1671
+\i (00:10:33) done 
+\i (00:10:33) shapeedit 
+\i (00:10:34) add line 
+\i (00:10:36) pick grid 51.1029 38.1589
+\t (00:10:36) last pick:  51.1030 38.1590
+\t (00:10:36) last pick:  51.0280 38.5110
+\i (00:10:37) pick grid 50.4581 38.5557
+\t (00:10:37) last pick:  50.4580 38.5560
+\i (00:10:37) pick grid 49.7638 39.0020
+\t (00:10:37) last pick:  49.7640 39.0020
+\i (00:10:37) pick grid 49.0695 39.2996
+\t (00:10:37) last pick:  49.0700 39.3000
+\i (00:10:37) pick grid 48.9703 40.1427
+\t (00:10:37) last pick:  48.9700 40.1430
+\i (00:10:37) pick grid 48.6232 40.8866
+\t (00:10:37) last pick:  48.6230 40.8870
+\t (00:10:37) last pick:  48.5240 41.1590
+\t (00:10:37) Merged with existing line. Start next line.
+\i (00:10:37) pick grid 48.4744 41.2337
+\t (00:10:37) last pick:  48.4740 41.2340
+\t (00:10:37) last pick:  48.5240 41.1590
+\i (00:10:38) prepopup 48.4744 41.2337
+\i (00:10:38) done 
+\i (00:10:38) shapeedit 
+\i (00:10:39) add line 
+\i (00:10:40) pick grid 48.9207 39.3492
+\t (00:10:40) last pick:  48.9210 39.3490
+\t (00:10:40) last pick:  49.0700 39.3000
+\i (00:10:40) pick grid 47.6809 39.1012
+\t (00:10:40) last pick:  47.6810 39.1010
+\i (00:10:40) pick grid 47.0858 38.5061
+\t (00:10:40) last pick:  47.0860 38.5060
+\i (00:10:40) pick grid 46.9370 37.9606
+\t (00:10:40) last pick:  46.9370 37.9610
+\i (00:10:40) pick grid 46.9370 37.3158
+\t (00:10:40) last pick:  46.9370 37.3160
+\i (00:10:41) pick grid 47.0858 36.5719
+\t (00:10:41) last pick:  47.0860 36.5720
+\i (00:10:41) pick grid 47.1354 36.1256
+\t (00:10:41) last pick:  47.1350 36.1260
+\i (00:10:41) pick grid 47.1354 35.7784
+\t (00:10:41) last pick:  47.1350 35.7780
+\i (00:10:41) pick grid 46.8874 35.4313
+\t (00:10:41) last pick:  46.8870 35.4310
+\i (00:10:42) pick grid 46.5899 35.1833
+\t (00:10:42) last pick:  46.5900 35.1830
+\i (00:10:42) pick grid 46.4411 35.0345
+\t (00:10:42) last pick:  46.4410 35.0350
+\i (00:10:42) prepopup 46.3915 35.0345
+\i (00:10:42) done 
+\i (00:10:42) shapeedit 
+\i (00:10:43) add line 
+\i (00:10:44) pick grid 50.8053 35.8280
+\t (00:10:44) last pick:  50.8050 35.8280
+\t (00:10:44) last pick:  51.1320 36.0220
+\i (00:10:44) pick grid 49.8134 35.4809
+\t (00:10:44) last pick:  49.8130 35.4810
+\i (00:10:44) pick grid 48.9703 35.3817
+\t (00:10:44) last pick:  48.9700 35.3820
+\i (00:10:45) pick grid 47.9785 35.4809
+\t (00:10:45) last pick:  47.9790 35.4810
+\i (00:10:45) pick grid 47.2346 35.6793
+\t (00:10:45) last pick:  47.2350 35.6790
+\t (00:10:45) last pick:  47.1350 35.7780
+\i (00:10:45) pick grid dbl 47.2346 35.6793
+\t (00:10:45) last pick:  47.2350 35.6790
+\i (00:10:45) prepopup 47.1850 35.6793
+\i (00:10:45) done 
+\i (00:10:45) shapeedit 
+\i (00:10:48) add line 
+\i (00:10:49) pick grid 51.7972 34.6874
+\t (00:10:49) last pick:  51.7970 34.6870
+\t (00:10:49) last pick:  51.5980 34.5450
+\i (00:10:49) pick grid dbl 51.8964 34.6378
+\t (00:10:49) last pick:  51.8960 34.6380
+\t (00:10:49) last pick:  51.5980 34.5450
+\t (00:10:49) last pick:  51.5980 34.5450
+\w (00:10:49) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:10:49) pick grid 52.3427 34.0427
+\t (00:10:49) last pick:  52.3430 34.0430
+\i (00:10:49) pick grid 52.6403 33.2988
+\t (00:10:49) last pick:  52.6400 33.2990
+\i (00:10:49) pick grid 52.8386 32.8028
+\t (00:10:49) last pick:  52.8390 32.8030
+\i (00:10:50) pick grid 52.9378 32.1085
+\t (00:10:50) last pick:  52.9380 32.1090
+\i (00:10:50) pick grid 53.1362 31.1663
+\t (00:10:50) last pick:  53.1360 31.1660
+\i (00:10:50) pick grid 53.1858 30.4719
+\t (00:10:50) last pick:  53.1860 30.4720
+\i (00:10:50) pick grid 53.1362 29.3809
+\t (00:10:50) last pick:  53.1360 29.3810
+\i (00:10:50) pick grid 52.8882 28.3394
+\t (00:10:50) last pick:  52.8880 28.3390
+\i (00:10:50) pick grid 52.5907 27.3476
+\t (00:10:50) last pick:  52.5910 27.3480
+\i (00:10:51) pick grid 52.3923 26.6037
+\t (00:10:51) last pick:  52.3920 26.6040
+\i (00:10:51) pick grid 52.1939 25.1158
+\t (00:10:51) last pick:  52.1940 25.1160
+\i (00:10:51) pick grid 52.0451 23.3801
+\t (00:10:51) last pick:  52.0450 23.3800
+\i (00:10:51) pick grid 52.0451 22.6858
+\t (00:10:51) last pick:  52.0450 22.6860
+\i (00:10:51) pick grid 52.0451 21.7435
+\t (00:10:51) last pick:  52.0450 21.7440
+\i (00:10:52) pick grid 52.0451 21.1484
+\t (00:10:52) last pick:  52.0450 21.1480
+\i (00:10:52) pick grid 52.0451 20.6524
+\t (00:10:52) last pick:  52.0450 20.6520
+\i (00:10:52) pick grid 52.0451 19.8093
+\t (00:10:52) last pick:  52.0450 19.8090
+\i (00:10:52) pick grid 52.0451 18.9663
+\t (00:10:52) last pick:  52.0450 18.9660
+\i (00:10:52) pick grid 52.1443 18.5199
+\t (00:10:52) last pick:  52.1440 18.5200
+\i (00:10:52) pick grid 52.5907 17.6272
+\t (00:10:52) last pick:  52.5910 17.6270
+\i (00:10:53) pick grid 52.7890 17.2305
+\t (00:10:53) last pick:  52.7890 17.2310
+\i (00:10:53) prepopup 52.7890 17.2305
+\i (00:10:54) done 
+\i (00:10:54) shapeedit 
+\i (00:10:55) add line 
+\i (00:10:56) pick grid 56.6573 32.0589
+\t (00:10:56) last pick:  56.6570 32.0590
+\t (00:10:56) last pick:  56.7050 32.0570
+\i (00:10:56) pick grid 56.5581 32.7532
+\t (00:10:56) last pick:  56.5580 32.7530
+\i (00:10:57) pick grid 56.4590 33.2988
+\t (00:10:57) last pick:  56.4590 33.2990
+\i (00:10:57) pick grid 56.5086 33.9435
+\t (00:10:57) last pick:  56.5090 33.9440
+\t (00:10:57) last pick:  56.2380 34.0010
+\i (00:10:57) pick grid 56.5086 34.4394
+\t (00:10:57) last pick:  56.5090 34.4390
+\t (00:10:57) last pick:  56.4970 34.5710
+\i (00:10:57) prepopup 56.5086 34.4394
+\i (00:10:57) done 
+\i (00:10:58) shapeedit 
+\i (00:10:58) add line 
+\i (00:10:59) pick grid 50.5573 36.0760
+\t (00:10:59) last pick:  50.5570 36.0760
+\i (00:10:59) pick grid 49.7142 36.2248
+\t (00:10:59) last pick:  49.7140 36.2250
+\i (00:11:00) pick grid 49.2183 36.3736
+\t (00:11:00) last pick:  49.2180 36.3740
+\i (00:11:00) pick grid 48.2264 36.4232
+\t (00:11:00) last pick:  48.2260 36.4230
+\i (00:11:00) pick grid 47.7305 36.2744
+\t (00:11:00) last pick:  47.7310 36.2740
+\i (00:11:01) pick grid 47.3338 36.0264
+\t (00:11:01) last pick:  47.3340 36.0260
+\t (00:11:01) last pick:  47.1350 36.1260
+\i (00:11:01) prepopup 47.2842 36.0264
+\i (00:11:02) done 
+\i (00:11:02) shapeedit 
+\i (00:11:04) pick grid 51.0037 36.5719
+\t (00:11:04) last pick:  51.0040 36.5720
+\i (00:11:04) pick grid 50.5077 36.9191
+\t (00:11:04) last pick:  50.5080 36.9190
+\i (00:11:04) pick grid 49.9622 37.1175
+\t (00:11:04) last pick:  49.9620 37.1180
+\i (00:11:04) pick grid 48.9703 37.3654
+\t (00:11:04) last pick:  48.9700 37.3650
+\i (00:11:04) pick grid 48.2264 37.3158
+\t (00:11:04) last pick:  48.2260 37.3160
+\i (00:11:06) add line 
+\i (00:11:07) pick grid 50.7557 36.6215
+\t (00:11:07) last pick:  50.7560 36.6220
+\i (00:11:07) pick grid 49.8630 37.2167
+\t (00:11:07) last pick:  49.8630 37.2170
+\i (00:11:07) pick grid 49.5159 37.3654
+\t (00:11:07) last pick:  49.5160 37.3650
+\i (00:11:08) pick grid 49.0695 37.3654
+\t (00:11:08) last pick:  49.0700 37.3650
+\i (00:11:08) pick grid 48.1768 37.3654
+\t (00:11:08) last pick:  48.1770 37.3650
+\i (00:11:08) pick grid 47.9289 37.2167
+\t (00:11:08) last pick:  47.9290 37.2170
+\i (00:11:08) pick grid 47.5321 36.9687
+\t (00:11:08) last pick:  47.5320 36.9690
+\i (00:11:08) pick grid 47.1850 36.8695
+\t (00:11:08) last pick:  47.1850 36.8700
+\t (00:11:08) last pick:  47.0860 36.5720
+\i (00:11:08) done 
+\i (00:11:09) shapeedit 
+\i (00:11:09) add line 
+\i (00:11:10) pick grid 51.2516 37.7126
+\t (00:11:10) last pick:  51.2520 37.7130
+\t (00:11:10) last pick:  51.1060 37.7330
+\i (00:11:11) pick grid 49.5655 38.1093
+\t (00:11:11) last pick:  49.5660 38.1090
+\i (00:11:11) pick grid 48.9207 38.1589
+\t (00:11:11) last pick:  48.9210 38.1590
+\i (00:11:11) pick grid 48.5240 38.2581
+\t (00:11:11) last pick:  48.5240 38.2580
+\i (00:11:11) pick grid 47.8793 38.2085
+\t (00:11:11) last pick:  47.8790 38.2090
+\i (00:11:11) pick grid 47.5321 37.9606
+\t (00:11:11) last pick:  47.5320 37.9610
+\i (00:11:12) pick grid 47.0362 37.6134
+\t (00:11:12) last pick:  47.0360 37.6130
+\t (00:11:12) last pick:  46.9370 37.3160
+\i (00:11:12) done 
+\i (00:11:12) shapeedit 
+\i (00:11:13) pick grid 56.9549 35.8280
+\t (00:11:13) last pick:  56.9550 35.8280
+\i (00:11:13) pick grid 56.1614 35.9272
+\t (00:11:13) last pick:  56.1610 35.9270
+\i (00:11:13) pick grid 55.3679 36.1752
+\t (00:11:13) last pick:  55.3680 36.1750
+\i (00:11:13) pick grid 54.9712 36.2248
+\t (00:11:13) last pick:  54.9710 36.2250
+\i (00:11:14) add line 
+\i (00:11:16) pick grid 47.3338 33.8443
+\t (00:11:16) last pick:  47.3340 33.8440
+\i (00:11:16) pick grid 47.7305 33.7451
+\t (00:11:16) last pick:  47.7310 33.7450
+\i (00:11:16) pick grid 48.2760 33.1004
+\t (00:11:16) last pick:  48.2760 33.1000
+\i (00:11:17) pick grid 48.5240 32.5053
+\t (00:11:17) last pick:  48.5240 32.5050
+\i (00:11:17) pick grid 48.6728 32.0093
+\t (00:11:17) last pick:  48.6730 32.0090
+\i (00:11:17) pick grid 48.6728 31.5630
+\t (00:11:17) last pick:  48.6730 31.5630
+\i (00:11:17) pick grid 48.6728 30.9679
+\t (00:11:17) last pick:  48.6730 30.9680
+\i (00:11:17) pick grid 48.7224 30.3232
+\t (00:11:17) last pick:  48.7220 30.3230
+\i (00:11:17) pick grid 48.8216 29.5793
+\t (00:11:17) last pick:  48.8220 29.5790
+\i (00:11:18) pick grid 48.8216 28.8354
+\t (00:11:18) last pick:  48.8220 28.8350
+\i (00:11:18) pick grid 48.8216 28.2402
+\t (00:11:18) last pick:  48.8220 28.2400
+\i (00:11:18) pick grid 48.6728 27.6451
+\t (00:11:18) last pick:  48.6730 27.6450
+\i (00:11:18) pick grid 48.5736 27.1492
+\t (00:11:18) last pick:  48.5740 27.1490
+\i (00:11:18) pick grid 48.4744 26.6037
+\t (00:11:18) last pick:  48.4740 26.6040
+\i (00:11:19) pick grid 48.3256 26.2069
+\t (00:11:19) last pick:  48.3260 26.2070
+\i (00:11:19) pick grid 48.1768 25.8598
+\t (00:11:19) last pick:  48.1770 25.8600
+\i (00:11:19) pick grid 48.0777 25.3638
+\t (00:11:19) last pick:  48.0780 25.3640
+\i (00:11:19) pick grid 48.0777 24.6695
+\t (00:11:19) last pick:  48.0780 24.6700
+\i (00:11:19) pick grid 48.2264 24.3719
+\t (00:11:19) last pick:  48.2260 24.3720
+\i (00:11:19) pick grid 48.6728 24.0248
+\t (00:11:19) last pick:  48.6730 24.0250
+\i (00:11:20) pick grid 49.0199 23.8760
+\t (00:11:20) last pick:  49.0200 23.8760
+\i (00:11:20) pick grid 49.3671 23.8264
+\t (00:11:20) last pick:  49.3670 23.8260
+\i (00:11:20) pick grid 49.7638 23.7768
+\t (00:11:20) last pick:  49.7640 23.7770
+\t (00:11:20) last pick:  50.0430 23.8140
+\i (00:11:20) pick grid 50.2598 23.7768
+\t (00:11:20) last pick:  50.2600 23.7770
+\i (00:11:20) pick grid 50.5573 23.7768
+\t (00:11:20) last pick:  50.5570 23.7770
+\i (00:11:20) pick grid 51.0533 23.9752
+\t (00:11:20) last pick:  51.0530 23.9750
+\i (00:11:21) pick grid 51.7476 24.2728
+\t (00:11:21) last pick:  51.7480 24.2730
+\i (00:11:21) pick grid 51.9460 24.4215
+\t (00:11:21) last pick:  51.9460 24.4220
+\i (00:11:21) pick grid 51.8468 24.7191
+\t (00:11:21) last pick:  51.8470 24.7190
+\i (00:11:21) pick grid 51.7972 25.2646
+\t (00:11:21) last pick:  51.7970 25.2650
+\i (00:11:21) pick grid 51.4996 26.1573
+\t (00:11:21) last pick:  51.5000 26.1570
+\i (00:11:22) pick grid 51.1525 26.7028
+\t (00:11:22) last pick:  51.1530 26.7030
+\i (00:11:22) pick grid 50.8549 27.1988
+\t (00:11:22) last pick:  50.8550 27.1990
+\i (00:11:22) pick grid 50.5077 27.7939
+\t (00:11:22) last pick:  50.5080 27.7940
+\i (00:11:22) pick grid 50.2102 28.5378
+\t (00:11:22) last pick:  50.2100 28.5380
+\t (00:11:22) last pick:  49.9400 28.3760
+\i (00:11:22) pick grid 49.9126 29.1825
+\t (00:11:22) last pick:  49.9130 29.1830
+\t (00:11:22) last pick:  49.8360 29.1800
+\t (00:11:22) Merged with existing line. Start next line.
+\i (00:11:22) pick grid 49.8630 29.8272
+\t (00:11:22) last pick:  49.8630 29.8270
+\i (00:11:23) pick grid 49.8630 30.5711
+\t (00:11:23) last pick:  49.8630 30.5710
+\i (00:11:23) pick grid 49.8630 31.1167
+\t (00:11:23) last pick:  49.8630 31.1170
+\i (00:11:24) pick grid 50.1606 32.5053
+\t (00:11:24) last pick:  50.1610 32.5050
+\i (00:11:24) pick grid 50.3094 33.0012
+\t (00:11:24) last pick:  50.3090 33.0010
+\i (00:11:24) pick grid 50.7061 33.5467
+\t (00:11:24) last pick:  50.7060 33.5470
+\i (00:11:24) pick grid 51.0533 33.9435
+\t (00:11:24) last pick:  51.0530 33.9440
+\t (00:11:24) last pick:  51.3390 34.0010
+\i (00:11:24) pick grid 51.3508 34.2410
+\t (00:11:24) last pick:  51.3510 34.2410
+\t (00:11:24) last pick:  51.2100 34.3120
+\i (00:11:25) done 
+\i (00:11:25) shapeedit 
+\i (00:11:27) add line 
+\i (00:11:28) pick grid 46.7386 30.5711
+\t (00:11:28) last pick:  46.7390 30.5710
+\i (00:11:28) pick grid 46.8874 30.6703
+\t (00:11:28) last pick:  46.8870 30.6700
+\i (00:11:28) pick grid 47.0858 30.7199
+\t (00:11:28) last pick:  47.0860 30.7200
+\i (00:11:28) pick grid 47.5321 30.6703
+\t (00:11:28) last pick:  47.5320 30.6700
+\i (00:11:28) pick grid 47.7801 30.3232
+\t (00:11:28) last pick:  47.7800 30.3230
+\i (00:11:28) pick grid 47.9289 29.8768
+\t (00:11:28) last pick:  47.9290 29.8770
+\i (00:11:29) pick grid 48.0777 29.3313
+\t (00:11:29) last pick:  48.0780 29.3310
+\i (00:11:29) pick grid 48.1768 28.7858
+\t (00:11:29) last pick:  48.1770 28.7860
+\i (00:11:29) pick grid 48.2264 28.4386
+\t (00:11:29) last pick:  48.2260 28.4390
+\i (00:11:29) pick grid 48.0777 27.9427
+\t (00:11:29) last pick:  48.0780 27.9430
+\i (00:11:29) pick grid 48.0281 27.6451
+\t (00:11:29) last pick:  48.0280 27.6450
+\i (00:11:29) pick grid 47.6809 27.3971
+\t (00:11:29) last pick:  47.6810 27.3970
+\i (00:11:30) pick grid 47.3338 27.2980
+\t (00:11:30) last pick:  47.3340 27.2980
+\i (00:11:30) pick grid 47.0858 27.6947
+\t (00:11:30) last pick:  47.0860 27.6950
+\i (00:11:30) pick grid 46.8378 28.4882
+\t (00:11:30) last pick:  46.8380 28.4880
+\i (00:11:30) pick grid 46.7882 28.9841
+\t (00:11:30) last pick:  46.7880 28.9840
+\i (00:11:30) pick grid 46.7882 29.6289
+\t (00:11:30) last pick:  46.7880 29.6290
+\i (00:11:31) pick grid 46.7882 30.0256
+\t (00:11:31) last pick:  46.7880 30.0260
+\i (00:11:31) pick grid 46.8378 30.5215
+\t (00:11:31) last pick:  46.8380 30.5220
+\t (00:11:31) last pick:  46.7390 30.5710
+\i (00:11:31) done 
+\i (00:11:31) shapeedit 
+\i (00:11:32) add line 
+\i (00:11:38) roam y 96 
+\i (00:11:38) roam y 96
+\i (00:11:39) roam y 96 
+\i (00:11:39) roam y 96
+\i (00:11:39) roam y 96 
+\i (00:11:39) roam y 96
+\i (00:11:43) roam y -96 
+\i (00:11:43) roam y -96
+\i (00:11:43) roam y 96 
+\i (00:11:43) roam y 96
+\i (00:11:43) roam y 96 
+\i (00:11:43) roam y 96
+\i (00:11:43) roam y 96 
+\i (00:11:43) roam y 96
+\i (00:11:50) delete 
+\i (00:11:53) roam y -96 
+\i (00:11:53) roam y -96
+\i (00:11:53) roam y -96 
+\i (00:11:53) roam y -96
+\i (00:12:03) pick grid 50.5077 12.2712
+\t (00:12:03) last pick:  50.5080 12.2710
+\t (00:12:03) Line "Board Geometry/Silkscreen_Bottom"
+\i (00:12:03) pick grid 51.2516 10.4858
+\t (00:12:03) last pick:  51.2520 10.4860
+\i (00:12:04) prepopup 51.6980 11.4281
+\i (00:12:04) done 
+\i (00:12:04) shapeedit 
+\i (00:12:07) add line 
+\i (00:12:08) pick grid 56.6077 34.0427
+\t (00:12:08) last pick:  56.6080 34.0430
+\t (00:12:08) last pick:  56.2380 34.0010
+\i (00:12:08) pick grid 56.7565 33.3980
+\t (00:12:08) last pick:  56.7570 33.3980
+\i (00:12:08) pick grid 56.8557 32.9020
+\t (00:12:08) last pick:  56.8560 32.9020
+\i (00:12:08) pick grid 57.2525 32.4061
+\t (00:12:08) last pick:  57.2530 32.4060
+\i (00:12:08) pick grid 57.6492 31.8110
+\t (00:12:08) last pick:  57.6490 31.8110
+\i (00:12:09) pick grid 57.9468 30.8687
+\t (00:12:09) last pick:  57.9470 30.8690
+\i (00:12:09) pick grid 58.0955 30.2240
+\t (00:12:09) last pick:  58.0960 30.2240
+\i (00:12:09) pick grid 58.2443 29.4305
+\t (00:12:09) last pick:  58.2440 29.4310
+\i (00:12:09) pick grid 58.2939 28.4386
+\t (00:12:09) last pick:  58.2940 28.4390
+\i (00:12:09) pick grid 58.2939 27.2980
+\t (00:12:09) last pick:  58.2940 27.2980
+\i (00:12:09) pick grid 58.0459 25.7110
+\t (00:12:09) last pick:  58.0460 25.7110
+\i (00:12:10) pick grid 57.7980 24.8679
+\t (00:12:10) last pick:  57.7980 24.8680
+\i (00:12:10) pick grid 57.3020 23.4297
+\t (00:12:10) last pick:  57.3020 23.4300
+\i (00:12:10) pick grid 57.1037 22.5370
+\t (00:12:10) last pick:  57.1040 22.5370
+\i (00:12:10) pick grid 56.6573 21.5451
+\t (00:12:10) last pick:  56.6570 21.5450
+\i (00:12:10) pick grid 56.4094 20.7021
+\t (00:12:10) last pick:  56.4090 20.7020
+\i (00:12:11) pick grid 56.2606 19.9086
+\t (00:12:11) last pick:  56.2610 19.9090
+\i (00:12:11) pick grid 55.9134 18.6191
+\t (00:12:11) last pick:  55.9130 18.6190
+\i (00:12:11) pick grid 55.8142 17.6273
+\t (00:12:11) last pick:  55.8140 17.6270
+\i (00:12:11) pick grid 55.8142 16.7346
+\t (00:12:11) last pick:  55.8140 16.7350
+\i (00:12:11) pick grid 55.7151 15.0484
+\t (00:12:11) last pick:  55.7150 15.0480
+\i (00:12:11) pick grid 55.7151 14.6021
+\t (00:12:11) last pick:  55.7150 14.6020
+\i (00:12:12) pick grid 55.7151 13.8582
+\t (00:12:12) last pick:  55.7150 13.8580
+\i (00:12:12) pick grid 55.8142 13.7590
+\t (00:12:12) last pick:  55.8140 13.7590
+\i (00:12:12) pick grid 56.1118 13.5110
+\t (00:12:12) last pick:  56.1120 13.5110
+\i (00:12:12) pick grid 56.5086 13.3622
+\t (00:12:12) last pick:  56.5090 13.3620
+\i (00:12:12) pick grid dbl 56.6573 13.3126
+\t (00:12:12) last pick:  56.6570 13.3130
+\i (00:12:12) pick grid 56.8061 12.9159
+\t (00:12:12) last pick:  56.8060 12.9160
+\i (00:12:13) pick grid 56.7565 12.2216
+\t (00:12:13) last pick:  56.7570 12.2220
+\i (00:12:13) pick grid 56.4094 11.5769
+\t (00:12:13) last pick:  56.4090 11.5770
+\i (00:12:13) pick grid 56.0622 11.2297
+\t (00:12:13) last pick:  56.0620 11.2300
+\i (00:12:13) pick grid 55.9134 10.7834
+\t (00:12:13) last pick:  55.9130 10.7830
+\i (00:12:13) pick grid 56.1614 10.2874
+\t (00:12:13) last pick:  56.1610 10.2870
+\i (00:12:13) pick grid 56.2606 9.4443
+\t (00:12:13) last pick:  56.2610 9.4440
+\i (00:12:14) pick grid 56.3102 8.7996
+\t (00:12:14) last pick:  56.3100 8.8000
+\i (00:12:14) pick grid 56.3102 8.1053
+\t (00:12:14) last pick:  56.3100 8.1050
+\i (00:12:14) pick grid 56.3102 7.1134
+\t (00:12:14) last pick:  56.3100 7.1130
+\i (00:12:14) pick grid 56.0622 6.3199
+\t (00:12:14) last pick:  56.0620 6.3200
+\i (00:12:14) pick grid 55.8638 5.8240
+\t (00:12:14) last pick:  55.8640 5.8240
+\i (00:12:14) pick grid 55.6159 5.5264
+\t (00:12:14) last pick:  55.6160 5.5260
+\i (00:12:15) pick grid 55.2191 5.3777
+\t (00:12:15) last pick:  55.2190 5.3780
+\i (00:12:15) pick grid 54.4256 5.2785
+\t (00:12:15) last pick:  54.4260 5.2790
+\i (00:12:15) pick grid 54.2273 5.2785
+\t (00:12:15) last pick:  54.2270 5.2790
+\i (00:12:15) pick grid 54.0289 5.6752
+\t (00:12:15) last pick:  54.0290 5.6750
+\t (00:12:15) last pick:  53.8540 5.9340
+\i (00:12:15) pick grid 53.9793 6.0224
+\t (00:12:15) last pick:  53.9790 6.0220
+\i (00:12:16) pick grid dbl 53.9793 6.0224
+\t (00:12:16) last pick:  53.9790 6.0220
+\t (00:12:16) last pick:  53.9790 6.0220
+\w (00:12:16) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:12:16) prepopup 53.9793 6.1216
+\i (00:12:16) done 
+\i (00:12:16) shapeedit 
+\i (00:12:17) add line 
+\i (00:12:19) pick grid 52.8882 16.8338
+\t (00:12:19) last pick:  52.8880 16.8340
+\i (00:12:19) pick grid 52.8882 16.3378
+\t (00:12:19) last pick:  52.8880 16.3380
+\i (00:12:20) pick grid 52.9378 15.2468
+\t (00:12:20) last pick:  52.9380 15.2470
+\i (00:12:20) pick grid 52.9378 14.6516
+\t (00:12:20) last pick:  52.9380 14.6520
+\i (00:12:20) pick grid 52.9378 14.5525
+\t (00:12:20) last pick:  52.9380 14.5530
+\i (00:12:20) pick grid 53.0866 14.2549
+\t (00:12:20) last pick:  53.0870 14.2550
+\i (00:12:20) pick grid 53.6321 14.8500
+\t (00:12:20) last pick:  53.6320 14.8500
+\i (00:12:20) pick grid 53.7809 15.2468
+\t (00:12:20) last pick:  53.7810 15.2470
+\i (00:12:21) pick grid 54.1281 15.3955
+\t (00:12:21) last pick:  54.1280 15.3960
+\i (00:12:21) pick grid 54.4752 15.2964
+\t (00:12:21) last pick:  54.4750 15.2960
+\i (00:12:21) pick grid 54.7232 14.8996
+\t (00:12:21) last pick:  54.7230 14.9000
+\i (00:12:21) pick grid 54.8224 14.2549
+\t (00:12:21) last pick:  54.8220 14.2550
+\i (00:12:21) pick grid 54.5744 13.4118
+\t (00:12:21) last pick:  54.5740 13.4120
+\i (00:12:21) pick grid 53.9297 12.5191
+\t (00:12:21) last pick:  53.9300 12.5190
+\i (00:12:22) pick grid 53.8305 11.9736
+\t (00:12:22) last pick:  53.8310 11.9740
+\i (00:12:22) pick grid 53.8801 11.2297
+\t (00:12:22) last pick:  53.8800 11.2300
+\i (00:12:22) pick grid 54.0785 10.5850
+\t (00:12:22) last pick:  54.0790 10.5850
+\i (00:12:22) pick grid 54.2273 9.8907
+\t (00:12:22) last pick:  54.2270 9.8910
+\t (00:12:22) last pick:  54.1650 9.6880
+\t (00:12:22) Merged with existing line. Start next line.
+\i (00:12:22) pick grid 54.2273 9.1468
+\t (00:12:22) last pick:  54.2270 9.1470
+\i (00:12:24) pick grid 54.6736 8.2541
+\t (00:12:24) last pick:  54.6740 8.2540
+\t (00:12:24) last pick:  54.5540 8.0850
+\i (00:12:24) pick grid 54.4752 7.4606
+\t (00:12:24) last pick:  54.4750 7.4610
+\t (00:12:24) last pick:  54.5280 7.5660
+\i (00:12:24) pick grid 54.2768 6.6175
+\t (00:12:24) last pick:  54.2770 6.6180
+\t (00:12:24) last pick:  54.1130 6.4000
+\i (00:12:24) pick grid 54.0785 6.0224
+\t (00:12:24) last pick:  54.0790 6.0220
+\t (00:12:24) last pick:  53.9790 6.0220
+\t (00:12:24) Merged with existing line. Start next line.
+\i (00:12:25) pick grid 54.2273 4.9313
+\t (00:12:25) last pick:  54.2270 4.9310
+\t (00:12:25) last pick:  54.2270 5.2790
+\i (00:12:25) pick grid 54.3264 4.1874
+\t (00:12:25) last pick:  54.3260 4.1870
+\i (00:12:25) pick grid 54.2768 3.5923
+\t (00:12:25) last pick:  54.2770 3.5920
+\i (00:12:25) pick grid 54.2273 3.1956
+\t (00:12:25) last pick:  54.2270 3.1960
+\i (00:12:25) pick grid 53.8801 2.9476
+\t (00:12:25) last pick:  53.8800 2.9480
+\i (00:12:25) pick grid 53.2354 2.8980
+\t (00:12:25) last pick:  53.2350 2.8980
+\i (00:12:27) pick grid 49.0695 3.0468
+\t (00:12:27) last pick:  49.0700 3.0470
+\i (00:12:27) pick grid 48.8712 3.1460
+\t (00:12:27) last pick:  48.8710 3.1460
+\i (00:12:27) pick grid 48.7224 3.2451
+\t (00:12:27) last pick:  48.7220 3.2450
+\i (00:12:27) pick grid 48.4744 3.9890
+\t (00:12:27) last pick:  48.4740 3.9890
+\i (00:12:27) pick grid 48.3752 4.5346
+\t (00:12:27) last pick:  48.3750 4.5350
+\i (00:12:27) pick grid 48.3752 5.0305
+\t (00:12:27) last pick:  48.3750 5.0310
+\t (00:12:27) last pick:  48.6440 5.3110
+\i (00:12:28) pick grid 48.3752 5.8240
+\t (00:12:28) last pick:  48.3750 5.8240
+\t (00:12:28) last pick:  48.3590 5.9340
+\i (00:12:28) pick grid 48.3752 6.6671
+\t (00:12:28) last pick:  48.3750 6.6670
+\t (00:12:28) last pick:  48.1770 6.3480
+\i (00:12:28) pick grid 48.3752 8.0557
+\t (00:12:28) last pick:  48.3750 8.0560
+\i (00:12:28) pick grid 48.5240 8.9484
+\t (00:12:28) last pick:  48.5240 8.9480
+\i (00:12:28) pick grid 48.8216 9.7419
+\t (00:12:28) last pick:  48.8220 9.7420
+\i (00:12:29) pick grid 49.1191 10.4362
+\t (00:12:29) last pick:  49.1190 10.4360
+\i (00:12:29) pick grid 49.8134 10.7834
+\t (00:12:29) last pick:  49.8130 10.7830
+\i (00:12:29) pick grid 50.7061 10.9817
+\t (00:12:29) last pick:  50.7060 10.9820
+\i (00:12:29) pick grid 51.3508 11.1305
+\t (00:12:29) last pick:  51.3510 11.1310
+\i (00:12:29) pick grid 52.1939 11.0809
+\t (00:12:29) last pick:  52.1940 11.0810
+\i (00:12:30) pick grid 53.0370 11.0809
+\t (00:12:30) last pick:  53.0370 11.0810
+\i (00:12:30) pick grid 53.4833 10.9817
+\t (00:12:30) last pick:  53.4830 10.9820
+\i (00:12:30) pick grid 53.8801 10.8329
+\t (00:12:30) last pick:  53.8800 10.8330
+\t (00:12:30) last pick:  54.0790 10.5850
+\i (00:12:32) prepopup 53.5825 10.4858
+\i (00:12:33) done 
+\i (00:12:33) shapeedit 
+\i (00:12:35) pick grid 51.4500 4.2866
+\t (00:12:35) last pick:  51.4500 4.2870
+\e (00:12:36) Command not found: F6~D~D
+\i (00:12:37) delete 
+\i (00:12:39) pick grid 51.2516 4.1378
+\t (00:12:39) last pick:  51.2520 4.1380
+\t (00:12:39) Line "Board Geometry/Silkscreen_Bottom"
+\i (00:12:40) pick grid 43.2175 5.8736
+\t (00:12:40) last pick:  43.2180 5.8740
+\i (00:12:41) prepopup 43.0191 6.0720
+\i (00:12:42) done 
+\i (00:12:42) shapeedit 
+\i (00:13:42) add line 
+\i (00:13:43) pick grid 54.1777 9.0972
+\t (00:13:43) last pick:  54.1780 9.0970
+\t (00:13:43) last pick:  54.2270 9.1470
+\i (00:13:44) pick grid 54.1777 9.3451
+\t (00:13:44) last pick:  54.1780 9.3450
+\t (00:13:44) last pick:  54.2270 9.1470
+\t (00:13:44) last pick:  54.2270 9.1470
+\w (00:13:44) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:13:44) pick grid 54.1777 9.6923
+\t (00:13:44) last pick:  54.1780 9.6920
+\i (00:13:44) pick grid 54.1777 10.3370
+\t (00:13:44) last pick:  54.1780 10.3370
+\t (00:13:44) last pick:  54.0790 10.5850
+\t (00:13:44) Merged with existing line. Start next line.
+\i (00:13:44) pick grid 54.2768 10.9321
+\t (00:13:44) last pick:  54.2770 10.9320
+\t (00:13:44) last pick:  54.0790 10.5850
+\i (00:13:44) pick grid 54.2768 11.4777
+\t (00:13:44) last pick:  54.2770 11.4780
+\i (00:13:44) pick grid 54.2768 11.9240
+\t (00:13:44) last pick:  54.2770 11.9240
+\i (00:13:45) pick grid 54.2768 12.2712
+\t (00:13:45) last pick:  54.2770 12.2710
+\i (00:13:45) pick grid 54.2273 12.8167
+\t (00:13:45) last pick:  54.2270 12.8170
+\i (00:13:45) pick grid 54.2273 13.1638
+\t (00:13:45) last pick:  54.2270 13.1640
+\i (00:13:45) pick grid 54.4256 13.9573
+\t (00:13:45) last pick:  54.4260 13.9570
+\i (00:13:45) pick grid 54.4752 14.7012
+\t (00:13:45) last pick:  54.4750 14.7010
+\i (00:13:45) pick grid 54.4256 15.2468
+\t (00:13:45) last pick:  54.4260 15.2470
+\i (00:13:45) pick grid 53.8801 15.5939
+\t (00:13:45) last pick:  53.8800 15.5940
+\i (00:13:46) pick grid 53.5825 15.3955
+\t (00:13:46) last pick:  53.5830 15.3960
+\i (00:13:46) pick grid 53.3842 14.9492
+\t (00:13:46) last pick:  53.3840 14.9490
+\i (00:13:46) pick grid 53.1362 14.6021
+\t (00:13:46) last pick:  53.1360 14.6020
+\i (00:13:46) pick grid 52.6899 14.3541
+\t (00:13:46) last pick:  52.6900 14.3540
+\i (00:13:46) pick grid 51.8468 14.2053
+\t (00:13:46) last pick:  51.8470 14.2050
+\i (00:13:46) pick grid 51.4500 14.1557
+\t (00:13:46) last pick:  51.4500 14.1560
+\i (00:13:47) pick grid 50.3590 14.0565
+\t (00:13:47) last pick:  50.3590 14.0570
+\i (00:13:47) pick grid 49.6647 14.0565
+\t (00:13:47) last pick:  49.6650 14.0570
+\i (00:13:47) pick grid 49.3175 14.0565
+\t (00:13:47) last pick:  49.3180 14.0570
+\i (00:13:47) pick grid 49.1687 14.2549
+\t (00:13:47) last pick:  49.1690 14.2550
+\i (00:13:47) pick grid 49.0695 14.4037
+\t (00:13:47) last pick:  49.0700 14.4040
+\i (00:13:48) pick grid 48.9207 14.6516
+\t (00:13:48) last pick:  48.9210 14.6520
+\t (00:13:48) last pick:  48.7470 14.5090
+\i (00:13:48) pick grid 48.4744 14.8996
+\t (00:13:48) last pick:  48.4740 14.9000
+\t (00:13:48) last pick:  48.7470 14.5090
+\t (00:13:48) last pick:  48.7470 14.5090
+\w (00:13:48) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:13:48) pick grid 48.2264 15.0980
+\t (00:13:48) last pick:  48.2260 15.0980
+\i (00:13:48) pick grid 47.7801 15.1972
+\t (00:13:48) last pick:  47.7800 15.1970
+\i (00:13:48) pick grid 47.5817 15.1476
+\t (00:13:48) last pick:  47.5820 15.1480
+\i (00:13:48) pick grid 47.1354 14.9492
+\t (00:13:48) last pick:  47.1350 14.9490
+\i (00:13:49) pick grid 46.9370 14.7508
+\t (00:13:49) last pick:  46.9370 14.7510
+\i (00:13:49) pick grid 46.8378 14.3541
+\t (00:13:49) last pick:  46.8380 14.3540
+\i (00:13:49) pick grid 46.8378 14.0069
+\t (00:13:49) last pick:  46.8380 14.0070
+\i (00:13:49) pick grid 46.9866 13.5606
+\t (00:13:49) last pick:  46.9870 13.5610
+\i (00:13:49) pick grid 47.2346 12.9159
+\t (00:13:49) last pick:  47.2350 12.9160
+\i (00:13:49) pick grid 47.4329 12.1720
+\t (00:13:49) last pick:  47.4330 12.1720
+\t (00:13:49) last pick:  47.6590 12.1510
+\i (00:13:50) pick grid 47.5321 11.4281
+\t (00:13:50) last pick:  47.5320 11.4280
+\i (00:13:50) pick grid 47.7801 10.6842
+\t (00:13:50) last pick:  47.7800 10.6840
+\t (00:13:50) last pick:  47.8920 10.6210
+\i (00:13:50) pick grid 47.8793 9.9899
+\t (00:13:50) last pick:  47.8790 9.9900
+\t (00:13:50) last pick:  48.0990 10.2330
+\i (00:13:50) pick grid 47.8793 9.5931
+\t (00:13:50) last pick:  47.8790 9.5930
+\i (00:13:50) pick grid 47.8297 8.0557
+\t (00:13:50) last pick:  47.8300 8.0560
+\i (00:13:51) pick grid 47.8297 7.0638
+\t (00:13:51) last pick:  47.8300 7.0640
+\i (00:13:51) pick grid 47.8793 6.6671
+\t (00:13:51) last pick:  47.8790 6.6670
+\t (00:13:51) last pick:  48.1770 6.3480
+\i (00:13:51) prepopup 47.9785 6.6175
+\i (00:13:51) done 
+\i (00:13:52) shapeedit 
+\i (00:15:01) add line 
+\i (00:15:09) pick grid 55.9134 10.0890
+\t (00:15:09) last pick:  55.9130 10.0890
+\t (00:15:09) last pick:  56.1610 10.2870
+\i (00:15:10) pick grid 55.3183 11.7256
+\t (00:15:10) last pick:  55.3180 11.7260
+\i (00:15:10) pick grid 55.2191 11.8744
+\t (00:15:10) last pick:  55.2190 11.8740
+\i (00:15:10) pick grid 55.0703 12.2712
+\t (00:15:10) last pick:  55.0700 12.2710
+\i (00:15:10) pick grid 55.2687 12.8167
+\t (00:15:10) last pick:  55.2690 12.8170
+\i (00:15:10) pick grid 55.7646 13.2630
+\t (00:15:10) last pick:  55.7650 13.2630
+\t (00:15:10) last pick:  56.1120 13.5110
+\i (00:15:10) pick grid 55.8142 13.7094
+\t (00:15:10) last pick:  55.8140 13.7090
+\t (00:15:10) last pick:  55.8140 13.7590
+\i (00:15:11) pick grid 55.6655 14.0069
+\t (00:15:11) last pick:  55.6660 14.0070
+\t (00:15:11) last pick:  55.7150 13.8580
+\i (00:15:11) pick grid 55.2687 14.0069
+\t (00:15:11) last pick:  55.2690 14.0070
+\i (00:15:11) pick grid 54.9712 13.7590
+\t (00:15:11) last pick:  54.9710 13.7590
+\i (00:15:11) pick grid 54.7728 13.4118
+\t (00:15:11) last pick:  54.7730 13.4120
+\i (00:15:11) pick grid 54.5744 13.1142
+\t (00:15:11) last pick:  54.5740 13.1140
+\t (00:15:11) last pick:  54.2270 13.1640
+\i (00:15:11) pick grid 54.5248 12.8663
+\t (00:15:11) last pick:  54.5250 12.8660
+\t (00:15:11) last pick:  54.2270 12.8170
+\i (00:15:12) pick grid 54.7232 12.6679
+\t (00:15:12) last pick:  54.7230 12.6680
+\i (00:15:12) pick grid dbl 54.7232 12.6679
+\t (00:15:12) last pick:  54.7230 12.6680
+\t (00:15:12) last pick:  54.7230 12.6680
+\w (00:15:12) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:15:12) prepopup 54.8720 12.6183
+\i (00:15:12) done 
+\i (00:15:12) shapeedit 
+\i (00:15:13) done 
+\i (00:15:13) shapeedit 
+\i (00:15:13) pick grid 54.6240 20.5533
+\t (00:15:13) last pick:  54.6240 20.5530
+\i (00:15:13) pick grid 54.7728 20.3053
+\t (00:15:13) last pick:  54.7730 20.3050
+\i (00:15:14) pick grid 54.9712 20.2557
+\t (00:15:14) last pick:  54.9710 20.2560
+\i (00:15:14) pick grid 55.4671 20.7021
+\t (00:15:14) last pick:  55.4670 20.7020
+\i (00:15:14) pick grid 55.5167 21.1980
+\t (00:15:14) last pick:  55.5170 21.1980
+\i (00:15:14) pick grid 55.3679 21.4955
+\t (00:15:14) last pick:  55.3680 21.4960
+\i (00:15:15) zoom out 1 
+\i (00:15:15) setwindow pcb
+\i (00:15:15) zoom out 51.3508 16.3378
+\i (00:15:15) trapsize 4959
+\i (00:15:15) zoom out 1 
+\i (00:15:15) setwindow pcb
+\i (00:15:15) zoom out 51.3509 16.3379
+\i (00:15:15) trapsize 9919
+\i (00:15:16) zoom in 1 
+\i (00:15:16) setwindow pcb
+\i (00:15:16) zoom in 48.7719 50.2598
+\i (00:15:16) trapsize 4959
+\i (00:15:23) zoom in 1 
+\i (00:15:24) setwindow pcb
+\i (00:15:24) zoom in 28.7362 51.8468
+\i (00:15:24) trapsize 2480
+\i (00:15:24) zoom in 1 
+\i (00:15:24) setwindow pcb
+\i (00:15:24) zoom in 28.7362 51.8964
+\i (00:15:24) trapsize 1240
+\i (00:15:24) zoom out 1 
+\i (00:15:24) setwindow pcb
+\i (00:15:24) zoom out 31.9102 52.2683
+\i (00:15:24) trapsize 2480
+\i (00:15:40) zoom in 1 
+\i (00:15:40) setwindow pcb
+\i (00:15:40) zoom in 33.2492 43.8375
+\i (00:15:40) trapsize 1240
+\i (00:15:41) zoom out 1 
+\i (00:15:41) setwindow pcb
+\i (00:15:41) zoom out 33.2988 43.8623
+\i (00:15:41) trapsize 2480
+\i (00:15:43) zoom points 
+\t (00:15:43) Pick 1st corner of the new window.
+\i (00:15:44) drag_start 53.7313 60.7737
+\i (00:15:45) drag_stop 17.7760 33.4973
+\i (00:15:45) trapsize 1684
+\i (00:15:45) shapeedit 
+\i (00:15:51) zoom out 1 
+\i (00:15:51) setwindow pcb
+\i (00:15:51) zoom out 30.6642 49.5264
+\i (00:15:51) trapsize 3367
+\i (00:15:52) zoom in 1 
+\i (00:15:52) setwindow pcb
+\i (00:15:52) zoom in 34.0318 50.1325
+\i (00:15:52) trapsize 1684
+\i (00:15:53) zoom out 1 
+\i (00:15:53) setwindow pcb
+\i (00:15:53) zoom out 33.8971 49.9642
+\i (00:15:53) trapsize 3367
+\i (00:15:55) zoom points 
+\t (00:15:55) Pick 1st corner of the new window.
+\i (00:15:56) drag_start 69.9289 67.9464
+\i (00:15:57) drag_stop -2.9429 25.7858
+\i (00:15:57) trapsize 2603
+\i (00:15:57) shapeedit 
+\i (00:16:16) add line 
+\i (00:16:18) pick grid 35.3156 46.7099
+\t (00:16:18) last pick:  35.3160 46.7100
+\t (00:16:18) last pick:  35.3710 46.7750
+\i (00:16:18) pick grid 35.0553 46.7620
+\t (00:16:18) last pick:  35.0550 46.7620
+\t (00:16:18) last pick:  35.3710 46.7750
+\t (00:16:18) last pick:  35.3710 46.7750
+\w (00:16:18) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:16:18) pick grid 34.5869 46.8140
+\t (00:16:18) last pick:  34.5870 46.8140
+\i (00:16:18) pick grid 34.3266 47.1263
+\t (00:16:18) last pick:  34.3270 47.1260
+\i (00:16:18) pick grid 34.0664 47.5427
+\t (00:16:18) last pick:  34.0660 47.5430
+\i (00:16:18) pick grid 33.9102 48.2194
+\t (00:16:18) last pick:  33.9100 48.2190
+\i (00:16:19) pick grid 33.7541 48.7919
+\t (00:16:19) last pick:  33.7540 48.7920
+\i (00:16:19) pick grid 33.6500 49.5206
+\t (00:16:19) last pick:  33.6500 49.5210
+\i (00:16:19) pick grid 33.6500 50.1452
+\t (00:16:19) last pick:  33.6500 50.1450
+\i (00:16:19) pick grid 33.7541 50.9780
+\t (00:16:19) last pick:  33.7540 50.9780
+\i (00:16:19) pick grid 33.6500 51.5506
+\t (00:16:19) last pick:  33.6500 51.5510
+\i (00:16:19) pick grid 33.8582 52.4875
+\t (00:16:19) last pick:  33.8580 52.4880
+\i (00:16:20) pick grid 34.2225 53.2683
+\t (00:16:20) last pick:  34.2230 53.2680
+\i (00:16:20) pick grid 34.5348 54.0490
+\t (00:16:20) last pick:  34.5350 54.0490
+\i (00:16:20) pick grid 34.7951 54.6216
+\t (00:16:20) last pick:  34.7950 54.6220
+\i (00:16:20) pick grid 35.2115 55.1941
+\t (00:16:20) last pick:  35.2120 55.1940
+\i (00:16:20) pick grid 35.7320 55.6626
+\t (00:16:20) last pick:  35.7320 55.6630
+\i (00:16:20) pick grid 36.3566 56.0790
+\t (00:16:20) last pick:  36.3570 56.0790
+\i (00:16:21) pick grid 37.0332 56.2872
+\t (00:16:21) last pick:  37.0330 56.2870
+\i (00:16:21) pick grid 37.4496 56.3913
+\t (00:16:21) last pick:  37.4500 56.3910
+\t (00:16:21) last pick:  37.8350 56.2160
+\i (00:16:21) pick grid 37.7619 56.3913
+\t (00:16:21) last pick:  37.7620 56.3910
+\i (00:16:21) done 
+\i (00:16:21) shapeedit 
+\i (00:16:23) add line 
+\i (00:16:24) pick grid 37.8660 54.1011
+\t (00:16:24) last pick:  37.8660 54.1010
+\i (00:16:24) pick grid 38.0742 53.9449
+\t (00:16:24) last pick:  38.0740 53.9450
+\i (00:16:24) pick grid 38.1263 53.3203
+\t (00:16:24) last pick:  38.1260 53.3200
+\i (00:16:25) pick grid 38.1263 52.9559
+\t (00:16:25) last pick:  38.1260 52.9560
+\i (00:16:25) pick grid 38.0742 52.3834
+\t (00:16:25) last pick:  38.0740 52.3830
+\i (00:16:25) pick grid 37.9701 51.8629
+\t (00:16:25) last pick:  37.9700 51.8630
+\i (00:16:25) pick grid 37.8140 51.2383
+\t (00:16:25) last pick:  37.8140 51.2380
+\i (00:16:25) pick grid 37.7099 50.7178
+\t (00:16:25) last pick:  37.7100 50.7180
+\i (00:16:25) pick grid 37.6058 50.2493
+\t (00:16:25) last pick:  37.6060 50.2490
+\i (00:16:25) pick grid 37.4496 49.8329
+\t (00:16:25) last pick:  37.4500 49.8330
+\i (00:16:26) pick grid 37.2935 49.3124
+\t (00:16:26) last pick:  37.2940 49.3120
+\i (00:16:26) pick grid 36.9812 48.9481
+\t (00:16:26) last pick:  36.9810 48.9480
+\i (00:16:26) pick grid 36.6689 48.5837
+\t (00:16:26) last pick:  36.6690 48.5840
+\i (00:16:26) pick grid 36.4086 48.3235
+\t (00:16:26) last pick:  36.4090 48.3240
+\i (00:16:26) pick grid 36.1484 48.2714
+\t (00:16:26) last pick:  36.1480 48.2710
+\i (00:16:26) pick grid 36.1484 48.2714
+\t (00:16:26) last pick:  36.1480 48.2710
+\t (00:16:26) last pick:  36.1480 48.2710
+\w (00:16:26) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:16:27) pick grid 35.7320 48.7399
+\t (00:16:27) last pick:  35.7320 48.7400
+\i (00:16:27) pick grid 35.6279 49.1563
+\t (00:16:27) last pick:  35.6280 49.1560
+\i (00:16:27) pick grid 35.5238 49.8329
+\t (00:16:27) last pick:  35.5240 49.8330
+\i (00:16:27) pick grid 35.5238 50.3534
+\t (00:16:27) last pick:  35.5240 50.3530
+\i (00:16:27) pick grid 35.5758 50.9780
+\t (00:16:27) last pick:  35.5760 50.9780
+\i (00:16:28) pick grid 35.7320 51.6547
+\t (00:16:28) last pick:  35.7320 51.6550
+\i (00:16:28) pick grid 36.2525 52.6957
+\t (00:16:28) last pick:  36.2530 52.6960
+\i (00:16:28) pick grid 36.5648 53.2162
+\t (00:16:28) last pick:  36.5650 53.2160
+\i (00:16:28) pick grid 37.3976 53.7367
+\t (00:16:28) last pick:  37.3980 53.7370
+\i (00:16:28) pick grid 37.5537 53.9449
+\t (00:16:28) last pick:  37.5540 53.9450
+\i (00:16:28) pick grid dbl 37.6578 53.9449
+\t (00:16:28) last pick:  37.6580 53.9450
+\i (00:16:29) done 
+\i (00:16:29) shapeedit 
+\i (00:16:30) add line 
+\i (00:16:33) pick grid 34.1705 58.4212
+\t (00:16:33) last pick:  34.1710 58.4210
+\t (00:16:33) last pick:  34.3740 58.2370
+\i (00:16:33) pick grid 34.1705 58.8376
+\t (00:16:33) last pick:  34.1710 58.8380
+\i (00:16:33) pick grid 33.8582 58.9938
+\t (00:16:33) last pick:  33.8580 58.9940
+\i (00:16:33) pick grid 33.8061 58.9938
+\t (00:16:33) last pick:  33.8060 58.9940
+\i (00:16:34) pick grid 33.0774 58.6815
+\t (00:16:34) last pick:  33.0770 58.6820
+\i (00:16:34) pick grid 32.8172 58.1610
+\t (00:16:34) last pick:  32.8170 58.1610
+\t (00:16:34) last pick:  33.0450 57.7660
+\i (00:16:34) pick grid 32.5049 57.4843
+\t (00:16:34) last pick:  32.5050 57.4840
+\t (00:16:34) last pick:  32.6020 57.4620
+\i (00:16:34) pick grid 32.2446 56.8597
+\t (00:16:34) last pick:  32.2450 56.8600
+\t (00:16:34) last pick:  32.2150 57.1570
+\i (00:16:34) pick grid 31.9323 56.4433
+\t (00:16:34) last pick:  31.9320 56.4430
+\t (00:16:34) last pick:  31.6060 56.6310
+\i (00:16:34) pick grid 31.7762 56.0790
+\t (00:16:34) last pick:  31.7760 56.0790
+\i (00:16:35) pick grid 31.6721 55.7667
+\t (00:16:35) last pick:  31.6720 55.7670
+\i (00:16:35) pick grid 31.5159 55.3503
+\t (00:16:35) last pick:  31.5160 55.3500
+\i (00:16:35) pick grid 31.3598 54.9339
+\t (00:16:35) last pick:  31.3600 54.9340
+\i (00:16:35) pick grid 31.2036 54.5175
+\t (00:16:35) last pick:  31.2040 54.5180
+\i (00:16:35) pick grid 31.0995 54.0490
+\t (00:16:35) last pick:  31.1000 54.0490
+\i (00:16:36) done 
+\i (00:16:36) shapeedit 
+\i (00:16:37) undo 
+\i (00:16:37) trapsize 2603
+\i (00:16:37) shapeedit 
+\i (00:16:38) delete 
+\i (00:16:41) pick grid 31.6200 56.8597
+\t (00:16:41) last pick:  31.6200 56.8600
+\t (00:16:41) Line "Board Geometry/Silkscreen_Bottom"
+\i (00:16:43) prepopup 24.8535 52.1752
+\i (00:16:43) done 
+\i (00:16:44) shapeedit 
+\i (00:16:47) add line 
+\i (00:16:48) pick grid 42.4985 45.1484
+\t (00:16:48) last pick:  42.4990 45.1480
+\t (00:16:48) last pick:  42.6560 45.5090
+\i (00:16:48) pick grid 42.6026 45.7210
+\t (00:16:48) last pick:  42.6030 45.7210
+\t (00:16:48) last pick:  42.6560 45.5090
+\t (00:16:48) last pick:  42.6560 45.5090
+\w (00:16:48) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:16:48) pick grid 42.5506 46.2415
+\t (00:16:48) last pick:  42.5510 46.2420
+\i (00:16:48) pick grid 42.4985 46.8661
+\t (00:16:48) last pick:  42.4990 46.8660
+\i (00:16:48) pick grid 42.4985 47.4386
+\t (00:16:48) last pick:  42.4990 47.4390
+\i (00:16:49) pick grid 42.4464 48.3755
+\t (00:16:49) last pick:  42.4460 48.3760
+\i (00:16:49) pick grid 42.4464 49.0001
+\t (00:16:49) last pick:  42.4460 49.0000
+\i (00:16:49) pick grid 42.4464 49.6768
+\t (00:16:49) last pick:  42.4460 49.6770
+\i (00:16:49) pick grid 42.4985 50.6657
+\t (00:16:49) last pick:  42.4990 50.6660
+\i (00:16:49) pick grid 42.7067 51.4985
+\t (00:16:49) last pick:  42.7070 51.4990
+\i (00:16:49) pick grid 43.1752 52.0190
+\t (00:16:49) last pick:  43.1750 52.0190
+\i (00:16:50) pick grid 43.6436 52.0711
+\t (00:16:50) last pick:  43.6440 52.0710
+\t (00:16:50) last pick:  43.5890 52.0670
+\t (00:16:50) Merged with existing line. Start next line.
+\i (00:16:50) pick grid 43.7998 52.0711
+\t (00:16:50) last pick:  43.8000 52.0710
+\t (00:16:50) last pick:  43.5890 52.0670
+\i (00:16:50) pick grid 44.1641 52.0190
+\t (00:16:50) last pick:  44.1640 52.0190
+\i (00:16:50) pick grid 44.7887 52.1752
+\t (00:16:50) last pick:  44.7890 52.1750
+\t (00:16:50) last pick:  44.7300 52.0930
+\t (00:16:50) Merged with existing line. Start next line.
+\i (00:16:50) pick grid 45.2572 52.5916
+\t (00:16:50) last pick:  45.2570 52.5920
+\t (00:16:50) last pick:  45.2220 52.6630
+\i (00:16:50) pick grid 45.6215 53.0600
+\t (00:16:50) last pick:  45.6220 53.0600
+\i (00:16:51) pick grid 45.9859 53.7367
+\t (00:16:51) last pick:  45.9860 53.7370
+\t (00:16:51) last pick:  45.9740 53.7250
+\i (00:16:51) pick grid 46.3502 54.2572
+\t (00:16:51) last pick:  46.3500 54.2570
+\t (00:16:51) last pick:  46.4150 54.5290
+\t (00:16:51) Merged with existing line. Start next line.
+\i (00:16:51) pick grid 46.4023 54.5175
+\t (00:16:51) last pick:  46.4020 54.5180
+\t (00:16:51) last pick:  46.4150 54.5290
+\i (00:16:51) pick grid 46.4543 54.8298
+\t (00:16:51) last pick:  46.4540 54.8300
+\t (00:16:51) last pick:  46.4150 54.5290
+\t (00:16:51) last pick:  46.4150 54.5290
+\w (00:16:51) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:16:52) pick grid 45.1531 52.5395
+\t (00:16:52) last pick:  45.1530 52.5400
+\t (00:16:52) last pick:  45.2220 52.6630
+\i (00:16:53) pick grid 44.7367 52.0711
+\t (00:16:53) last pick:  44.7370 52.0710
+\t (00:16:53) last pick:  44.7300 52.0930
+\i (00:16:53) show element 
+\i (00:16:54) show element 
+\i (00:16:55) setwindow text
+\i (00:16:55) close 
+\i (00:16:56) setwindow pcb
+\i (00:16:56) prepopup 43.4354 56.7036
+\i (00:16:56) done 
+\i (00:16:56) shapeedit 
+\i (00:16:57) add line 
+\i (00:16:58) pick grid 46.4023 54.6736
+\t (00:16:58) last pick:  46.4020 54.6740
+\t (00:16:58) last pick:  46.4150 54.5290
+\i (00:16:58) pick grid 46.1420 54.7777
+\t (00:16:58) last pick:  46.1420 54.7780
+\t (00:16:58) last pick:  46.4150 54.5290
+\t (00:16:58) last pick:  46.4150 54.5290
+\w (00:16:58) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:16:58) pick grid 45.7777 54.9859
+\t (00:16:58) last pick:  45.7780 54.9860
+\i (00:16:59) pick grid 45.6736 55.2982
+\t (00:16:59) last pick:  45.6740 55.2980
+\i (00:16:59) pick grid 45.7256 55.7146
+\t (00:16:59) last pick:  45.7260 55.7150
+\i (00:16:59) pick grid 46.0900 56.3392
+\t (00:16:59) last pick:  46.0900 56.3390
+\i (00:16:59) pick grid 46.2461 56.8077
+\t (00:16:59) last pick:  46.2460 56.8080
+\i (00:16:59) pick grid 46.5584 57.5364
+\t (00:16:59) last pick:  46.5580 57.5360
+\i (00:16:59) pick grid 46.7146 58.0569
+\t (00:16:59) last pick:  46.7150 58.0570
+\i (00:17:00) pick grid 46.7666 58.6815
+\t (00:17:00) last pick:  46.7670 58.6820
+\t (00:17:00) last pick:  47.0350 58.4430
+\t (00:17:00) Merged with existing line. Start next line.
+\i (00:17:00) pick grid 46.4543 59.0979
+\t (00:17:00) last pick:  46.4540 59.0980
+\i (00:17:00) pick grid 45.9338 59.6184
+\t (00:17:00) last pick:  45.9340 59.6180
+\t (00:17:00) last pick:  46.1230 59.6260
+\t (00:17:00) Merged with existing line. Start next line.
+\i (00:17:00) pick grid 45.7256 59.9827
+\t (00:17:00) last pick:  45.7260 59.9830
+\i (00:17:00) pick grid 45.5174 60.2430
+\t (00:17:00) last pick:  45.5170 60.2430
+\i (00:17:00) pick grid 45.1531 60.5032
+\t (00:17:00) last pick:  45.1530 60.5030
+\i (00:17:01) pick grid 44.6326 60.9196
+\t (00:17:01) last pick:  44.6330 60.9200
+\t (00:17:01) last pick:  45.0140 60.9820
+\t (00:17:01) Merged with existing line. Start next line.
+\i (00:17:01) pick grid 44.4764 61.1799
+\t (00:17:01) last pick:  44.4760 61.1800
+\i (00:17:01) pick grid 44.1121 61.5963
+\t (00:17:01) last pick:  44.1120 61.5960
+\i (00:17:01) pick grid 43.9559 61.9086
+\t (00:17:01) last pick:  43.9560 61.9090
+\i (00:17:01) pick grid 43.9039 62.3770
+\t (00:17:01) last pick:  43.9040 62.3770
+\i (00:17:01) pick grid 43.7998 62.6373
+\t (00:17:01) last pick:  43.8000 62.6370
+\i (00:17:01) pick grid 43.6436 63.4701
+\t (00:17:01) last pick:  43.6440 63.4700
+\i (00:17:02) pick grid 43.4354 63.7303
+\t (00:17:02) last pick:  43.4350 63.7300
+\i (00:17:02) pick grid 42.9149 63.5221
+\t (00:17:02) last pick:  42.9150 63.5220
+\t (00:17:02) last pick:  42.8700 63.4710
+\i (00:17:03) pick grid 40.9890 63.2619
+\t (00:17:03) last pick:  40.9890 63.2620
+\i (00:17:03) pick grid 40.8849 63.1057
+\t (00:17:03) last pick:  40.8850 63.1060
+\i (00:17:03) pick grid 41.0931 62.2209
+\t (00:17:03) last pick:  41.0930 62.2210
+\i (00:17:03) pick grid 41.0931 61.6483
+\t (00:17:03) last pick:  41.0930 61.6480
+\i (00:17:04) pick grid 41.0931 61.1278
+\t (00:17:04) last pick:  41.0930 61.1280
+\i (00:17:04) pick grid 40.8329 60.5553
+\t (00:17:04) last pick:  40.8330 60.5550
+\i (00:17:04) pick grid 40.3644 59.9827
+\t (00:17:04) last pick:  40.3640 59.9830
+\i (00:17:04) pick grid 39.8439 59.4102
+\t (00:17:04) last pick:  39.8440 59.4100
+\i (00:17:04) pick grid 39.4275 58.8897
+\t (00:17:04) last pick:  39.4280 58.8900
+\i (00:17:04) pick grid 39.0632 58.3692
+\t (00:17:04) last pick:  39.0630 58.3690
+\i (00:17:05) pick grid 38.4906 57.6925
+\t (00:17:05) last pick:  38.4910 57.6930
+\i (00:17:05) pick grid 38.1263 57.4323
+\t (00:17:05) last pick:  38.1260 57.4320
+\t (00:17:05) last pick:  38.0150 57.6610
+\t (00:17:05) Merged with existing line. Start next line.
+\i (00:17:05) pick grid 37.8660 57.2761
+\t (00:17:05) last pick:  37.8660 57.2760
+\i (00:17:05) pick grid 37.5537 56.3913
+\t (00:17:05) last pick:  37.5540 56.3910
+\t (00:17:05) last pick:  37.7620 56.3910
+\t (00:17:05) Merged with existing line. Start next line.
+\i (00:17:06) pick grid 37.6578 56.2872
+\t (00:17:06) last pick:  37.6580 56.2870
+\t (00:17:06) last pick:  37.7620 56.3910
+\i (00:17:06) prepopup 37.7099 56.2351
+\i (00:17:06) done 
+\i (00:17:07) shapeedit 
+\i (00:17:08) add line 
+\i (00:17:09) pick grid 46.8707 58.5253
+\t (00:17:09) last pick:  46.8710 58.5250
+\t (00:17:09) last pick:  47.0350 58.4430
+\i (00:17:09) pick grid 46.4023 59.3061
+\t (00:17:09) last pick:  46.4020 59.3060
+\t (00:17:09) last pick:  46.4540 59.0980
+\t (00:17:09) Merged with existing line. Start next line.
+\i (00:17:10) pick grid 45.7256 60.0348
+\t (00:17:10) last pick:  45.7260 60.0350
+\t (00:17:10) last pick:  45.7260 59.9830
+\i (00:17:10) pick grid 44.4764 61.2840
+\t (00:17:10) last pick:  44.4760 61.2840
+\t (00:17:10) last pick:  44.4760 61.1800
+\t (00:17:10) Merged with existing line. Start next line.
+\i (00:17:11) prepopup 44.3203 61.3881
+\i (00:17:11) done 
+\i (00:17:11) shapeedit 
+\i (00:17:13) add line 
+\i (00:17:14) pick grid 46.1420 59.6704
+\t (00:17:14) last pick:  46.1420 59.6700
+\t (00:17:14) last pick:  46.1230 59.6260
+\i (00:17:14) pick grid 45.5174 60.1389
+\t (00:17:14) last pick:  45.5170 60.1390
+\t (00:17:14) last pick:  45.5170 60.2430
+\i (00:17:14) prepopup 45.5174 60.1389
+\i (00:17:15) done 
+\i (00:17:15) shapeedit 
+\i (00:17:18) add line 
+\i (00:17:19) pick grid 37.9181 56.2872
+\t (00:17:19) last pick:  37.9180 56.2870
+\t (00:17:19) last pick:  37.8350 56.2160
+\i (00:17:19) pick grid 37.9701 55.7146
+\t (00:17:19) last pick:  37.9700 55.7150
+\i (00:17:19) pick grid 37.8660 55.2982
+\t (00:17:19) last pick:  37.8660 55.2980
+\i (00:17:19) pick grid 37.9701 54.5695
+\t (00:17:19) last pick:  37.9700 54.5700
+\i (00:17:20) pick grid 38.0742 54.1011
+\t (00:17:20) last pick:  38.0740 54.1010
+\t (00:17:20) last pick:  38.0740 53.9450
+\i (00:17:20) pick grid 38.1783 53.6847
+\t (00:17:20) last pick:  38.1780 53.6850
+\i (00:17:20) pick grid 38.1783 53.2162
+\t (00:17:20) last pick:  38.1780 53.2160
+\t (00:17:20) last pick:  38.1260 53.3200
+\i (00:17:20) pick grid 38.1783 53.0080
+\t (00:17:20) last pick:  38.1780 53.0080
+\t (00:17:20) last pick:  38.1260 52.9560
+\i (00:17:22) pick grid 37.2414 49.2083
+\t (00:17:22) last pick:  37.2410 49.2080
+\t (00:17:22) last pick:  37.2940 49.3120
+\i (00:17:22) pick grid 36.7209 48.5837
+\t (00:17:22) last pick:  36.7210 48.5840
+\t (00:17:22) last pick:  36.6690 48.5840
+\i (00:17:22) pick grid 36.4607 48.3755
+\t (00:17:22) last pick:  36.4610 48.3760
+\t (00:17:22) last pick:  36.4090 48.3240
+\i (00:17:22) pick grid 36.0443 47.8030
+\t (00:17:22) last pick:  36.0440 47.8030
+\i (00:17:22) pick grid 35.8361 47.4386
+\t (00:17:22) last pick:  35.8360 47.4390
+\i (00:17:23) pick grid 35.5758 46.9702
+\t (00:17:23) last pick:  35.5760 46.9700
+\t (00:17:23) last pick:  35.3710 46.7750
+\t (00:17:23) Merged with existing line. Start next line.
+\i (00:17:23) pick grid 35.4197 46.7620
+\t (00:17:23) last pick:  35.4200 46.7620
+\t (00:17:23) last pick:  35.3710 46.7750
+\i (00:17:23) pick grid 34.9512 46.0333
+\t (00:17:23) last pick:  34.9510 46.0330
+\i (00:17:23) pick grid 34.7430 45.6169
+\t (00:17:23) last pick:  34.7430 45.6170
+\i (00:17:23) pick grid 34.5869 44.9923
+\t (00:17:23) last pick:  34.5870 44.9920
+\i (00:17:23) pick grid 34.4307 44.3156
+\t (00:17:23) last pick:  34.4310 44.3160
+\i (00:17:24) pick grid 34.0664 43.1185
+\t (00:17:24) last pick:  34.0660 43.1190
+\i (00:17:24) pick grid 33.8582 42.4939
+\t (00:17:24) last pick:  33.8580 42.4940
+\i (00:17:24) pick grid 33.7020 41.8172
+\t (00:17:24) last pick:  33.7020 41.8170
+\i (00:17:24) pick grid 33.5459 41.1926
+\t (00:17:24) last pick:  33.5460 41.1930
+\i (00:17:24) pick grid 33.1295 40.3598
+\t (00:17:24) last pick:  33.1300 40.3600
+\i (00:17:24) pick grid 32.8692 39.7352
+\t (00:17:24) last pick:  32.8690 39.7350
+\i (00:17:25) pick grid 32.4008 38.7983
+\t (00:17:25) last pick:  32.4010 38.7980
+\i (00:17:25) pick grid 31.9844 38.1217
+\t (00:17:25) last pick:  31.9840 38.1220
+\i (00:17:25) pick grid 31.5680 37.5491
+\t (00:17:25) last pick:  31.5680 37.5490
+\i (00:17:25) pick grid 30.8913 36.9245
+\t (00:17:25) last pick:  30.8910 36.9250
+\i (00:17:25) pick grid 30.3188 36.5602
+\t (00:17:25) last pick:  30.3190 36.5600
+\i (00:17:26) pick grid 30.0585 36.1438
+\t (00:17:26) last pick:  30.0590 36.1440
+\i (00:17:26) pick grid 29.9544 35.8315
+\t (00:17:26) last pick:  29.9540 35.8320
+\i (00:17:26) pick grid 29.5901 35.4151
+\t (00:17:26) last pick:  29.5900 35.4150
+\i (00:17:26) pick grid 29.2257 35.2069
+\t (00:17:26) last pick:  29.2260 35.2070
+\i (00:17:26) pick grid 28.8093 35.3110
+\t (00:17:26) last pick:  28.8090 35.3110
+\i (00:17:26) pick grid 28.0286 35.7274
+\t (00:17:26) last pick:  28.0290 35.7270
+\i (00:17:27) pick grid 27.4560 35.8835
+\t (00:17:27) last pick:  27.4560 35.8840
+\i (00:17:27) pick grid 27.1958 36.1958
+\t (00:17:27) last pick:  27.1960 36.1960
+\i (00:17:27) pick grid 27.2999 36.8204
+\t (00:17:27) last pick:  27.3000 36.8200
+\i (00:17:27) pick grid 27.5081 37.2889
+\t (00:17:27) last pick:  27.5080 37.2890
+\i (00:17:27) pick grid 27.7163 37.9135
+\t (00:17:27) last pick:  27.7160 37.9140
+\i (00:17:28) pick grid 27.6122 38.4860
+\t (00:17:28) last pick:  27.6120 38.4860
+\i (00:17:28) pick grid 27.2999 39.2668
+\t (00:17:28) last pick:  27.3000 39.2670
+\i (00:17:28) pick grid 27.2999 39.5791
+\t (00:17:28) last pick:  27.3000 39.5790
+\i (00:17:28) pick grid 27.4040 40.7242
+\t (00:17:28) last pick:  27.4040 40.7240
+\i (00:17:28) pick grid 27.5081 41.5049
+\t (00:17:28) last pick:  27.5080 41.5050
+\i (00:17:29) pick grid 27.7163 42.5459
+\t (00:17:29) last pick:  27.7160 42.5460
+\i (00:17:29) pick grid 27.9245 43.2226
+\t (00:17:29) last pick:  27.9250 43.2230
+\i (00:17:29) pick grid 28.2368 44.1074
+\t (00:17:29) last pick:  28.2370 44.1070
+\i (00:17:29) pick grid 28.3929 44.7841
+\t (00:17:29) last pick:  28.3930 44.7840
+\i (00:17:29) pick grid 28.5491 45.7210
+\t (00:17:29) last pick:  28.5490 45.7210
+\i (00:17:29) pick grid 28.6532 46.3976
+\t (00:17:29) last pick:  28.6530 46.3980
+\i (00:17:30) pick grid 28.8614 47.0743
+\t (00:17:30) last pick:  28.8610 47.0740
+\i (00:17:30) pick grid 29.0696 47.8030
+\t (00:17:30) last pick:  29.0700 47.8030
+\i (00:17:30) pick grid 29.3298 48.6358
+\t (00:17:30) last pick:  29.3300 48.6360
+\i (00:17:30) pick grid 29.4339 49.2604
+\t (00:17:30) last pick:  29.4340 49.2600
+\i (00:17:30) pick grid 29.4860 49.7288
+\t (00:17:30) last pick:  29.4860 49.7290
+\i (00:17:31) pick grid 29.5380 50.8739
+\t (00:17:31) last pick:  29.5380 50.8740
+\i (00:17:31) pick grid 29.3298 51.6026
+\t (00:17:31) last pick:  29.3300 51.6030
+\i (00:17:31) pick grid 29.4860 52.5916
+\t (00:17:31) last pick:  29.4860 52.5920
+\i (00:17:31) pick grid 29.9544 53.0080
+\t (00:17:31) last pick:  29.9540 53.0080
+\i (00:17:31) pick grid 30.4229 53.6847
+\t (00:17:31) last pick:  30.4230 53.6850
+\i (00:17:32) pick grid 30.7352 54.6216
+\t (00:17:32) last pick:  30.7350 54.6220
+\i (00:17:32) pick grid 31.1516 55.2462
+\t (00:17:32) last pick:  31.1520 55.2460
+\i (00:17:32) pick grid 31.2557 55.5585
+\t (00:17:32) last pick:  31.2560 55.5590
+\i (00:17:32) prepopup 30.9434 55.7667
+\i (00:17:32) done 
+\i (00:17:32) shapeedit 
+\i (00:17:35) add line 
+\i (00:17:36) pick grid 31.0475 55.6105
+\t (00:17:36) last pick:  31.0480 55.6110
+\t (00:17:36) last pick:  31.2560 55.5590
+\i (00:17:36) pick grid dbl 31.0475 55.6105
+\t (00:17:36) last pick:  31.0480 55.6110
+\t (00:17:36) last pick:  31.2560 55.5590
+\t (00:17:36) last pick:  31.2560 55.5590
+\w (00:17:36) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:17:37) pick grid 31.6200 56.1831
+\t (00:17:37) last pick:  31.6200 56.1830
+\i (00:17:37) pick grid 31.8803 56.7036
+\t (00:17:37) last pick:  31.8800 56.7040
+\i (00:17:37) pick grid 32.1926 57.2761
+\t (00:17:37) last pick:  32.1930 57.2760
+\i (00:17:37) pick grid 32.5049 58.0048
+\t (00:17:37) last pick:  32.5050 58.0050
+\i (00:17:37) pick grid 33.0774 58.7335
+\t (00:17:37) last pick:  33.0770 58.7340
+\i (00:17:38) pick grid 33.3897 59.1499
+\t (00:17:38) last pick:  33.3900 59.1500
+\i (00:17:38) pick grid 33.9623 59.4102
+\t (00:17:38) last pick:  33.9620 59.4100
+\i (00:17:38) pick grid 34.5348 58.7335
+\t (00:17:38) last pick:  34.5350 58.7340
+\i (00:17:38) pick grid 34.5869 58.4212
+\t (00:17:38) last pick:  34.5870 58.4210
+\i (00:17:39) pick grid 34.5869 57.9007
+\t (00:17:39) last pick:  34.5870 57.9010
+\i (00:17:39) pick grid 34.5869 56.9638
+\t (00:17:39) last pick:  34.5870 56.9640
+\i (00:17:39) pick grid 34.5869 56.2872
+\t (00:17:39) last pick:  34.5870 56.2870
+\i (00:17:39) pick grid 34.4828 55.7146
+\t (00:17:39) last pick:  34.4830 55.7150
+\i (00:17:39) pick grid 34.4828 55.6105
+\t (00:17:39) last pick:  34.4830 55.6110
+\i (00:17:39) pick grid 34.7430 55.7146
+\t (00:17:39) last pick:  34.7430 55.7150
+\i (00:17:40) pick grid 35.2115 56.1831
+\t (00:17:40) last pick:  35.2120 56.1830
+\i (00:17:40) pick grid 35.6279 56.4433
+\t (00:17:40) last pick:  35.6280 56.4430
+\i (00:17:40) pick grid 36.4607 56.5474
+\t (00:17:40) last pick:  36.4610 56.5470
+\i (00:17:40) pick grid 36.7209 56.5995
+\t (00:17:40) last pick:  36.7210 56.6000
+\i (00:17:40) pick grid 36.8771 56.5995
+\t (00:17:40) last pick:  36.8770 56.6000
+\i (00:17:41) pick grid 37.6058 56.5995
+\t (00:17:41) last pick:  37.6060 56.6000
+\t (00:17:41) last pick:  37.7620 56.3910
+\i (00:17:41) pick grid 37.8140 56.5995
+\t (00:17:41) last pick:  37.8140 56.6000
+\i (00:17:41) prepopup 37.8140 56.4954
+\i (00:17:41) done 
+\i (00:17:42) shapeedit 
+\i (00:17:44) add line 
+\i (00:17:45) pick grid 33.0774 40.3598
+\t (00:17:45) last pick:  33.0770 40.3600
+\t (00:17:45) last pick:  33.1300 40.3600
+\i (00:17:45) pick grid 32.8692 40.3598
+\t (00:17:45) last pick:  32.8690 40.3600
+\t (00:17:45) last pick:  33.1300 40.3600
+\t (00:17:45) last pick:  33.1300 40.3600
+\w (00:17:45) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:17:45) pick grid 32.4528 40.3598
+\t (00:17:45) last pick:  32.4530 40.3600
+\i (00:17:46) pick grid 32.0885 40.4639
+\t (00:17:46) last pick:  32.0890 40.4640
+\i (00:17:46) pick grid 31.7241 40.5160
+\t (00:17:46) last pick:  31.7240 40.5160
+\i (00:17:46) pick grid 31.3077 40.6201
+\t (00:17:46) last pick:  31.3080 40.6200
+\i (00:17:46) pick grid 31.0475 40.7762
+\t (00:17:46) last pick:  31.0480 40.7760
+\i (00:17:46) pick grid 30.7872 40.8283
+\t (00:17:46) last pick:  30.7870 40.8280
+\i (00:17:46) pick grid 30.2667 40.9844
+\t (00:17:46) last pick:  30.2670 40.9840
+\i (00:17:47) pick grid 30.0585 41.0885
+\t (00:17:47) last pick:  30.0590 41.0890
+\i (00:17:47) pick grid 29.7462 41.2447
+\t (00:17:47) last pick:  29.7460 41.2450
+\i (00:17:47) pick grid 29.5380 41.4529
+\t (00:17:47) last pick:  29.5380 41.4530
+\i (00:17:47) pick grid 29.2778 41.5570
+\t (00:17:47) last pick:  29.2780 41.5570
+\i (00:17:47) pick grid 29.1737 41.6611
+\t (00:17:47) last pick:  29.1740 41.6610
+\i (00:17:48) pick grid 28.9134 41.8172
+\t (00:17:48) last pick:  28.9130 41.8170
+\i (00:17:48) pick grid dbl 28.8614 41.8172
+\t (00:17:48) last pick:  28.8610 41.8170
+\i (00:17:48) pick grid 28.4970 42.0254
+\t (00:17:48) last pick:  28.4970 42.0250
+\i (00:17:48) pick grid 28.3929 42.0775
+\t (00:17:48) last pick:  28.3930 42.0780
+\i (00:17:48) pick grid 28.2368 42.2336
+\t (00:17:48) last pick:  28.2370 42.2340
+\i (00:17:48) pick grid dbl 28.1847 42.3377
+\t (00:17:48) last pick:  28.1850 42.3380
+\i (00:17:49) pick grid 28.0806 42.4939
+\t (00:17:49) last pick:  28.0810 42.4940
+\i (00:17:49) pick grid 28.0806 42.4939
+\t (00:17:49) last pick:  28.0810 42.4940
+\t (00:17:49) last pick:  28.0810 42.4940
+\w (00:17:49) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:17:49) pick grid dbl 28.0286 42.7021
+\t (00:17:49) last pick:  28.0290 42.7020
+\i (00:17:49) pick grid 28.0286 42.9103
+\t (00:17:49) last pick:  28.0290 42.9100
+\i (00:17:49) pick grid 27.9765 43.0664
+\t (00:17:49) last pick:  27.9770 43.0660
+\t (00:17:49) last pick:  27.9250 43.2230
+\i (00:17:49) prepopup 27.9765 43.0664
+\i (00:17:50) done 
+\i (00:17:50) shapeedit 
+\i (00:17:52) copy 
+\t (00:17:52) Select the element(s) to copy.
+\i (00:17:53) pick grid 29.8503 41.3488
+\t (00:17:53) last pick:  29.8500 41.3490
+\i (00:17:55) pick grid 29.5380 40.8283
+\t (00:17:55) last pick:  29.5380 40.8280
+\i (00:17:56) pick grid 29.4339 40.2557
+\t (00:17:56) last pick:  29.4340 40.2560
+\i (00:17:57) pick grid 29.3298 39.7352
+\t (00:17:57) last pick:  29.3300 39.7350
+\i (00:17:57) prepopup 27.9245 39.6832
+\i (00:17:58) done 
+\i (00:17:58) shapeedit 
+\i (00:18:00) add line 
+\i (00:18:01) add line 
+\i (00:18:02) pick grid 34.3787 55.5585
+\t (00:18:02) last pick:  34.3790 55.5590
+\t (00:18:02) last pick:  34.4830 55.6110
+\i (00:18:02) pick grid 34.1705 55.0900
+\t (00:18:02) last pick:  34.1710 55.0900
+\i (00:18:02) pick grid 33.9623 54.4134
+\t (00:18:02) last pick:  33.9620 54.4130
+\i (00:18:02) pick grid 33.8061 53.8929
+\t (00:18:02) last pick:  33.8060 53.8930
+\i (00:18:02) pick grid 33.6500 53.3724
+\t (00:18:02) last pick:  33.6500 53.3720
+\i (00:18:02) pick grid 33.4418 52.7998
+\t (00:18:02) last pick:  33.4420 52.8000
+\i (00:18:03) pick grid 33.1295 52.1752
+\t (00:18:03) last pick:  33.1300 52.1750
+\i (00:18:03) pick grid 32.8172 51.6547
+\t (00:18:03) last pick:  32.8170 51.6550
+\i (00:18:03) pick grid 32.6090 51.1862
+\t (00:18:03) last pick:  32.6090 51.1860
+\i (00:18:03) pick grid 32.2446 50.5616
+\t (00:18:03) last pick:  32.2450 50.5620
+\i (00:18:03) pick grid 31.7762 49.8850
+\t (00:18:03) last pick:  31.7760 49.8850
+\i (00:18:03) pick grid 31.5159 49.6768
+\t (00:18:03) last pick:  31.5160 49.6770
+\i (00:18:04) pick grid 31.2557 49.3124
+\t (00:18:04) last pick:  31.2560 49.3120
+\i (00:18:04) pick grid 30.8913 48.8440
+\t (00:18:04) last pick:  30.8910 48.8440
+\i (00:18:04) pick grid 30.5270 48.4796
+\t (00:18:04) last pick:  30.5270 48.4800
+\i (00:18:04) pick grid 30.2147 48.1153
+\t (00:18:04) last pick:  30.2150 48.1150
+\i (00:18:04) pick grid dbl 30.2147 48.1153
+\t (00:18:04) last pick:  30.2150 48.1150
+\t (00:18:04) last pick:  30.2150 48.1150
+\w (00:18:04) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:18:04) pick grid 30.0065 48.4796
+\t (00:18:04) last pick:  30.0070 48.4800
+\i (00:18:05) pick grid 29.9024 48.7919
+\t (00:18:05) last pick:  29.9020 48.7920
+\i (00:18:05) pick grid 29.6942 49.2604
+\t (00:18:05) last pick:  29.6940 49.2600
+\t (00:18:05) last pick:  29.4340 49.2600
+\i (00:18:05) pick grid 29.6421 49.7288
+\t (00:18:05) last pick:  29.6420 49.7290
+\t (00:18:05) last pick:  29.4860 49.7290
+\i (00:18:05) pick grid 29.6421 49.7288
+\t (00:18:05) last pick:  29.6420 49.7290
+\i (00:18:05) prepopup 29.6421 50.2493
+\i (00:18:06) done 
+\i (00:18:06) shapeedit 
+\i (00:18:07) add line 
+\i (00:18:09) pick grid 32.6610 50.8219
+\t (00:18:09) last pick:  32.6610 50.8220
+\t (00:18:09) last pick:  32.6090 51.1860
+\i (00:18:10) pick grid 30.1626 45.0443
+\t (00:18:10) last pick:  30.1630 45.0440
+\i (00:18:10) pick grid 30.2147 43.6910
+\t (00:18:10) last pick:  30.2150 43.6910
+\i (00:18:10) pick grid 30.3708 42.9103
+\t (00:18:10) last pick:  30.3710 42.9100
+\i (00:18:10) pick grid 30.4749 42.3377
+\t (00:18:10) last pick:  30.4750 42.3380
+\i (00:18:11) pick grid 30.4749 41.9213
+\t (00:18:11) last pick:  30.4750 41.9210
+\i (00:18:11) pick grid 30.1106 41.1926
+\t (00:18:11) last pick:  30.1110 41.1930
+\t (00:18:11) last pick:  30.0590 41.0890
+\i (00:18:11) prepopup 30.1106 41.1926
+\i (00:18:12) done 
+\i (00:18:12) shapeedit 
+\i (00:18:14) add line 
+\i (00:18:15) pick grid 31.2557 37.5491
+\t (00:18:15) last pick:  31.2560 37.5490
+\t (00:18:15) last pick:  31.5680 37.5490
+\i (00:18:16) pick grid 30.4229 37.4971
+\t (00:18:16) last pick:  30.4230 37.4970
+\i (00:18:16) pick grid 29.0175 37.4450
+\t (00:18:16) last pick:  29.0180 37.4450
+\i (00:18:16) pick grid 28.4450 37.6532
+\t (00:18:16) last pick:  28.4450 37.6530
+\i (00:18:16) pick grid 27.9245 37.9655
+\t (00:18:16) last pick:  27.9250 37.9660
+\t (00:18:16) last pick:  27.7160 37.9140
+\i (00:18:16) pick grid 27.5601 38.3819
+\t (00:18:16) last pick:  27.5600 38.3820
+\t (00:18:16) last pick:  27.6120 38.4860
+\i (00:18:16) pick grid 27.5081 38.6942
+\t (00:18:16) last pick:  27.5080 38.6940
+\i (00:18:17) prepopup 27.5601 38.9545
+\i (00:18:17) done 
+\i (00:18:17) shapeedit 
+\i (00:18:19) undo 
+\i (00:18:19) trapsize 2603
+\i (00:18:19) shapeedit 
+\i (00:18:19) add line 
+\i (00:18:20) pick grid 31.4118 37.5491
+\t (00:18:20) last pick:  31.4120 37.5490
+\t (00:18:20) last pick:  31.5680 37.5490
+\i (00:18:20) pick grid 30.6831 37.6012
+\t (00:18:20) last pick:  30.6830 37.6010
+\i (00:18:20) pick grid 30.0585 37.6012
+\t (00:18:20) last pick:  30.0590 37.6010
+\i (00:18:21) pick grid 29.2778 37.8614
+\t (00:18:21) last pick:  29.2780 37.8610
+\i (00:18:21) pick grid 28.9655 37.9655
+\t (00:18:21) last pick:  28.9660 37.9660
+\i (00:18:21) pick grid 28.1327 38.2778
+\t (00:18:21) last pick:  28.1330 38.2780
+\i (00:18:21) pick grid 27.7683 38.5381
+\t (00:18:21) last pick:  27.7680 38.5380
+\t (00:18:21) last pick:  27.6120 38.4860
+\i (00:18:21) pick grid 27.6122 38.7463
+\t (00:18:21) last pick:  27.6120 38.7460
+\i (00:18:22) prepopup 27.5601 38.7983
+\i (00:18:22) done 
+\i (00:18:22) shapeedit 
+\i (00:18:23) add line 
+\i (00:18:24) pick grid 30.0585 36.3520
+\t (00:18:24) last pick:  30.0590 36.3520
+\t (00:18:24) last pick:  30.0590 36.1440
+\i (00:18:24) pick grid 29.2257 36.2999
+\t (00:18:24) last pick:  29.2260 36.3000
+\i (00:18:24) pick grid 28.6011 36.4561
+\t (00:18:24) last pick:  28.6010 36.4560
+\i (00:18:24) pick grid 28.1327 36.8204
+\t (00:18:24) last pick:  28.1330 36.8200
+\i (00:18:25) pick grid 27.8724 37.0286
+\t (00:18:25) last pick:  27.8720 37.0290
+\i (00:18:25) pick grid 27.6122 37.3409
+\t (00:18:25) last pick:  27.6120 37.3410
+\t (00:18:25) last pick:  27.5080 37.2890
+\i (00:18:25) prepopup 27.6122 37.3409
+\i (00:18:25) done 
+\i (00:18:25) shapeedit 
+\e (00:20:02) Command not found: ~S9
+\i (00:20:03) zoom out 1 
+\i (00:20:03) setwindow pcb
+\i (00:20:03) zoom out 23.7084 39.4229
+\i (00:20:03) trapsize 5205
+\i (00:20:03) zoom out 1 
+\i (00:20:03) setwindow pcb
+\i (00:20:03) zoom out 24.5413 40.1517
+\i (00:20:03) trapsize 10410
+\i (00:20:03) zoom in 1 
+\i (00:20:03) setwindow pcb
+\i (00:20:03) zoom in 53.0647 44.7320
+\i (00:20:03) trapsize 5205
+\i (00:20:08) zoom out 1 
+\i (00:20:08) setwindow pcb
+\i (00:20:08) zoom out 49.7335 48.7920
+\i (00:20:08) trapsize 10410
+\i (00:20:09) zoom in 1 
+\i (00:20:09) setwindow pcb
+\i (00:20:09) zoom in 49.1089 21.5177
+\i (00:20:09) trapsize 5205
+\i (00:20:10) zoom in 1 
+\i (00:20:10) setwindow pcb
+\i (00:20:10) zoom in 56.7082 19.3316
+\i (00:20:10) trapsize 2603
+\i (00:20:11) add line 
+\i (00:20:12) pick grid 54.7303 33.3331
+\t (00:20:12) last pick:  54.7300 33.3330
+\i (00:20:12) pick grid 54.9385 33.2290
+\t (00:20:12) last pick:  54.9390 33.2290
+\i (00:20:12) pick grid 55.1987 32.5003
+\t (00:20:12) last pick:  55.1990 32.5000
+\i (00:20:12) pick grid 55.2508 31.8757
+\t (00:20:12) last pick:  55.2510 31.8760
+\i (00:20:13) pick grid 55.2508 31.1470
+\t (00:20:13) last pick:  55.2510 31.1470
+\i (00:20:13) pick grid 54.9905 30.2101
+\t (00:20:13) last pick:  54.9910 30.2100
+\i (00:20:13) pick grid 54.8344 29.4293
+\t (00:20:13) last pick:  54.8340 29.4290
+\i (00:20:13) pick grid 54.6782 28.3363
+\t (00:20:13) last pick:  54.6780 28.3360
+\i (00:20:13) pick grid 54.5221 27.6596
+\t (00:20:13) last pick:  54.5220 27.6600
+\i (00:20:13) pick grid 54.2618 26.3584
+\t (00:20:13) last pick:  54.2620 26.3580
+\i (00:20:14) pick grid 54.0536 25.0051
+\t (00:20:14) last pick:  54.0540 25.0050
+\i (00:20:14) pick grid 54.0016 23.4436
+\t (00:20:14) last pick:  54.0020 23.4440
+\i (00:20:14) pick grid 54.0016 21.7780
+\t (00:20:14) last pick:  54.0020 21.7780
+\i (00:20:14) pick grid 54.0016 20.8411
+\t (00:20:14) last pick:  54.0020 20.8410
+\i (00:20:14) pick grid 54.0536 19.8001
+\t (00:20:14) last pick:  54.0540 19.8000
+\i (00:20:14) pick grid 54.2618 18.5509
+\t (00:20:14) last pick:  54.2620 18.5510
+\i (00:20:15) pick grid 54.4700 17.2496
+\t (00:20:15) last pick:  54.4700 17.2500
+\i (00:20:15) pick grid 54.6782 16.6250
+\t (00:20:15) last pick:  54.6780 16.6250
+\i (00:20:17) oops 
+\t (00:20:17) last pick:  54.4700 17.2500
+\i (00:20:17) oops 
+\t (00:20:17) last pick:  54.2620 18.5510
+\i (00:20:17) oops 
+\t (00:20:17) last pick:  54.0540 19.8000
+\i (00:20:17) oops 
+\t (00:20:17) last pick:  54.0020 20.8410
+\i (00:20:17) oops 
+\t (00:20:17) last pick:  54.0020 21.7780
+\i (00:20:17) oops 
+\t (00:20:17) last pick:  54.0020 23.4440
+\i (00:20:17) oops 
+\t (00:20:17) last pick:  54.0540 25.0050
+\i (00:20:17) oops 
+\t (00:20:17) last pick:  54.2620 26.3580
+\i (00:20:18) oops 
+\t (00:20:18) last pick:  54.5220 27.6600
+\i (00:20:18) oops 
+\t (00:20:18) last pick:  54.6780 28.3360
+\i (00:20:18) oops 
+\t (00:20:18) last pick:  54.8340 29.4290
+\i (00:20:18) oops 
+\t (00:20:18) last pick:  54.9910 30.2100
+\i (00:20:18) oops 
+\t (00:20:18) last pick:  55.2510 31.1470
+\i (00:20:18) oops 
+\t (00:20:18) last pick:  55.2510 31.8760
+\i (00:20:19) oops 
+\t (00:20:19) last pick:  55.1990 32.5000
+\i (00:20:19) oops 
+\t (00:20:19) last pick:  54.9390 33.2290
+\i (00:20:19) oops 
+\t (00:20:19) last pick:  54.7300 33.3330
+\i (00:20:20) pick grid 53.0126 32.9687
+\t (00:20:20) last pick:  53.0130 32.9690
+\t (00:20:20) last pick:  52.8390 32.8030
+\i (00:20:20) pick grid 53.0647 32.3962
+\t (00:20:20) last pick:  53.0650 32.3960
+\t (00:20:20) last pick:  52.9380 32.1090
+\i (00:20:21) pick grid 53.0647 31.6154
+\t (00:20:21) last pick:  53.0650 31.6150
+\t (00:20:21) last pick:  53.1360 31.1660
+\i (00:20:21) oops 
+\t (00:20:21) last pick:  52.9380 32.1090
+\i (00:20:21) oops 
+\t (00:20:21) last pick:  52.8390 32.8030
+\i (00:20:21) oops 
+\t (00:20:21) last pick:  54.7300 33.3330
+\i (00:20:22) oops 
+\i (00:20:23) add line 
+\i (00:20:24) pick grid 53.2729 33.5413
+\t (00:20:24) last pick:  53.2730 33.5410
+\t (00:20:24) last pick:  53.3350 33.6460
+\i (00:20:24) pick grid 53.2729 33.3331
+\t (00:20:24) last pick:  53.2730 33.3330
+\t (00:20:24) last pick:  53.3350 33.6460
+\t (00:20:24) last pick:  53.3350 33.6460
+\w (00:20:24) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:20:24) pick grid 53.1688 32.6564
+\t (00:20:24) last pick:  53.1690 32.6560
+\t (00:20:24) last pick:  52.8390 32.8030
+\i (00:20:24) pick grid 53.1688 32.2400
+\t (00:20:24) last pick:  53.1690 32.2400
+\t (00:20:24) last pick:  52.9380 32.1090
+\i (00:20:26) pick grid 53.3770 29.7416
+\t (00:20:26) last pick:  53.3770 29.7420
+\t (00:20:26) last pick:  53.1360 29.3810
+\i (00:20:26) pick grid 53.0647 28.9609
+\t (00:20:26) last pick:  53.0650 28.9610
+\t (00:20:26) last pick:  53.1360 29.3810
+\t (00:20:26) last pick:  53.1360 29.3810
+\w (00:20:26) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:20:26) pick grid 52.8044 28.0240
+\t (00:20:26) last pick:  52.8040 28.0240
+\t (00:20:26) last pick:  52.8880 28.3390
+\i (00:20:26) pick grid 52.7524 27.0350
+\t (00:20:26) last pick:  52.7520 27.0350
+\t (00:20:26) last pick:  52.5910 27.3480
+\i (00:20:26) pick grid 52.7003 26.2022
+\t (00:20:26) last pick:  52.7000 26.2020
+\t (00:20:26) last pick:  52.3920 26.6040
+\i (00:20:26) pick grid 52.5962 24.9530
+\t (00:20:26) last pick:  52.5960 24.9530
+\i (00:20:27) pick grid 52.5962 23.4436
+\t (00:20:27) last pick:  52.5960 23.4440
+\i (00:20:27) pick grid 52.5962 22.7149
+\t (00:20:27) last pick:  52.5960 22.7150
+\i (00:20:27) pick grid 52.5962 21.5698
+\t (00:20:27) last pick:  52.5960 21.5700
+\i (00:20:27) pick grid 52.5962 20.6329
+\t (00:20:27) last pick:  52.5960 20.6330
+\i (00:20:27) pick grid 52.5962 19.6439
+\t (00:20:27) last pick:  52.5960 19.6440
+\i (00:20:27) pick grid 52.5962 18.8632
+\t (00:20:27) last pick:  52.5960 18.8630
+\i (00:20:28) pick grid 52.5962 18.1865
+\t (00:20:28) last pick:  52.5960 18.1870
+\t (00:20:28) last pick:  52.1440 18.5200
+\i (00:20:28) pick grid 52.5962 17.4058
+\t (00:20:28) last pick:  52.5960 17.4060
+\t (00:20:28) last pick:  52.5910 17.6270
+\i (00:20:28) pick grid 52.5962 17.1976
+\t (00:20:28) last pick:  52.5960 17.1980
+\t (00:20:28) last pick:  52.7890 17.2310
+\t (00:20:28) Merged with existing line. Start next line.
+\i (00:20:29) prepopup 52.3880 18.2386
+\i (00:20:30) oops 
+\t (00:20:31) last pick:  52.5910 17.6270
+\i (00:20:31) oops 
+\t (00:20:31) last pick:  52.1440 18.5200
+\i (00:20:31) oops 
+\t (00:20:31) last pick:  52.5960 18.8630
+\i (00:20:31) oops 
+\t (00:20:31) last pick:  52.5960 19.6440
+\i (00:20:32) pick grid 52.5962 17.8742
+\t (00:20:32) last pick:  52.5960 17.8740
+\t (00:20:32) last pick:  52.5910 17.6270
+\i (00:20:33) prepopup 52.5962 17.8742
+\i (00:20:33) done 
+\i (00:20:33) shapeedit 
+\i (00:20:35) zoom out 1 
+\i (00:20:35) setwindow pcb
+\i (00:20:35) zoom out 47.8076 24.3284
+\i (00:20:35) trapsize 5205
+\i (00:20:35) zoom in 1 
+\i (00:20:35) setwindow pcb
+\i (00:20:35) zoom in 53.2209 12.5651
+\i (00:20:35) trapsize 2603
+\i (00:20:35) zoom in 1 
+\i (00:20:35) setwindow pcb
+\i (00:20:35) zoom in 53.0648 12.7734
+\i (00:20:35) trapsize 1301
+\i (00:20:37) add line 
+\i (00:20:38) pick grid 52.7786 17.2237
+\t (00:20:38) last pick:  52.7790 17.2240
+\t (00:20:38) last pick:  52.7890 17.2310
+\i (00:20:38) pick grid 52.8567 17.0936
+\t (00:20:38) last pick:  52.8570 17.0940
+\t (00:20:38) last pick:  52.7890 17.2310
+\t (00:20:38) last pick:  52.7890 17.2310
+\w (00:20:38) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:20:38) pick grid 53.0388 16.7553
+\t (00:20:38) last pick:  53.0390 16.7550
+\i (00:20:38) pick grid 53.2731 16.4690
+\t (00:20:38) last pick:  53.2730 16.4690
+\i (00:20:38) pick grid 53.3772 16.0526
+\t (00:20:38) last pick:  53.3770 16.0530
+\i (00:20:38) pick grid 53.4032 15.6102
+\t (00:20:38) last pick:  53.4030 15.6100
+\t (00:20:38) last pick:  53.5830 15.3960
+\i (00:20:39) pick grid 53.4032 15.3759
+\t (00:20:39) last pick:  53.4030 15.3760
+\i (00:20:39) prepopup 53.4032 15.2718
+\i (00:20:39) done 
+\i (00:20:39) shapeedit 
+\i (00:20:40) zoom out 1 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom out 53.8977 15.8704
+\i (00:20:40) trapsize 2603
+\i (00:20:40) zoom out 1 
+\i (00:20:40) setwindow pcb
+\i (00:20:40) zoom out 50.9308 5.1481
+\i (00:20:40) trapsize 5205
+\i (00:20:46) zoom in 1 
+\i (00:20:46) setwindow pcb
+\i (00:20:46) zoom in 49.3692 75.2077
+\i (00:20:46) trapsize 2603
+\i (00:20:46) zoom in 1 
+\i (00:20:46) setwindow pcb
+\i (00:20:46) zoom in 48.9008 74.6872
+\i (00:20:46) trapsize 1301
+\i (00:20:48) zoom out 1 
+\i (00:20:48) setwindow pcb
+\i (00:20:48) zoom out 51.6855 71.0957
+\i (00:20:48) trapsize 2603
+\i (00:21:25) zoom out 1 
+\i (00:21:25) setwindow pcb
+\i (00:21:25) zoom out 48.6146 54.2835
+\i (00:21:25) trapsize 5205
+\i (00:21:25) zoom out 1 
+\i (00:21:25) setwindow pcb
+\i (00:21:25) zoom out 49.3432 85.4096
+\i (00:21:25) trapsize 10410
+\i (00:21:26) zoom in 1 
+\i (00:21:26) setwindow pcb
+\i (00:21:26) zoom in 49.5514 46.8925
+\i (00:21:26) trapsize 5205
+\i (00:21:27) save 
+\i (00:21:28) fillin yes 
+\i (00:21:28) shapeedit 
+\i (00:21:30) exit 
+\t (00:21:30)     Journal end - Sat Feb 18 20:46:27 2017
