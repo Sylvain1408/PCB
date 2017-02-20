@@ -1,15 +1,275 @@
-\t (00:00:02) allegro 16.6-2015 S069 (v16-6-112FP) Windows 32
-\t (00:00:02)     Journal start - Sat Feb 18 20:49:03 2017
-\t (00:00:02)         Host=DESKTOP-K8Q8V1Q User=CAO-PCB Pid=3684 CPUs=4
-\t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -ORCAD
-\t (00:00:02) 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Design opened: C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd
-\i (00:00:03) trapsize 5014
-\i (00:00:03) trapsize 4924
-\i (00:00:03) trapsize 5030
-\i (00:00:03) trapsize 5205
-\i (00:00:03) trapsize 5205
-\i (00:00:04) shapeedit 
-\i (00:00:05) exit 
-\t (00:00:05)     Journal end - Sat Feb 18 20:49:05 2017
+\t (01:26:31) allegro 16.6-2015 S069 (v16-6-112FP) Windows 32
+\t (01:26:31)     Journal start - Sun Feb 19 15:53:44 2017
+\t (01:26:31)         Host=DESKTOP-K8Q8V1Q User=CAO-PCB Pid=13108 CPUs=4
+\t (01:26:31) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -ORCAD
+\t (01:26:31) 
+\d (01:26:31) Design opened: C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd
+\i (01:26:31) shapeedit 
+\i (01:26:45) zoom out 1 
+\i (01:26:45) setwindow pcb
+\i (01:26:45) zoom out 32.6299 73.1501
+\i (01:26:45) trapsize 6234
+\i (01:26:47) zoom in 1 
+\i (01:26:47) setwindow pcb
+\i (01:26:47) zoom in 31.2584 82.7500
+\i (01:26:47) trapsize 3117
+\i (01:26:53) done 
+\i (01:26:53) place manual 
+\i (01:26:53) setwindow form.plc_manual 
+\i (01:26:53) setwindow form.plc_manual
+\i (01:26:53) FORM plc_manual advanced_settings 
+\i (01:26:53) FORM plc_manual advanced_settings  
+\i (01:26:53) FORM plc_manual library YES 
+\i (01:26:53) FORM plc_manual placement_list 
+\i (01:26:53) FORM plc_manual placement_list  
+\i (01:26:53) FORM plc_manual categories Mechanical symbols 
+\i (01:26:54) trapsize 3117
+\i (01:29:12) FORM plc_manual cancel  
+\i (01:29:12) setwindow pcb
+\i (01:29:12) shapeedit 
+\i (01:29:13) new 
+\e (01:29:13) Do you want to save the changes you made to Samus.brd?
+\i (01:29:14) fillin yes 
+\i (01:29:23) newdrawfillin "tnm_75mm.dra" "Mechanical Symbol"
+\t (01:29:23) Starting new design...
+\i (01:29:23) trapsize 665044
+\i (01:29:23) trapsize 650623
+\i (01:29:23) trapsize 665044
+\i (01:29:24) trapsize 654679
+\i (01:29:24) trapsize 1307727
+\i (01:29:24) trapsize 1307727
+\i (01:29:24) shapeedit 
+\i (01:29:26) zoom in 1 
+\i (01:29:26) setwindow pcb
+\i (01:29:26) zoom in -13.0773 -143.8500
+\i (01:29:26) trapsize 653864
+\i (01:29:26) zoom in 1 
+\i (01:29:26) setwindow pcb
+\i (01:29:26) zoom in -5283.2182 0.0000
+\i (01:29:26) trapsize 326932
+\i (01:29:26) zoom in 1 
+\i (01:29:26) setwindow pcb
+\i (01:29:26) zoom in -5289.7568 0.0000
+\i (01:29:26) trapsize 163466
+\i (01:29:26) zoom in 1 
+\i (01:29:26) setwindow pcb
+\i (01:29:26) zoom in -5289.7568 0.0000
+\i (01:29:26) trapsize 81733
+\i (01:29:27) zoom out 1 
+\i (01:29:27) setwindow pcb
+\i (01:29:27) zoom out -4781.3779 -57.2130
+\i (01:29:27) trapsize 163466
+\i (01:29:27) zoom out 1 
+\i (01:29:27) setwindow pcb
+\i (01:29:27) zoom out -4434.8301 -63.7516
+\i (01:29:27) trapsize 326932
+\i (01:29:28) zoom in 1 
+\i (01:29:28) setwindow pcb
+\i (01:29:28) zoom in 410.2997 34.3279
+\i (01:29:28) trapsize 163466
+\i (01:29:28) zoom in 1 
+\i (01:29:28) setwindow pcb
+\i (01:29:28) zoom in 410.2997 34.3280
+\i (01:29:28) trapsize 81733
+\i (01:29:28) zoom in 1 
+\i (01:29:28) setwindow pcb
+\i (01:29:28) zoom in 392.3185 31.0587
+\i (01:29:28) trapsize 40866
+\i (01:29:29) zoom in 1 
+\i (01:29:29) setwindow pcb
+\i (01:29:29) zoom in 43.3188 -20.4330
+\i (01:29:29) trapsize 20433
+\i (01:29:29) zoom in 1 
+\i (01:29:29) setwindow pcb
+\i (01:29:29) zoom in 43.3188 -20.4330
+\i (01:29:29) trapsize 10217
+\i (01:29:29) zoom in 1 
+\i (01:29:29) setwindow pcb
+\i (01:29:29) zoom in -0.8170 -1.4300
+\i (01:29:29) trapsize 5108
+\i (01:29:29) zoom in 1 
+\i (01:29:29) setwindow pcb
+\i (01:29:29) zoom in -0.8170 -1.4300
+\i (01:29:29) trapsize 2554
+\i (01:29:30) zoom out 1 
+\i (01:29:30) setwindow pcb
+\i (01:29:30) zoom out 0.0004 0.4601
+\i (01:29:30) trapsize 5108
+\i (01:29:31) add pin 
+\i (01:29:32) setwindow form.mini
+\i (01:29:32) FORM mini pad_browse  
+\i (01:29:36) fillin "Tnm_75Mm"
+\t (01:29:36) Using 'TNM_75MM.pad'.
+\i (01:29:37) setwindow pcb
+\i (01:29:37) zoom in 1 
+\i (01:29:37) setwindow pcb
+\i (01:29:37) zoom in -0.4083 1.0731
+\i (01:29:37) trapsize 2554
+\i (01:29:37) zoom in 1 
+\i (01:29:37) setwindow pcb
+\i (01:29:37) zoom in -0.4083 1.0731
+\i (01:29:37) trapsize 1277
+\i (01:29:37) zoom in 1 
+\i (01:29:37) setwindow pcb
+\i (01:29:37) zoom in -0.4082 1.0731
+\i (01:29:37) trapsize 639
+\i (01:29:39) pick grid -0.1528 0.3069
+\t (01:29:39) last pick:  0.0000 0.0000
+\t (01:29:39) Using 'TNM_75MM.pad'.
+\i (01:29:39) prepopup 0.0005 0.0260
+\i (01:29:39) done 
+\t (01:29:39) Exiting from Add Pin.
+\i (01:29:39) shapeedit 
+\i (01:29:40) zoom out 1 
+\i (01:29:40) setwindow pcb
+\i (01:29:40) zoom out -1.2510 1.1626
+\i (01:29:40) trapsize 1277
+\i (01:29:40) zoom out 1 
+\i (01:29:40) setwindow pcb
+\i (01:29:40) zoom out -1.3532 1.1370
+\i (01:29:40) trapsize 2554
+\i (01:29:45) save 
+\t (01:29:45) Symbol 'tnm_75mm.bsm' created.
+\i (01:29:45) shapeedit 
+\i (01:29:48) opencd C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd 
+\t (01:29:48) Opening existing design...
+\i (01:29:49) trapsize 3068
+\i (01:29:49) trapsize 3003
+\i (01:29:49) trapsize 3068
+\i (01:29:49) trapsize 3117
+\i (01:29:49) trapsize 3117
+\d (01:29:49) Design opened: C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd
+\i (01:29:50) shapeedit 
+\i (01:29:50) zoom out 1 
+\i (01:29:50) setwindow pcb
+\i (01:29:50) zoom out -4.2115 93.5967
+\i (01:29:50) trapsize 6234
+\i (01:29:50) zoom out 1 
+\i (01:29:50) setwindow pcb
+\i (01:29:50) zoom out -4.2115 93.4721
+\i (01:29:51) trapsize 12467
+\i (01:29:51) zoom in 1 
+\i (01:29:51) setwindow pcb
+\i (01:29:51) zoom in -6.7050 95.2175
+\i (01:29:51) trapsize 6234
+\i (01:29:51) zoom in 1 
+\i (01:29:51) setwindow pcb
+\i (01:29:51) zoom in -7.9518 95.5915
+\i (01:29:51) trapsize 3117
+\i (01:29:54) done 
+\i (01:29:54) place manual 
+\i (01:29:54) setwindow form.plc_manual 
+\i (01:29:54) setwindow form.plc_manual
+\i (01:29:54) FORM plc_manual advanced_settings 
+\i (01:29:54) FORM plc_manual advanced_settings  
+\i (01:29:54) FORM plc_manual library YES 
+\i (01:29:54) FORM plc_manual placement_list 
+\i (01:29:54) FORM plc_manual placement_list  
+\i (01:29:54) FORM plc_manual categories Mechanical symbols 
+\i (01:29:54) trapsize 3117
+\i (01:29:58) FORM plc_manual cancel  
+\i (01:29:58) setwindow pcb
+\i (01:29:58) shapeedit 
+\i (01:30:00) refresh symbol 
+\i (01:30:01) setwindow form.upd_element
+\i (01:30:01) FORM upd_element tree 'MULTISEL YES' 'Mechanical symbols' 
+\i (01:30:01) FORM upd_element tree  'Mechanical symbols' 
+\i (01:30:02) FORM upd_element tree 'MULTISEL YES' 'Mechanical symbols' 
+\i (01:30:03) FORM upd_element tree  'Other symbols' 
+\i (01:30:03) FORM upd_element tree 'MULTISEL YES' 'Other symbols' 
+\i (01:30:04) FORM upd_element tree 'MULTISEL YES' 'Mechanical symbols' 
+\i (01:30:04) FORM upd_element tree  'Mechanical symbols' 
+\i (01:30:04) FORM upd_element tree 'MULTISEL YES' 'Package symbols' 
+\i (01:30:04) FORM upd_element tree  'Package symbols' 
+\i (01:30:05) FORM upd_element tree 'MULTISEL YES' 'Shape and flash symbols' 
+\i (01:30:05) FORM upd_element tree  'Shape and flash symbols' 
+\i (01:30:06) FORM upd_element keep_padstacks YES 
+\i (01:30:07) FORM upd_element padstacks YES 
+\i (01:30:07) FORM upd_element refresh  
+\t (01:30:07) Starting Refresh Symbol...
+\t (01:30:09) Opening existing design...
+\i (01:30:09) setwindow pcb
+\i (01:30:09) trapsize 3117
+\i (01:30:11) setwindow form.upd_element
+\i (01:30:11) FORM upd_element close  
+\i (01:30:11) setwindow pcb
+\i (01:30:11) shapeedit 
+\i (01:30:13) done 
+\i (01:30:13) place manual 
+\i (01:30:14) setwindow form.plc_manual 
+\i (01:30:14) setwindow form.plc_manual
+\i (01:30:14) FORM plc_manual advanced_settings 
+\i (01:30:14) FORM plc_manual advanced_settings  
+\i (01:30:14) FORM plc_manual library YES 
+\i (01:30:14) FORM plc_manual placement_list 
+\i (01:30:14) FORM plc_manual placement_list  
+\i (01:30:14) FORM plc_manual categories Mechanical symbols 
+\i (01:30:14) trapsize 3117
+\i (01:30:16) FORM plc_manual tree 'MULTISEL YES' TNM_75MM 'Mechanical symbols' 
+\i (01:30:16) FORM plc_manual tree  TNM_75MM 'Mechanical symbols' 
+\i (01:30:19) FORM plc_manual done  
+\i (01:30:19) setwindow pcb
+\i (01:30:19) shapeedit 
+\i (01:30:22) done 
+\i (01:30:22) place manual 
+\i (01:30:22) setwindow form.plc_manual 
+\i (01:30:22) setwindow form.plc_manual
+\i (01:30:22) FORM plc_manual advanced_settings 
+\i (01:30:22) FORM plc_manual advanced_settings  
+\i (01:30:22) FORM plc_manual library YES 
+\i (01:30:22) FORM plc_manual placement_list 
+\i (01:30:22) FORM plc_manual placement_list  
+\i (01:30:22) FORM plc_manual categories Mechanical symbols 
+\i (01:30:22) trapsize 3117
+\i (01:30:26) FORM plc_manual tree 'MULTISEL YES' TNM_75MM 'Mechanical symbols' 
+\i (01:30:26) FORM plc_manual tree  TNM_75MM 'Mechanical symbols' 
+\i (01:30:30) setwindow pcb
+\i (01:30:30) pick grid 15.4248 87.5500
+\t (01:30:30) last pick:  15.4250 87.5500
+\i (01:30:30) prepopup 15.4248 87.5500
+\i (01:30:31) done 
+\i (01:30:31) shapeedit 
+\i (01:30:32) zoom out 1 
+\i (01:30:32) setwindow pcb
+\i (01:30:32) zoom out -1.8427 88.5474
+\i (01:30:32) trapsize 6234
+\i (01:30:32) zoom out 1 
+\i (01:30:32) setwindow pcb
+\i (01:30:32) zoom out -1.9673 88.7968
+\i (01:30:32) trapsize 12467
+\i (01:30:34) ncdrill legend 
+   (01:30:34) Loading signal.cxt 
+   (01:30:34) Loading mfg.cxt 
+\i (01:30:35) setwindow form.nc_drilllegend
+\i (01:30:35) FORM nc_drilllegend done  
+\i (01:30:37) setwindow pcb
+\i (01:30:37) pick grid -6.7051 -2.4649
+\t (01:30:37) last pick:  -6.7050 -2.4650
+\t (01:30:37) NC Drill Legend generation successful
+\i (01:30:37) shapeedit 
+\i (01:30:38) prepopup -43.8581 15.4882
+\i (01:30:39) pick grid -43.3594 35.1868
+\t (01:30:39) last pick:  -43.3590 35.1870
+\i (01:30:46) save 
+\i (01:30:47) fillin yes 
+\i (01:30:47) shapeedit 
+\i (02:55:45) pick grid -32.6374 -7.7013
+\t (02:55:45) last pick:  -32.6370 -7.7010
+\i (02:55:47) zoom in 1 
+\i (02:55:47) setwindow pcb
+\i (02:55:47) zoom in -3.7129 77.0775
+\i (02:55:47) trapsize 6234
+\i (02:55:49) zoom in 1 
+\i (02:55:49) setwindow pcb
+\i (02:55:49) zoom in 8.6299 98.0229
+\i (02:55:49) trapsize 3117
+\i (02:55:49) zoom in 1 
+\i (02:55:49) setwindow pcb
+\i (02:55:49) zoom in 8.6299 98.0229
+\i (02:55:49) trapsize 1558
+\i (02:55:50) zoom in 1 
+\i (02:55:50) setwindow pcb
+\i (02:55:50) zoom in 11.5286 84.4958
+\i (02:55:50) trapsize 779
+\i (02:55:53) exit 
+\t (02:55:54)     Journal end - Sun Feb 19 17:23:07 2017
