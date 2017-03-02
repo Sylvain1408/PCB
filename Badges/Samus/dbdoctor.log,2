@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : Samus.brd                                     )
+(    Software Version : 16.6-2015S069                                 )
+(    Date/Time        : Wed Feb 22 14:13:59 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR IN LINE (47.9290 63.4270) - (47.9290 63.7740)
+  class = BOARD GEOMETRY
+  subclass = SILKSCREEN_BOTTOM 
+  ERROR(SPMHA1-415): Line segments cannot overlap.
+   Error was fixed.
+
+ERROR IN SHAPE (no segment)
+  class = BOARD GEOMETRY
+  subclass = OUTLINE 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+   Error was fixed, object was deleted.
+
+0 warnings, 2 errors detected, 2 errors  fixed.

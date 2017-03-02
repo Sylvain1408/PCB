@@ -1,0 +1,11 @@
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : Samus-1-1.drl for  ... layers TOP and TOP
+;DESIGN: Samus.brd
+;T01 Holesize 1. = 7.500000 Tolerance = +0.000000/-0.000000 PLATED MM Quantity = 1
+%
+G90
+T01
+X001542500Y008755000
+M30

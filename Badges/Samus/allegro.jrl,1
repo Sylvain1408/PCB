@@ -1,290 +1,310 @@
-\t (00:58:55) allegro 16.6-2015 S069 (v16-6-112FP) Windows 32
-\t (00:58:55)     Journal start - Sun Feb 19 15:26:09 2017
-\t (00:58:55)         Host=DESKTOP-K8Q8V1Q User=CAO-PCB Pid=13108 CPUs=4
-\t (00:58:55) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -ORCAD
-\t (00:58:55) 
-\d (00:58:55) Design opened: C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd
-\i (00:58:55) shapeedit 
-\i (00:58:57) done 
-\i (00:58:57) place manual 
-\i (00:58:57) setwindow form.plc_manual 
-\i (00:58:57) setwindow form.plc_manual
-\i (00:58:57) FORM plc_manual advanced_settings 
-\i (00:58:57) FORM plc_manual advanced_settings  
-\i (00:58:57) FORM plc_manual library YES 
-\i (00:58:57) FORM plc_manual placement_list 
-\i (00:58:57) FORM plc_manual placement_list  
-\i (00:58:57) FORM plc_manual categories Mechanical symbols 
-\i (00:58:57) trapsize 6234
-\i (00:59:03) FORM plc_manual done  
-\i (00:59:03) setwindow pcb
-\i (00:59:03) shapeedit 
-\i (00:59:08) dbdoctor 
-\i (00:59:09) setwindow form.dbdoctor_allegro
-\i (00:59:09) FORM dbdoctor_allegro execute  
-\t (00:59:09) Dbdoctor in progress - wait...
-\t (00:59:09) Checking db records
-\t (00:59:09)     checking for orphans...
-\t (00:59:09)     Checked  14 percent
-\t (00:59:09)     Checked  28 percent
-\t (00:59:09)     Checked  43 percent
-\t (00:59:09)     Checked  57 percent
-\t (00:59:09)     Checked  72 percent
-\t (00:59:09)     Checked  86 percent
-\t (00:59:09)     Checked 100 percent
-\t (00:59:09) Done dbdoctor.
-\t (00:59:09) Checking db records
-\t (00:59:09)     checking for orphans...
-\t (00:59:09)     Checked  14 percent
-\t (00:59:09)     Checked  29 percent
-\t (00:59:09)     Checked  43 percent
-\t (00:59:09)     Checked  58 percent
-\t (00:59:09)     Checked  72 percent
-\t (00:59:09)     Checked  87 percent
-\t (00:59:09)     Checked 100 percent
-\t (00:59:09) Done dbdoctor.
-\t (00:59:09) Dbdoctor completed.
-\i (00:59:12) setwindow text
-\i (00:59:12) close 
-\i (00:59:13) setwindow form.dbdoctor_allegro
-\i (00:59:13) FORM dbdoctor_allegro close  
-\i (00:59:13) setwindow pcb
-\i (00:59:13) shapeedit 
-\i (00:59:16) refresh padstack 
-\i (00:59:17) setwindow form.rf_pad
-\i (00:59:17) FORM rf_pad execute  
-\t (00:59:17) Starting Refreshing padstacks...
-\t (00:59:18) Opening existing design...
-\i (00:59:18) setwindow pcb
-\i (00:59:18) trapsize 6234
-\i (00:59:20) setwindow form.rf_pad
-\i (00:59:20) FORM rf_pad cancel  
-\i (00:59:20) setwindow pcb
-\i (00:59:20) shapeedit 
-\i (00:59:45) setwindow form.mini
-\i (00:59:45) FORM mini subcolor 1 
-\i (00:59:54) setwindow pcb
-\i (00:59:54) zoom in 1 
-\i (00:59:54) setwindow pcb
-\i (00:59:54) zoom in 42.7283 72.4017
-\i (00:59:54) trapsize 3117
-\i (00:59:57) zoom out 1 
-\i (00:59:57) setwindow pcb
-\i (00:59:57) zoom out 42.3543 72.0277
-\i (00:59:57) trapsize 6234
-\i (01:00:02) zoom in 1 
-\i (01:00:02) setwindow pcb
-\i (01:00:02) zoom in 32.5050 33.1292
-\i (01:00:02) trapsize 3117
-\i (01:00:03) zoom out 1 
-\i (01:00:03) setwindow pcb
-\i (01:00:03) zoom out 31.5077 30.2617
-\i (01:00:03) trapsize 6234
-\i (01:00:05) zoom in 1 
-\i (01:00:05) setwindow pcb
-\i (01:00:05) zoom in -0.6584 102.8224
-\i (01:00:05) trapsize 3117
-\i (01:00:07) done 
-\i (01:00:07) place manual 
-\i (01:00:08) setwindow form.plc_manual 
-\i (01:00:08) setwindow form.plc_manual
-\i (01:00:08) FORM plc_manual advanced_settings 
-\i (01:00:08) FORM plc_manual advanced_settings  
-\i (01:00:08) FORM plc_manual library YES 
-\i (01:00:08) FORM plc_manual placement_list 
-\i (01:00:08) FORM plc_manual placement_list  
-\i (01:00:08) FORM plc_manual categories Mechanical symbols 
-\i (01:00:08) trapsize 3117
-\i (01:00:15) FORM plc_manual cancel  
-\i (01:00:15) setwindow pcb
-\i (01:00:15) shapeedit 
-\i (01:00:15) zoom out 1 
-\i (01:00:15) setwindow pcb
-\i (01:00:15) zoom out 18.4169 95.3420
-\i (01:00:15) trapsize 6234
-\i (01:00:15) zoom out 1 
-\i (01:00:15) setwindow pcb
-\i (01:00:15) zoom out 17.4194 95.4666
-\i (01:00:15) trapsize 12467
-\i (01:00:17) zoom in 1 
-\i (01:00:17) setwindow pcb
-\i (01:00:17) zoom in 59.5594 68.5370
-\i (01:00:17) trapsize 6234
-\i (01:00:24) setwindow form.mini
-\i (01:00:24) FORM mini subcolor 0 
-\i (01:00:28) FORM mini class BOARD GEOMETRY 
-\i (01:00:34) FORM mini subclass OFF_GRID_AREA 
-\i (01:00:34) FORM mini subclass NCROUTE_PATH 
-\i (01:00:34) FORM mini subclass DIMENSION 
-\i (01:00:35) FORM mini subclass BOTTOM_ROOM 
-\i (01:00:35) FORM mini subclass DIMENSION 
-\i (01:00:35) FORM mini subclass NCROUTE_PATH 
-\i (01:00:35) FORM mini subclass OFF_GRID_AREA 
-\i (01:00:35) FORM mini subclass OUTLINE 
-\i (01:00:35) FORM mini subclass PLACE_GRID_BOTTOM 
-\i (01:00:35) FORM mini subclass PLACE_GRID_TOP 
-\i (01:00:35) FORM mini subclass PLATING_BAR 
-\i (01:00:36) FORM mini subclass SILKSCREEN_BOTTOM 
-\i (01:00:36) FORM mini subclass SILKSCREEN_TOP 
-\i (01:00:36) FORM mini subclass SILKSCREEN_BOTTOM 
-\i (01:00:37) FORM mini subcolor 0 
-\i (01:00:37) FORM mini subclass SILKSCREEN_TOP 
-\i (01:00:38) FORM mini subcolor 1 
-\i (01:00:39) FORM mini class ETCH 
-\i (01:00:40) FORM mini subcolor 1 
-\i (01:00:43) setwindow pcb
-\i (01:00:43) save 
-\i (01:00:44) fillin yes 
-\i (01:00:44) shapeedit 
-\i (01:00:46) refresh symbol 
-\i (01:00:48) setwindow form.upd_element
-\i (01:00:48) FORM upd_element tree 'MULTISEL YES' 'Shape and flash symbols' 
-\i (01:00:48) FORM upd_element tree  'Shape and flash symbols' 
-\i (01:00:49) FORM upd_element tree 'MULTISEL YES' 'Mechanical symbols' 
-\i (01:00:49) FORM upd_element tree  'Mechanical symbols' 
-\i (01:00:49) FORM upd_element tree 'MULTISEL YES' 'Package symbols' 
-\i (01:00:49) FORM upd_element tree  'Package symbols' 
-\i (01:00:50) FORM upd_element tree 'MULTISEL YES' 'Mechanical symbols' 
-\i (01:00:50) FORM upd_element tree  'Mechanical symbols' 
-\i (01:00:50) FORM upd_element tree 'MULTISEL YES' 'Other symbols' 
-\i (01:00:50) FORM upd_element tree  'Other symbols' 
-\i (01:00:51) FORM upd_element keep_padstacks YES 
-\i (01:00:52) FORM upd_element padstacks YES 
-\i (01:00:52) FORM upd_element refresh  
-\t (01:00:52) Starting Refresh Symbol...
-\t (01:00:55) Opening existing design...
-\i (01:00:55) setwindow pcb
-\i (01:00:55) trapsize 6234
-\i (01:00:56) setwindow form.upd_element
-\i (01:00:56) FORM upd_element close  
-\i (01:00:56) setwindow pcb
-\i (01:00:56) shapeedit 
-\i (01:01:01) done 
-\i (01:01:01) place manual 
-\i (01:01:01) setwindow form.plc_manual 
-\i (01:01:01) setwindow form.plc_manual
-\i (01:01:01) FORM plc_manual advanced_settings 
-\i (01:01:01) FORM plc_manual advanced_settings  
-\i (01:01:01) FORM plc_manual library YES 
-\i (01:01:01) FORM plc_manual placement_list 
-\i (01:01:01) FORM plc_manual placement_list  
-\i (01:01:01) FORM plc_manual categories Mechanical symbols 
-\i (01:01:01) trapsize 6234
-\i (01:01:08) FORM plc_manual cancel  
-\i (01:01:08) setwindow pcb
-\i (01:01:08) shapeedit 
-\i (01:01:22) slide 
-\t (01:01:22) Pick element to slide.
-\i (01:01:22) pick grid 79.1333 51.4565
-\t (01:01:22) last pick:  79.1330 51.4570
-\t (01:01:22) last pick:  78.7220 51.4565
-\t (01:01:22) Waiting for the destination pick.
-\i (01:01:29) pick grid 77.2632 33.2541
-\t (01:01:29) last pick:  77.2630 33.2540
-\t (01:01:29) No DRC errors detected.
-\t (01:01:29) Pick another element to slide.
-\i (01:01:29) pick grid 78.0113 33.3787
-\t (01:01:29) last pick:  78.0110 33.3790
-\t (01:01:29) last pick:  77.8560 33.3787
-\t (01:01:29) Waiting for the destination pick.
-\i (01:01:31) prepopup 78.7593 34.5008
-\i (01:01:32) oops 
-\t (01:01:32) last pick:  77.2630 33.2540
-\t (01:01:32) Pick element to slide.
-\i (01:01:33) undo 
-\i (01:01:33) trapsize 6234
-\i (01:01:33) shapeedit 
-\i (01:01:34) undo 
-\i (01:01:34) trapsize 6234
-\i (01:01:34) shapeedit 
-\i (01:01:35) save 
-\i (01:01:36) fillin yes 
-\i (01:01:36) shapeedit 
-\i (01:01:48) prepopup 18.4168 53.3267
-\i (01:01:49) pick grid 15.0506 58.1890
-\t (01:01:49) last pick:  15.0510 58.1890
-\i (01:02:16) zoom in 1 
-\i (01:02:16) setwindow pcb
-\i (01:02:16) zoom in 43.1024 77.2642
-\i (01:02:16) trapsize 3117
-\i (01:02:16) zoom out 1 
-\i (01:02:16) setwindow pcb
-\i (01:02:16) zoom out 41.1700 79.3213
-\i (01:02:16) trapsize 6234
-\i (01:02:18) zoom in 1 
-\i (01:02:18) setwindow pcb
-\i (01:02:18) zoom in 44.0375 73.5863
-\i (01:02:18) trapsize 3117
-\i (01:02:19) zoom out 1 
-\i (01:02:19) setwindow pcb
-\i (01:02:19) zoom out 43.7882 58.1890
-\i (01:02:19) trapsize 6234
-\i (01:02:20) zoom out 1 
-\i (01:02:20) setwindow pcb
-\i (01:02:20) zoom out 45.7830 64.0487
-\i (01:02:20) trapsize 12467
-\i (01:02:20) zoom in 1 
-\i (01:02:20) setwindow pcb
-\i (01:02:20) zoom in 46.2816 65.0461
-\i (01:02:20) trapsize 6234
-\i (01:02:20) zoom in 1 
-\i (01:02:20) setwindow pcb
-\i (01:02:20) zoom in 46.2816 65.0461
-\i (01:02:20) trapsize 3117
-\i (01:02:21) zoom out 1 
-\i (01:02:21) setwindow pcb
-\i (01:02:21) zoom out 45.0972 70.2201
-\i (01:02:21) trapsize 6234
-\i (01:02:26) zoom in 1 
-\i (01:02:26) setwindow pcb
-\i (01:02:26) zoom in 71.5283 60.3708
-\i (01:02:26) trapsize 3117
-\i (01:02:28) zoom out 1 
-\i (01:02:28) setwindow pcb
-\i (01:02:28) zoom out 61.3674 65.6072
-\i (01:02:28) trapsize 6234
-\i (01:02:47) zoom in 1 
-\i (01:02:47) setwindow pcb
-\i (01:02:47) zoom in 8.2560 99.0200
-\i (01:02:47) trapsize 3117
-\i (01:02:50) done 
-\i (01:02:50) place manual 
-\i (01:02:50) setwindow form.plc_manual 
-\i (01:02:50) setwindow form.plc_manual
-\i (01:02:50) FORM plc_manual advanced_settings 
-\i (01:02:50) FORM plc_manual advanced_settings  
-\i (01:02:50) FORM plc_manual library YES 
-\i (01:02:50) FORM plc_manual placement_list 
-\i (01:02:50) FORM plc_manual placement_list  
-\i (01:02:50) FORM plc_manual categories Mechanical symbols 
-\i (01:02:50) trapsize 3117
-\i (01:02:53) FORM plc_manual cancel  
-\i (01:02:53) setwindow pcb
-\i (01:02:53) shapeedit 
-\i (01:02:53) zoom out 1 
-\i (01:02:53) setwindow pcb
-\i (01:02:53) zoom out 18.8533 93.2226
-\i (01:02:53) trapsize 6234
-\i (01:02:54) zoom out 1 
-\i (01:02:54) setwindow pcb
-\i (01:02:54) zoom out 19.6014 92.1005
-\i (01:02:54) trapsize 12467
-\i (01:02:54) zoom in 1 
-\i (01:02:54) setwindow pcb
-\i (01:02:54) zoom in 37.3051 70.1579
-\i (01:02:54) trapsize 6234
-\i (01:03:00) zoom in 1 
-\i (01:03:00) setwindow pcb
-\i (01:03:00) zoom in 6.3858 93.9707
-\i (01:03:00) trapsize 3117
-\i (01:03:10) save 
-\i (01:03:11) fillin yes 
-\i (01:03:11) shapeedit 
-\i (01:26:14) opencd C:/Users/CAO-PCB/Desktop/Yello/pcb/Rev3/components/tnm_75mm.dra 
-\t (01:26:14) Opening existing design...
-\i (01:26:14) trapsize 1297
-\i (01:26:14) trapsize 1269
-\i (01:26:14) trapsize 1297
-\i (01:26:15) trapsize 1277
-\i (01:26:15) trapsize 1277
-\t (01:26:15)     Journal end - Sun Feb 19 15:53:29 2017
+\t (00:00:37) allegro 16.6-2015 S069 (v16-6-112FP) Windows 32
+\t (00:00:37)     Journal start - Sat Feb 25 19:39:53 2017
+\t (00:00:37)         Host=DESKTOP-K8Q8V1Q User=CAO-PCB Pid=6192 CPUs=4
+\t (00:00:37) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -ORCAD
+\t (00:00:37) 
+\d (00:00:37) Design opened: C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd
+\i (00:00:37) placementedit 
+\i (00:00:40) zoom fit 
+\i (00:00:40) trapsize 6289
+\i (00:00:55) setwindow form.vf_vis
+\i (00:00:55) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) add connect 
+\t (00:00:59) Pick first element.
+\i (00:01:00) drag_start grid 81.3227 41.4812
+\i (00:01:01) drag_stop 95.7867 60.7246
+\i (00:01:02) add connect 
+\t (00:01:03) Pick first element.
+\i (00:01:03) add connect 
+\t (00:01:04) Pick first element.
+\i (00:01:05) add connect 
+\t (00:01:05) Pick first element.
+\i (00:01:06) pick grid 97.0444 69.9061
+\t (00:01:06) last pick:  97.0440 69.9060
+\t (00:01:06) last pick:  97.0440 69.9060
+\i (00:01:07) pick grid 89.8753 56.8256
+\t (00:01:07) last pick:  89.8750 56.8260
+\t (00:01:07) No DRC errors detected.
+\i (00:01:08) pick grid 94.6547 46.5122
+\t (00:01:08) last pick:  94.6550 46.5120
+\t (00:01:08) No DRC errors detected.
+\i (00:01:09) pick grid 88.6176 37.2049
+\t (00:01:09) last pick:  88.6180 37.2050
+\t (00:01:09) No DRC errors detected.
+\i (00:01:09) pick grid 99.3083 23.1183
+\t (00:01:09) last pick:  99.3080 23.1180
+\t (00:01:09) No DRC errors detected.
+\i (00:01:10) mouse_pos 89.1206 36.4503
+\i (00:01:10) mouse_pos 87.8629 37.9596
+\i (00:01:10) add connect 
+\t (00:01:10) Pick first element.
+\i (00:01:12) pick grid 99.1825 33.4317
+\t (00:01:12) last pick:  99.1830 33.4320
+\t (00:01:12) last pick:  99.1830 33.4320
+\i (00:01:12) delete 
+\i (00:01:13) drag_start grid 87.9887 54.0586
+\i (00:01:14) drag_stop 94.5289 28.4008
+\t (00:01:14) Connect Line "Not On A Net, Etch/Top"
+\i (00:01:15) pick grid 94.5289 28.4008
+\t (00:01:15) last pick:  94.5290 28.4010
+\i (00:01:16) pick grid 90.5042 43.8709
+\t (00:01:16) last pick:  90.5040 43.8710
+\i (00:01:21) zoom in 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 50.0051 51.5431
+\i (00:01:21) trapsize 3144
+\i (00:01:21) zoom in 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 50.0051 51.5431
+\i (00:01:21) trapsize 1572
+\i (00:01:22) roam x 96 
+\i (00:01:22) roam x 96
+\i (00:01:22) roam x 96 
+\i (00:01:22) roam x 96
+\i (00:01:23) roam x 96 
+\i (00:01:23) roam x 96
+\i (00:01:23) roam x 96 
+\i (00:01:23) roam x 96
+\i (00:01:23) roam x 96 
+\i (00:01:23) roam x 96
+\i (00:01:23) roam x 96 
+\i (00:01:23) roam x 96
+\i (00:01:23) roam x 96 
+\i (00:01:23) roam x 96
+\i (00:01:23) roam x 96 
+\i (00:01:23) roam x 96
+\i (00:01:23) roam x 96 
+\i (00:01:23) roam x 96
+\i (00:01:24) roam x 96 
+\i (00:01:24) roam x 96
+\i (00:01:24) roam x 96 
+\i (00:01:24) roam x 96
+\i (00:01:24) roam x 96 
+\i (00:01:24) roam x 96
+\i (00:01:24) roam x 96 
+\i (00:01:24) roam x 96
+\i (00:01:27) add connect 
+\t (00:01:27) Pick first element.
+\i (00:01:27) drag_start grid 82.1353 59.5297
+\i (00:01:28) drag_stop 85.7827 54.0586
+\i (00:01:30) add connect 
+\t (00:01:31) Pick first element.
+\i (00:01:31) pick grid 80.7203 61.3849
+\t (00:01:31) last pick:  80.7200 61.3850
+\t (00:01:31) last pick:  80.7200 61.3850
+\i (00:01:40) trapsize 1543
+\i (00:01:48) setwindow form.mini
+\i (00:01:48) FORM mini lock_direction 90 
+\i (00:01:55) FORM mini acon_line_width 0.5000 
+\i (00:02:01) FORM mini lock_direction 45 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) pick grid 92.0812 51.7129
+\t (00:02:02) last pick:  92.0810 51.7130
+\t (00:02:02) No DRC errors detected.
+\i (00:02:03) pick grid 91.9269 47.3916
+\t (00:02:03) last pick:  91.9270 47.3920
+\t (00:02:03) No DRC errors detected.
+\t (00:02:03) last pick:  92.0810 47.5460
+\i (00:02:04) pick grid 88.5316 43.1012
+\t (00:02:04) last pick:  88.5320 43.1010
+\t (00:02:04) No DRC errors detected.
+\i (00:02:05) add connect 
+\t (00:02:05) Pick first element.
+\i (00:02:06) add connect 
+\t (00:02:07) Pick first element.
+\i (00:02:08) pick grid 86.4327 59.6455
+\t (00:02:08) last pick:  86.4330 59.6460
+\t (00:02:08) last pick:  86.4330 59.6460
+\i (00:02:09) mouse_pos 89.3033 54.6452
+\i (00:02:09) mouse_pos 89.5193 53.4723
+\i (00:02:09) mouse_pos 89.7971 53.5031
+\i (00:02:09) mouse_pos 90.7540 54.0587
+\i (00:02:09) mouse_pos 92.0504 51.9290
+\i (00:02:10) mouse_pos 93.3159 51.7129
+\i (00:02:12) mouse_pos 92.0195 52.2376
+\i (00:02:13) mouse_pos 91.8960 51.8364
+\i (00:02:13) mouse_pos 92.2664 52.7623
+\i (00:02:22) mouse_pos 92.4516 51.0956
+\i (00:02:22) mouse_pos 91.7417 51.6512
+\i (00:02:22) mouse_pos 91.7726 52.8858
+\i (00:02:24) mouse_pos 91.8652 52.4845
+\i (00:02:25) mouse_pos 91.8343 52.5463
+\i (00:02:27) add connect 
+\t (00:02:27) Pick first element.
+\i (00:02:29) add connect 
+\t (00:02:29) Pick first element.
+\i (00:02:30) add connect 
+\t (00:02:31) Pick first element.
+\i (00:02:33) setwindow form.mini
+\i (00:02:33) FORM mini alt_subcolor 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) add connect 
+\t (00:02:34) Pick first element.
+\i (00:02:35) pick grid 95.3530 62.1148
+\t (00:02:35) last pick:  95.3530 62.1150
+\t (00:02:35) last pick:  95.3530 62.1150
+\i (00:02:36) pick grid 98.3162 55.3860
+\t (00:02:36) last pick:  98.3160 55.3860
+\t (00:02:36) No DRC errors detected.
+\i (00:02:36) pick grid dbl 98.3162 55.3860
+\t (00:02:36) last pick:  98.3160 55.3860
+\t (00:02:36) VIA used for drill.
+\t (00:02:36) No DRC errors detected.
+\i (00:02:39) Esc 
+\i (00:02:40) add connect 
+\t (00:02:41) Pick first element.
+\i (00:02:41) add connect 
+\t (00:02:42) Pick first element.
+\i (00:02:44) zoom in 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in 89.2416 51.3116
+\i (00:02:44) trapsize 772
+\i (00:02:44) zoom in 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in 89.2416 51.3117
+\i (00:02:44) trapsize 386
+\i (00:02:45) roam x -96 
+\i (00:02:45) roam x -96
+\i (00:02:45) roam x -96 
+\i (00:02:45) roam x -96
+\i (00:02:45) roam x -96 
+\i (00:02:45) roam x -96
+\i (00:02:46) roam x -96 
+\i (00:02:46) roam x -96
+\i (00:02:46) roam x -96 
+\i (00:02:46) roam x -96
+\i (00:02:57) setwindow form.mini
+\i (00:02:57) FORM mini acon_line_width 0.12000 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) pick grid 86.6448 52.3535
+\t (00:02:58) last pick:  86.6450 52.3540
+\t (00:02:58) last pick:  86.6450 52.3540
+\i (00:03:00) add connect 
+\t (00:03:01) Pick first element.
+\i (00:03:04) setwindow form.mini
+\i (00:03:04) FORM mini active_subclass TOP 
+\t (00:03:04) Pick first element.
+\i (00:03:05) FORM mini alt_subclass BOTTOM 
+\t (00:03:06) Pick first element.
+\i (00:03:06) setwindow pcb
+\i (00:03:06) drag_start grid 81.7217 52.6004
+\i (00:03:07) drag_stop 79.2601 53.8119
+\i (00:03:08) pick grid 80.6259 53.4492
+\t (00:03:08) last pick:  80.6260 53.4490
+\t (00:03:08) last pick:  80.6260 53.4490
+\i (00:03:09) pick grid 83.9286 51.7439
+\t (00:03:09) last pick:  83.9290 51.7440
+\t (00:03:09) No DRC errors detected.
+\i (00:03:10) mouse_pos 90.5957 52.8782
+\i (00:03:10) mouse_pos 90.8581 52.5078
+\i (00:03:12) pick grid 90.3256 52.2300
+\t (00:03:12) last pick:  90.3260 52.2300
+\t (00:03:12) No DRC errors detected.
+\i (00:03:12) pick grid dbl 90.3256 52.2300
+\t (00:03:12) last pick:  90.3260 52.2300
+\t (00:03:12) VIA used for drill.
+\t (00:03:12) No DRC errors detected.
+\i (00:03:17) pick grid 91.5217 53.6113
+\t (00:03:17) last pick:  91.5220 53.6110
+\t (00:03:17) No DRC errors detected.
+\i (00:03:17) pick grid dbl 91.5217 53.6113
+\t (00:03:17) last pick:  91.5220 53.6110
+\t (00:03:17) VIA used for drill.
+\t (00:03:17) No DRC errors detected.
+\i (00:03:22) pick grid 90.9044 54.3058
+\t (00:03:22) last pick:  90.9040 54.3060
+\t (00:03:22) No DRC errors detected.
+\t (00:03:22) last pick:  90.9040 54.2290
+\i (00:03:29) roam x 96 
+\i (00:03:29) roam x 96
+\i (00:03:29) roam x 96 
+\i (00:03:29) roam x 96
+\i (00:03:29) roam y -96 
+\i (00:03:29) roam y -96
+\i (00:03:30) roam x 96 
+\i (00:03:30) roam x 96
+\i (00:03:30) roam y -96 
+\i (00:03:30) roam y -96
+\i (00:03:30) roam x 96 
+\i (00:03:30) roam x 96
+\i (00:03:30) roam y -96 
+\i (00:03:30) roam y -96
+\i (00:03:31) mouse_pos 90.1791 53.9034
+\i (00:03:31) mouse_pos 89.2762 53.1858
+\i (00:03:31) mouse_pos 90.1405 53.3401
+\i (00:03:31) mouse_pos 90.6343 53.7337
+\i (00:03:33) pick grid 91.6452 53.7028
+\t (00:03:33) last pick:  91.6450 53.7030
+\t (00:03:33) No DRC errors detected.
+\t (00:03:33) last pick:  91.4371 53.6959
+\i (00:03:37) pick grid 93.1191 55.5934
+\t (00:03:37) last pick:  93.1190 55.5930
+\t (00:03:37) No DRC errors detected.
+\i (00:03:37) pick grid dbl 93.1191 55.5934
+\t (00:03:37) last pick:  93.1190 55.5930
+\t (00:03:37) VIA used for drill.
+\t (00:03:37) No DRC errors detected.
+\i (00:03:40) pick grid 90.2794 55.6783
+\t (00:03:40) last pick:  90.2790 55.6780
+\t (00:03:40) No DRC errors detected.
+\i (00:03:40) pick grid 89.7084 56.1953
+\t (00:03:40) last pick:  89.7080 56.1950
+\t (00:03:40) No DRC errors detected.
+\t (00:03:40) last pick:  89.7350 56.2220
+\i (00:03:40) pick grid dbl 89.7084 56.1953
+\t (00:03:40) last pick:  89.7080 56.1950
+\t (00:03:40) VIA used for drill.
+\t (00:03:40) No DRC errors detected.
+\i (00:03:42) pick grid 89.5077 55.9869
+\t (00:03:42) last pick:  89.5080 55.9870
+\t (00:03:42) No DRC errors detected.
+\i (00:03:42) pick grid dbl 89.5077 55.9869
+\t (00:03:42) last pick:  89.5080 55.9870
+\t (00:03:42) VIA used for drill.
+\t (00:03:42) No DRC errors detected.
+\i (00:03:43) add connect 
+\t (00:03:43) Pick first element.
+\i (00:03:46) slide 
+\t (00:03:47) Pick element to slide.
+\i (00:03:48) drag_start grid 89.6466 55.9020
+\i (00:03:48) drag_stop 90.0247 55.8249
+\t (00:03:48) Waiting for origin pick.
+\i (00:03:49) pick grid 89.5309 55.9175
+\t (00:03:49) last pick:  89.5310 55.9180
+\t (00:03:49) Waiting for the destination pick.
+\i (00:03:52) pick grid 88.8209 56.3342
+\t (00:03:52) last pick:  88.8210 56.3340
+\t (00:03:52) No DRC errors detected.
+\t (00:03:52) Pick another element to slide.
+\i (00:04:01) roam x 96 
+\i (00:04:01) roam x 96
+\i (00:04:01) roam y -96 
+\i (00:04:01) roam y -96
+\i (00:04:01) roam y -96 
+\i (00:04:01) roam y -96
+\i (00:04:01) roam x 96 
+\i (00:04:01) roam x 96
+\i (00:04:01) roam y -96 
+\i (00:04:01) roam y -96
+\i (00:04:18) 3d_viewer 
+\i (00:04:18) setwindow pcb3D
+\i (00:04:18) trapsize 386
+\i (00:04:18) setwindow pcb
+\i (00:04:18) placementedit 
+\i (00:04:27) zoom out 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out 89.9785 55.7554
+\i (00:04:27) trapsize 772
+\i (00:04:27) zoom out 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out 89.9784 55.7553
+\i (00:04:27) trapsize 1543
+\i (00:04:27) zoom out 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out 89.9784 55.7553
+\i (00:04:27) trapsize 3087
+\i (00:04:32) exit 
+\e (00:04:32) Do you want to save the changes you made to Samus.brd?
+\i (00:04:41) fillin no 
+\t (00:04:42)     Journal end - Sat Feb 25 19:43:58 2017

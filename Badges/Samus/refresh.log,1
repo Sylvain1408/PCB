@@ -1,0 +1,81 @@
+Sun Feb 19 15:28:06 2017				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Feb 19 15:28:06 2017
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : Samus.brd                                     )
+(    Software Version : 16.6-2015S069                                 )
+(    Date/Time        : Sun Feb 19 15:28:07 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Feb 19 15:28:07 2017				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'YES'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'YES'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/CAO-PCB/Desktop/Yello/pcb/Rev3/components/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/Users/CAO-PCB/Desktop/Yello/pcb/Rev3/components/ 
+           C:/USERS/CAO-PCB/DESKTOP/YELLO/pcb/components/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'AB00'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

@@ -1,0 +1,49 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : Samus.brd                                     )
+(    Software Version : 16.6-2015S069                                 )
+(    Date/Time        : Sun Feb 19 15:26:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Feb 19 15:26:31 2017				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/CAO-PCB/Documents/PCB/Badges/Samus/Samus.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/CAO-PCB/Desktop/Yello/pcb/Rev3/components/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/Users/CAO-PCB/Desktop/Yello/pcb/Rev3/components/ 
+           C:/USERS/CAO-PCB/DESKTOP/YELLO/pcb/components/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.
