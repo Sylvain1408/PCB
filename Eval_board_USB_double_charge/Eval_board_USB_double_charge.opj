@@ -1,0 +1,76 @@
+(ExpressProject "Eval_board_USB_double_charge"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\users\cao-pcb\desktop\yello\pcb\rev3\components\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\eval_board_usb_double_charge.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("TEST POINT"
+      (FullPartName "TEST POINT.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (jst_s4b_ph_sm4_tb
+      (FullPartName "jst_s4b_ph_sm4_tb.Normal")
+      (LibraryName
+         "C:\USERS\CAO-PCB\DESKTOP\YELLO\PCB\REV3\COMPONENTS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("MOLEX  105450-0101"
+      (FullPartName "MOLEX  105450-0101.Normal")
+      (LibraryName
+         "C:\USERS\CAO-PCB\DESKTOP\YELLO\PCB\REV3\COMPONENTS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (bq24190
+      (FullPartName "bq24190.Normal")
+      (LibraryName
+         "C:\USERS\CAO-PCB\DESKTOP\YELLO\PCB\REV3\COMPONENTS\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\CAO-PCB\Documents\PCB\Eval_board_USB_double_charge\eval_board_usb_double_charge.dsn")
+      (Path "Design Resources"
+         "C:\Users\CAO-PCB\Documents\PCB\Eval_board_USB_double_charge\eval_board_usb_double_charge.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\CAO-PCB\Documents\PCB\Eval_board_USB_double_charge\eval_board_usb_double_charge.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\cao-pcb\desktop\yello\pcb\rev3\components\library1.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 564")
+        (Scroll "-372 0")
+        (Zoom "87")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAO-PCB\DOCUMENTS\PCB\EVAL_BOARD_USB_DOUBLE_CHARGE\EVAL_BOARD_USB_DOUBLE_CHARGE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
