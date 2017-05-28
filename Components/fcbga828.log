@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FCBGA828.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu May 25 22:56:01 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Sylvain/Desktop/PCB/Components
+    Name      = fcbga828.psm
+    User      = Sylvain
+    Machine   = SYLVAIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
