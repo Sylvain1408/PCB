@@ -29,6 +29,11 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (TPS2115A
+      (FullPartName "TPS2115A.Normal")
+      (LibraryName
+         "C:\USERS\CAO-PCB\DESKTOP\YELLO\PCB\REV3\COMPONENTS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     ("HEADER 2"
       (FullPartName "HEADER 2.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -81,20 +86,18 @@
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library"
-         "c:\users\cao-pcb\desktop\yello\pcb\rev3\components\library1.olb")
-      (Select "Design Resources"
-         "c:\users\cao-pcb\documents\pcb\eval_board_usb_double_charge\eval_board_usb_double_charge.dsn"))
+         "c:\users\cao-pcb\desktop\yello\pcb\rev3\components\library1.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 421"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 182 1526 182 642")
-        (Scroll "-275 0")
+        (Placement "44 0 1 -1 -1 -8 -31 182 1526 182 642")
+        (Scroll "-163 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -105,7 +108,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1344 0 460")
-        (Scroll "-163 0")
+        (Scroll "-163 24")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -122,5 +125,27 @@
       (Path
          "C:\USERS\CAO-PCB\DOCUMENTS\PCB\EVAL_BOARD_USB_DOUBLE_CHARGE\EVAL_BOARD_USB_DOUBLE_CHARGE.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE2")))
+      (Page "PAGE2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1792 156 616")
+        (Scroll "0 148")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAO-PCB\DOCUMENTS\PCB\EVAL_BOARD_USB_DOUBLE_CHARGE\EVAL_BOARD_USB_DOUBLE_CHARGE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE3"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1766 130 590")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1188 298")
+        (Zoom "242"))
+      (Path "C:\USERS\CAO-PCB\DESKTOP\YELLO\PCB\REV3\COMPONENTS\LIBRARY1.OLB")
+      (Package "TPS2115A")))
   (MPSSessionName "CAO-PCB"))
