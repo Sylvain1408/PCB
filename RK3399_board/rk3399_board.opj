@@ -9,7 +9,16 @@
     (CompileFileAddedOrDeleted "x")
     (NoModify)
     (Netlist_TAB "0"))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector)
   (GlobalState
@@ -17,12 +26,43 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\rk3399_board.dsn")
       (Path "Design Resources" ".\rk3399_board.dsn" "RK3399 Board")
+      (Path "Outputs")
       (Select "Design Resources" ".\rk3399_board.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 200 0 150"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 553 52 280")
+        (Scroll "328 826")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Schematic "RK3399 Board")
+      (Page "RK808 / REGULATORS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 605 104 332")
+        (Scroll "785 400")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Schematic "RK3399 Board")
+      (Page "RAM-DDR3 4x16bit"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 501 0 228")
+        (Scroll "1073 226")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Schematic "RK3399 Board")
+      (Page "RK3399 DDR CONTROLLER")))
   (MPSSessionName "Sylvain-Laptop")
   (ISPCBBASICLICENSE "false"))
