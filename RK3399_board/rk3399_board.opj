@@ -32,12 +32,12 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 150"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 553 52 280")
+        (Placement "44 0 1 -1 -1 -8 -31 52 553 52 280")
         (Scroll "328 826")
         (Zoom "100")
         (Occurrence "/"))
@@ -48,7 +48,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 605 104 332")
-        (Scroll "785 400")
+        (Scroll "0 70")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
@@ -58,11 +58,21 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 501 0 228")
-        (Scroll "1073 226")
+        (Scroll "385 216")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
       (Schematic "RK3399 Board")
-      (Page "RK3399 DDR CONTROLLER")))
+      (Page "RK3399 DDR CONTROLLER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1290 130 391")
+        (Scroll "50 522")
+        (Zoom "124")
+        (Occurrence "/"))
+      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Schematic "RK3399 Board")
+      (Page "RK3399 USB/USIC CONTROLLER")))
   (MPSSessionName "Sylvain-Laptop")
   (ISPCBBASICLICENSE "false"))
