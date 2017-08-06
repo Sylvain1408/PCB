@@ -26,8 +26,7 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\rk3399_board.dsn")
       (Path "Design Resources" ".\rk3399_board.dsn" "RK3399 Board")
-      (Path "Outputs")
-      (Select "Design Resources" ".\rk3399_board.dsn"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -48,7 +47,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 605 104 332")
-        (Scroll "0 70")
+        (Scroll "503 41")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
@@ -58,7 +57,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 501 0 228")
-        (Scroll "385 216")
+        (Scroll "951 302")
         (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
