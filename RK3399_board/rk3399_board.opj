@@ -2,7 +2,11 @@
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File "..\components\ic_lib.olb"
+        (Type "Schematic Library"))
+      (File "..\components\library.olb"
+        (Type "Schematic Library")))
     (File ".\rk3399_board.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
@@ -20,61 +24,52 @@
       (Type "Report")
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (AP6354
+      (FullPartName "AP6354.Normal")
+      (LibraryName "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\IC_LIB.OLB")
+      (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "c:\users\sylvain-laptop\desktop\pcb\rk3399_board\rk3399_board.dsn")
+         "c:\users\cao-pcb\documents\pcb\rk3399_board\rk3399_board.dsn")
       (Path "Design Resources"
-         "c:\users\sylvain-laptop\desktop\pcb\rk3399_board\rk3399_board.dsn"
+         "c:\users\cao-pcb\documents\pcb\rk3399_board\rk3399_board.dsn"
          "RK3399 Board")
-      (Path "Outputs"))
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\cao-pcb\documents\pcb\components\ic_lib.olb")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\users\cao-pcb\documents\pcb\rk3399_board\rk3399_board.dsn"
+         "RK3399 Board" "RK3399 PMU CONTROLLER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 150"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
       (Tab 0))
     (Doc
-      (Type "COrSchematicDoc")
+      (Type "COrPartDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 553 52 280")
-        (Scroll "1198 1121")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
-      (Schematic "RK3399 Board")
-      (Page "RK808 / REGULATORS"))
+        (Placement "44 0 1 -1 -1 -8 -31 78 1714 78 538")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "203 0")
+        (Zoom "126"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\IC_LIB.OLB")
+      (Package "AP6354"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 605 104 332")
-        (Scroll "668 486")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 104 778 104 555")
+        (Scroll "-20 0")
+        (Zoom "51")
         (Occurrence "/"))
-      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
       (Schematic "RK3399 Board")
-      (Page "RAM-DDR3 4x16bit"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 501 0 228")
-        (Scroll "0 135")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
-      (Schematic "RK3399 Board")
-      (Page "RK3399 DDR CONTROLLER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1290 130 391")
-        (Scroll "50 522")
-        (Zoom "124")
-        (Occurrence "/"))
-      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
-      (Schematic "RK3399 Board")
-      (Page "RK3399 USB/USIC CONTROLLER")))
-  (MPSSessionName "Sylvain-Laptop")
+      (Page "WIFI/BT MIMO AP6354")))
+  (MPSSessionName "CAO-PCB")
   (ISPCBBASICLICENSE "false"))
