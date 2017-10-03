@@ -1,0 +1,159 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\components\ic_lib.olb"
+        (Type "Schematic Library"))
+      (File "..\components\library.olb"
+        (Type "Schematic Library"))
+      (File "..\components\con_lib.olb"
+        (Type "Schematic Library"))
+      (File "..\components\smd_ind_lib.olb"
+        (Type "Schematic Library")))
+    (File ".\rk3399_board.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("4.7uH 1.5A 0.140ohm 20%"
+      (FullPartName "4.7uH 1.5A 0.140ohm 20%.Normal")
+      (LibraryName "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\SMD_IND_LIB.OLB")
+      (DeviceIndex "0"))
+    (test
+      (FullPartName "test.Normal")
+      (LibraryName "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\SMD_IND_LIB.OLB")
+      (DeviceIndex "0"))
+    ("H wurth_3015"
+      (FullPartName "H wurth_3015.Normal")
+      (LibraryName "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\SMD_IND_LIB.OLB")
+      (DeviceIndex "0"))
+    (AP6354
+      (FullPartName "AP6354.Normal")
+      (LibraryName "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\IC_LIB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\cao-pcb\documents\pcb\rk3399_board\rk3399_board.dsn")
+      (Path "Design Resources"
+         "c:\users\cao-pcb\documents\pcb\rk3399_board\rk3399_board.dsn"
+         "RK3399 Board")
+      (Path "Design Resources"
+         "c:\users\cao-pcb\documents\pcb\rk3399_board\rk3399_board.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\cao-pcb\documents\pcb\components\ic_lib.olb")
+      (Path "Design Resources" "Library"
+         "c:\users\cao-pcb\documents\pcb\components\con_lib.olb")
+      (Path "Design Resources" "Library"
+         "c:\users\cao-pcb\documents\pcb\components\smd_ind_lib.olb")
+      (Path "Outputs")
+      (Select "Design Resources" "Library"
+         "c:\users\cao-pcb\documents\pcb\components\con_lib.olb" "SMARC_2.0"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 150"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1474 130 590")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5836 1744")
+        (Zoom "1008"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\SMD_IND_LIB.OLB")
+      (Package "4.7uH 1.5A 0.140ohm 20%"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1714 78 538")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "203 0")
+        (Zoom "126"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\IC_LIB.OLB")
+      (Package "AP6354"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 778 104 555")
+        (Scroll "-22 478")
+        (Zoom "152")
+        (Occurrence "/"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Schematic "RK3399 Board")
+      (Page "WIFI/BT MIMO AP6354"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1474 130 590")
+        (Scroll "0 10")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Schematic "RK3399 Board")
+      (Page "RK808 / REGULATORS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1792 156 616")
+        (Scroll "0 220")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Schematic "RK3399 Board")
+      (Page "RK3399 DDR CONTROLLER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1818 182 642")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\RK3399_BOARD\RK3399_BOARD.DSN")
+      (Schematic "RK3399 Board")
+      (Page "RAM-DDR3 4x16bit"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1714 78 538")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1355 244")
+        (Zoom "242"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\CON_LIB.OLB")
+      (Package "HDMI_Molex_47151-1001"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1844 208 668")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "552 210")
+        (Zoom "171"))
+      (Path "C:\USERS\CAO-PCB\DOCUMENTS\PCB\COMPONENTS\CON_LIB.OLB")
+      (Package "SMARC_2.0")))
+  (MPSSessionName "CAO-PCB")
+  (ISPCBBASICLICENSE "false"))
