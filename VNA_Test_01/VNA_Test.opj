@@ -1,0 +1,93 @@
+(ExpressProject "VNA_Test"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\vna_test.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\VNA_TEST_01\NETLIST")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\VNA_TEST.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (FLDSTUFF_Scope "1")
+    (FLDSTUFF_Action "0")
+    (FLDSTUFF_Report_File ".\vna_test.RPT")
+    (FLDSTUFF_Update_File ".\vna_test.UPD")
+    (FLDSTUFF__Uppercase_Result_Property "FALSE")
+    (FLDSTUFF_Uppercase_Update_Property "FALSE")
+    (FLDSTUFF_Uppercase_Unconditionally "FALSE")
+    (FLDSTUFF_Visibility "0")
+    (FLDSTUFF_inst_or_occurrence "0")
+    (FLDSTUFF_Create_Report_File "FALSE"))
+  (Folder "Outputs"
+    (File ".\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (rf_sma_0732511150
+      (FullPartName "rf_sma_0732511150.Normal")
+      (LibraryName
+         "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\GITEA_PCB\SCHEMATICS\COMPONENTS\CON_LIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("RF Molex SMA 0732511150"
+      (FullPartName "RF Molex SMA 0732511150.Normal")
+      (LibraryName
+         "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\GITEA_PCB\SCHEMATICS\COMPONENTS\CON_LIB.OLB")
+      (DeviceIndex "0"))
+    ("RF Molex 73412-0110"
+      (FullPartName "RF Molex 73412-0110.Normal")
+      (LibraryName
+         "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\GITEA_PCB\SCHEMATICS\COMPONENTS\CON_LIB.OLB")
+      (DeviceIndex "0")))
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\vna_test.dsn")
+      (Path "Design Resources" ".\vna_test.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\vna_test.dsn" "Design Cache")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 222"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1212 52 313")
+        (Scroll "-305 0")
+        (Zoom "43")
+        (Occurrence "/"))
+      (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\VNA_TEST_01\VNA_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "Sylvain-Laptop"))
