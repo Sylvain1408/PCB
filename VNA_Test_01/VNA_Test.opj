@@ -48,6 +48,11 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("R 1206"
+      (FullPartName "R 1206.Normal")
+      (LibraryName
+         "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\GITEA_PCB\SCHEMATICS\COMPONENTS\SMD_RES_LIB.OLB")
+      (DeviceIndex "0"))
     (rf_sma_0732511150
       (FullPartName "rf_sma_0732511150.Normal")
       (LibraryName
@@ -73,7 +78,8 @@
       (Path "Design Resources" ".\vna_test.dsn")
       (Path "Design Resources" ".\vna_test.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\vna_test.dsn" "Design Cache")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\vna_test.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -84,8 +90,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1212 52 313")
-        (Scroll "-305 0")
-        (Zoom "43")
+        (Scroll "0 0")
+        (Zoom "172")
         (Occurrence "/"))
       (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\VNA_TEST_01\VNA_TEST.DSN")
       (Schematic "SCHEMATIC1")
