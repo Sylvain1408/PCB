@@ -1,0 +1,19 @@
+\t (00:00:01) allegro_free_viewer 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Sep 19 16:41:13 2019
+\t (00:00:01)         Host=DESKTOP-104CIH4 User=Sylvain Rouland Pid=43136 CPUs=8
+\t (00:00:01) CmdLine= C:\Users\Sylvain Rouland\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe
+\t (00:00:01) 
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 838
+\i (00:00:01) trapsize 818
+\i (00:00:01) trapsize 838
+\i (00:00:01) trapsize 700
+\i (00:00:01) trapsize 838
+\i (00:00:01) trapsize 700
+\i (00:00:02) trapsize 1369
+\i (00:00:03) open 
+\i (00:00:12) fillin "C:\Users\Sylvain Rouland\Desktop\Design_Guide\Yello\Main_Board_2AA001\BOARD\Yello_V4.brd"
+\i (00:00:12) cd "C:\Users\Sylvain Rouland\Desktop\Design_Guide\Yello\Main_Board_2AA001\BOARD"
+\t (00:00:12) Opening existing design...
+\i (00:00:13) trapsize 134
+\t (00:00:13)     Journal end - Thu Sep 19 16:41:26 2019
