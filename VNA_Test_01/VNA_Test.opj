@@ -85,19 +85,18 @@
          "Design Cache")
       (Path "Outputs")
       (Select "Design Resources"
-         "c:\users\sylvain-laptop\desktop\pcb\vna_test_01\vna_test.dsn"
-         "SCHEMATIC1" "PAGE1"))
+         "c:\users\sylvain-laptop\desktop\pcb\vna_test_01\vna_test.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 222"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 222"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1212 52 313")
-        (Scroll "-53 0")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1212 52 313")
+        (Scroll "-126 0")
         (Zoom "86")
         (Occurrence "/"))
       (Path "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\VNA_TEST_01\VNA_TEST.DSN")
