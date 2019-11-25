@@ -37,6 +37,10 @@
   (Folder "Referenced Projects")
   (MPSSessionName "Sylvain-Laptop")
   (PartMRUSelector
+    (Dean_connector
+      (FullPartName "Dean_connector.Normal")
+      (LibraryName "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\COMPONENTS\CON_LIB.OLB")
+      (DeviceIndex "0"))
     (CZRU52C12
       (FullPartName "CZRU52C12.Normal")
       (LibraryName "C:\USERS\SYLVAIN-LAPTOP\DESKTOP\PCB\COMPONENTS\IC_LIB.OLB")
@@ -71,28 +75,22 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\users\sylvain-laptop\desktop\pcb\scooter_switch\scooter_switch.dsn")
-      (Path "Design Resources"
-         "c:\users\sylvain-laptop\desktop\pcb\scooter_switch\scooter_switch.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "c:\users\sylvain-laptop\desktop\pcb\scooter_switch\scooter_switch.dsn"
-         "Design Cache")
+      (Path "Design Resources" ".\scooter_switch.dsn")
+      (Path "Design Resources" ".\scooter_switch.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\scooter_switch.dsn" "Design Cache")
       (Path "Outputs")
-      (Select "Design Resources"
-         "c:\users\sylvain-laptop\desktop\pcb\scooter_switch\scooter_switch.dsn"))
+      (Select "Design Resources" ".\scooter_switch.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 208"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 208"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1186 52 409")
-        (Scroll "314 60")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1186 52 409")
+        (Scroll "0 391")
         (Zoom "116")
         (Occurrence "/"))
       (Path
@@ -100,4 +98,4 @@
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
   (LastUsedLibraryBrowseDirectory
-     "C:\Users\Sylvain-Laptop\Desktop\Gitea_PCB\schematics\Components"))
+     "C:\Users\Sylvain-Laptop\Desktop\PCB\Components"))
