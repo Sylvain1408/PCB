@@ -3,7 +3,7 @@ $begin 'Surface Mesh Header'
 	BigEndian=false
 	DataFormat='BINARY'
 	DataPrecision='Double'
-	NumVertices=153
+	NumVertices=155
 	NumMidPoints=0
-	NumTriangles=302
+	NumTriangles=306
 $end 'Surface Mesh Header'

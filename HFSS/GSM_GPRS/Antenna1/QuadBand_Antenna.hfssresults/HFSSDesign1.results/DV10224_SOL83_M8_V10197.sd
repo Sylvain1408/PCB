@@ -7,6 +7,7 @@ $begin 'soln'
 	$begin 'Frequencies'
 		$begin 'DataPoint'
 			Frequency=1900000000
+			DataType='None'
 			$begin 'SMatrix'
 				m=1
 				n=1

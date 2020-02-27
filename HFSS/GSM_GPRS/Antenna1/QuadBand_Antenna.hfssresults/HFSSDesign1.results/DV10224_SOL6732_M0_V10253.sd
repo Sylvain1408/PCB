@@ -12,7 +12,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(-0.7547606557922781, 0.1258136102714454)
+					c(-0.7544849043812497, 0.1202469557234222)
 				$end 'r0'
 			$end 'SMatrix'
 			$begin 'Gamma'
@@ -31,7 +31,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(9.999999999999996, 1.387778780781447e-017)
+					c(9.999999999999996, 1.387778780781808e-017)
 				$end 'r0'
 			$end 'TerminalTMatrix'
 			$begin 'TerminalPMatrix'
@@ -57,7 +57,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(-0.3481121249738236, 0.5060213181328789)
+					c(-0.3524478646513235, 0.5064459899665769)
 				$end 'r0'
 			$end 'SMatrix'
 			$begin 'Gamma'
@@ -76,14 +76,14 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(9.999999999999995, 4.163336342344396e-017)
+					c(9.999999999999995, 4.163336342342384e-017)
 				$end 'r0'
 			$end 'TerminalTMatrix'
 			$begin 'TerminalPMatrix'
 				m=1
 				n=1
 				$begin 'r0'
-					c(2, 2.498183569732329e-010)
+					c(2, 2.498183569732334e-010)
 				$end 'r0'
 			$end 'TerminalPMatrix'
 			$begin 'TerminalRMatrix'
@@ -102,7 +102,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(0.1988123086399962, 0.3934702544539749)
+					c(0.1942806198032074, 0.4063385597949143)
 				$end 'r0'
 			$end 'SMatrix'
 			$begin 'Gamma'
@@ -147,7 +147,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(0.07944196241538459, -0.2788471515209546)
+					c(0.09983899130389817, -0.2699724345185276)
 				$end 'r0'
 			$end 'SMatrix'
 			$begin 'Gamma'
@@ -166,14 +166,14 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(9.999999999999996, 6.938893903907335e-018)
+					c(9.999999999999996, 6.938893903904892e-018)
 				$end 'r0'
 			$end 'TerminalTMatrix'
 			$begin 'TerminalPMatrix'
 				m=1
 				n=1
 				$begin 'r0'
-					c(1.999999999999999, -9.913559556595776e-012)
+					c(1.999999999999999, -9.913559556595841e-012)
 				$end 'r0'
 			$end 'TerminalPMatrix'
 			$begin 'TerminalRMatrix'
@@ -192,7 +192,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(-0.1318824785939173, -0.08446770313574942)
+					c(-0.1191903382201442, -0.08521537629619871)
 				$end 'r0'
 			$end 'SMatrix'
 			$begin 'Gamma'
@@ -237,7 +237,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(0.1337211306692421, 0.1541437272188277)
+					c(0.1371025846267864, 0.1611723324852148)
 				$end 'r0'
 			$end 'SMatrix'
 			$begin 'Gamma'
@@ -256,14 +256,14 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(9.999999999999996, 2.081668171172196e-017)
+					c(9.999999999999996, 2.081668171171975e-017)
 				$end 'r0'
 			$end 'TerminalTMatrix'
 			$begin 'TerminalPMatrix'
 				m=1
 				n=1
 				$begin 'r0'
-					c(1.999999999999999, -3.621060534753677e-010)
+					c(1.999999999999999, -3.621060534753635e-010)
 				$end 'r0'
 			$end 'TerminalPMatrix'
 			$begin 'TerminalRMatrix'
@@ -282,7 +282,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(0.4749914777047923, -0.1298492076832344)
+					c(0.4856036007187039, -0.1104493874399701)
 				$end 'r0'
 			$end 'SMatrix'
 			$begin 'Gamma'
@@ -327,7 +327,7 @@ $begin 'soln'
 				m=1
 				n=1
 				$begin 'r0'
-					c(0.3942927563211207, -0.5430961903247855)
+					c(0.4204554981029745, -0.524985939802792)
 				$end 'r0'
 			$end 'SMatrix'
 			$begin 'Gamma'
@@ -382,7 +382,7 @@ $begin 'soln'
 		BasisSize=8
 		LowSampleFreq=1600000000
 		HighSampleFreq=2100000000
-		NumSamples=51
+		NumSamples=101
 		MaxSubRangeBasisSize=20
 		MinNumSubRanges=1
 		LastBasisFreq=2037500000

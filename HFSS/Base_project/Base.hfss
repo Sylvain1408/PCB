@@ -114,7 +114,7 @@ $begin 'AnsoftProject'
 			WorkingCS=1
 			$begin 'GeometryCore'
 				BlockVersionID=3
-				DataVersion=14
+				DataVersion=15
 				NativeKernel='ACIS'
 				NativeKernelVersionID=4
 				Units='mm'
@@ -457,7 +457,7 @@ $begin 'AnsoftProject'
 										YStart='sig_width/2 + clearance'
 										ZStart='thickness'
 										Width='xp'
-										Height='yn - clearance-sig_width/2'
+										Height='yp - clearance-sig_width/2'
 										WhichAxis='Z'
 									$end 'RectangleParameters'
 									ParentPartID=58
@@ -1572,6 +1572,41 @@ $begin 'AnsoftProject'
 								Increment=0.0872664625997165
 								CreateIndexedSubsweepFlag=false
 							$end 'PostprocessSweep'
+							$begin 'Sweep'
+								Variable='xp'
+								Column='10mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='xn'
+								Column='10mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='yn'
+								Column='20mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='yp'
+								Column='20mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='thickness'
+								Column='1.6mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='sig_width'
+								Column='0.5mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='clearance'
+								Column='0.5mm'
+								Units='mm'
+							$end 'Sweep'
 						$end 'Sweeps'
 						IsPortOnly=false
 					$end 'SimDataExtractor'
@@ -1626,19 +1661,54 @@ $begin 'AnsoftProject'
 								Increment=0.0872664625997165
 								CreateIndexedSubsweepFlag=false
 							$end 'PostprocessSweep'
+							$begin 'Sweep'
+								Variable='xp'
+								Column='10mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='xn'
+								Column='10mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='yn'
+								Column='20mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='yp'
+								Column='20mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='thickness'
+								Column='1.6mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='sig_width'
+								Column='0.5mm'
+								Units='mm'
+							$end 'Sweep'
+							$begin 'Sweep'
+								Variable='clearance'
+								Column='0.5mm'
+								Units='mm'
+							$end 'Sweep'
 						$end 'Sweeps'
 						IsPortOnly=false
 					$end 'SimDataExtractor'
 				$end 'Solution'
 			$end 'SimSetup'
 			$begin 'Version ID Map'
-				V=126
+				V=154
 				$begin 'Setup'
 					N='Setup1'
-					V=126
-					Soln(N='AdaptivePass', V=127)
-					Soln(N='LastAdaptive', V=127)
-					Soln(N='Sweep', V=127)
+					V=154
+					Soln(N='AdaptivePass', V=154)
+					Soln(N='LastAdaptive', V=154)
+					Soln(N='Sweep', V=154)
 				$end 'Setup'
 			$end 'Version ID Map'
 			$begin 'ID Map'
@@ -1663,7 +1733,7 @@ $begin 'AnsoftProject'
 				IntrinsicVarVals=''
 			$end 'Setup_0'
 		$end 'AnimationSetups'
-		CacheHeaderFile='HDR18201788015809354852.tmp'
+		CacheHeaderFile='HDR5DE42249615811015048.tmp'
 	$end 'HFSSModel'
 	$begin 'DataInstances'
 		$begin 'Instance'
@@ -1672,7 +1742,7 @@ $begin 'AnsoftProject'
 				DesignInstanceID=1
 				$begin 'WindowPosition'
 					$begin 'EditorWindow'
-						'3D Modeler'(Editor3d(View(WindowPos(3, -1, -1, -8, -31, 52, 52, 956, 370), OrientationMatrix(-0.0938602983951569, -0.5158531665802, 0.274003237485886, 0, 0.584084033966064, -0.0802355855703354, 0.0490186028182507, 0, -0.00558126159012318, 0.278294086456299, 0.522028684616089, 0, -0.0557525157928467, -0.082399845123291, -4.80495452880859, 1, 0, -18.0484523773193, 25.2749919891357, -12.8544807434082, 8.08284759521484, -111.399963378906, 120.911834716797), Drawings[10: 'Box1', 'Feed', 'BOT_GND', 'TOP_GND1', 'TOP_GND2', 'GND_via_2', 'GND_via_1', 'L2_GND', 'Port1', 'Air'], 'View Data'('Render Mode'=1, 'Show Ruler'=1), ClipPlanes(ClipPlaneOptions(DisableWhenDrawingNewPlane=true, ForceOpqaueForUnclipped=false, ShowClipped=false, Transparency=0, HandleColor=16776960)))))
+						'3D Modeler'(Editor3d(View(WindowPos(3, -1, -1, -8, -31, 52, 52, 956, 370), OrientationMatrix(-0.0938602983951569, -0.5158531665802, 0.274003237485886, 0, 0.584084033966064, -0.0802355855703354, 0.0490186028182507, 0, -0.00558126159012318, 0.278294086456299, 0.522028684616089, 0, -0.0557525157928467, -0.082399845123291, -4.80495452880859, 1, 0, -19.0688343048096, 26.295373916626, -12.8544807434082, 8.08284759521484, -111.399963378906, 120.911834716797), Drawings[10: 'Box1', 'Feed', 'BOT_GND', 'TOP_GND1', 'TOP_GND2', 'GND_via_2', 'GND_via_1', 'L2_GND', 'Port1', 'Air'], 'View Data'('Render Mode'=1, 'Show Ruler'=1), ClipPlanes(ClipPlaneOptions(DisableWhenDrawingNewPlane=true, ForceOpqaueForUnclipped=false, ShowClipped=false, Transparency=0, HandleColor=16776960)))))
 					$end 'EditorWindow'
 				$end 'WindowPosition'
 				$begin 'ReportSetup'
@@ -1694,7 +1764,7 @@ $begin 'AnsoftProject'
 										$end 'DESIGN_SOLUTION_SIM_VALUE_CONTEXT'
 									$end 'DesignSolnDefn'
 									ID=0
-									VersionID=4
+									VersionID=6
 									Name='dB(St(Feed_T1,Feed_T1))'
 									TieNameToExpr=true
 									$begin 'Components'
@@ -1787,7 +1857,7 @@ $begin 'AnsoftProject'
 										$end 'DESIGN_SOLUTION_SIM_VALUE_CONTEXT'
 									$end 'DesignSolnDefn'
 									ID=2
-									VersionID=5
+									VersionID=7
 									Name='dB(GainTotal)'
 									TieNameToExpr=true
 									$begin 'Components'
@@ -1884,7 +1954,7 @@ $begin 'AnsoftProject'
 						NextUniqueID=4
 						MoveBackwards=false
 						$begin 'NextVersID'
-							NextUniqueID=6
+							NextUniqueID=8
 							MoveBackwards=false
 						$end 'NextVersID'
 					$end 'ReportManager'
@@ -2539,11 +2609,11 @@ $begin 'AnsoftProject'
 									$begin 'Scale3DSettings'
 										unit=90
 										m_nLevels=15
-										minvalue=-55.8895684938289
-										maxvalue=-46.3160902465809
+										minvalue=0
+										maxvalue=1
 										log=false
-										IntrinsicMin=-55.8895684938289
-										IntrinsicMax=-46.3160902465809
+										IntrinsicMin=0
+										IntrinsicMax=1
 										LimitFieldValuePrecision=false
 										FieldValuePrecisionDigits=4
 										ScaleType=0

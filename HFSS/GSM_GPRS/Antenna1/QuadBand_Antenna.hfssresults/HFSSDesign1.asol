@@ -1,11 +1,11 @@
 $begin '$base_index$'
   $begin 'properties'
     all_levels=000000000000
-    time(year=000000002020, month=000000000001, day=000000000026, hour=000000000019, min=000000000038, sec=000000000022)
+    time(year=000000002020, month=000000000002, day=000000000007, hour=000000000016, min=000000000009, sec=000000000000)
     version=000000000000
   $end 'properties'
   $begin '$base_index$'
-    $index$(pos=000000041698, lin=000000000780, lvl=000000000000)
+    $index$(pos=000000046296, lin=000000000883, lvl=000000000000)
   $end '$base_index$'
 $end '$base_index$'
 $begin 'SolutionBlock1290'
@@ -14,6 +14,7 @@ $begin 'SolutionBlock1290'
 	V=10197
 	$begin 'States'
 		F(VID=10224, Ver=10197)
+		F(VID=11335, Ver=10197)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=false
@@ -29,73 +30,76 @@ $begin 'SolutionBlock1290'
 	$begin 'M'
 		$begin 'SubData'
 			ID=1
-			M(VID=10224, Ver=10197, File='DV10224_SOL83_M1_V10197.sd')
+			M(VID=11335, Ver=10197, File='DV11335_SOL83_M1_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=2
-			M(VID=10224, Ver=10197, File='DV10224_SOL83_M2_V10197.sd')
+			M(VID=11335, Ver=10197, File='DV11335_SOL83_M2_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=3
-			M(VID=10224, Ver=10197, File='DV10224_SOL83_M3_V10197.sd')
+			M(VID=11335, Ver=10197, File='DV11335_SOL83_M3_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=4
-			M(VID=10224, Ver=10197, File='DV10224_SOL83_M4_V10197.sd')
+			M(VID=11335, Ver=10197, File='DV11335_SOL83_M4_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=5
-			M(VID=10224, Ver=10197, File='DV10224_SOL83_M5_V10197.sd')
+			M(VID=11335, Ver=10197, File='DV11335_SOL83_M5_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=6
-			M(VID=10224, Ver=10197, File='DV10224_SOL83_M6_V10197.sd')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=7
-			M(VID=10224, Ver=10197, File='DV10224_SOL83_M7_V10197.sd')
+			M(VID=11335, Ver=10197, File='DV11335_SOL83_M6_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=8
 			M(VID=10224, Ver=10197, File='DV10224_SOL83_M8_V10197.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=9
+			M(VID=10224, Ver=10197, File='DV10224_SOL83_M9_V10197.sd')
 		$end 'SubData'
 	$end 'M'
 	$begin 'A'
 		$begin 'SubData'
 			ID=0
 			A(VID=10224, Ver=10197, File='DV10224_SOL83_A0_V10197.sd')
+			A(VID=11335, Ver=10197, File='DV11335_SOL83_A0_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=1
 			A(VID=10224, Ver=10197, File='DV10224_SOL83_A1_V10197.sd')
+			A(VID=11335, Ver=10197, File='DV11335_SOL83_A1_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=2
 			A(VID=10224, Ver=10197, File='DV10224_SOL83_A2_V10197.sd')
+			A(VID=11335, Ver=10197, File='DV11335_SOL83_A2_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=3
-			A(VID=10224, Ver=10197, File='DV10224_SOL83_A3_V10197.sd')
+			A(VID=11335, Ver=10197, File='DV11335_SOL83_A3_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=4
-			A(VID=10224, Ver=10197, File='DV10224_SOL83_A4_V10197.sd')
+			A(VID=11335, Ver=10197, File='DV11335_SOL83_A4_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=5
-			A(VID=10224, Ver=10197, File='DV10224_SOL83_A5_V10197.sd')
+			A(VID=11335, Ver=10197, File='DV11335_SOL83_A5_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=6
-			A(VID=10224, Ver=10197, File='DV10224_SOL83_A6_V10197.sd')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=7
-			A(VID=10224, Ver=10197, File='DV10224_SOL83_A7_V10197.sd')
+			A(VID=11335, Ver=10197, File='DV11335_SOL83_A6_V10197.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=8
 			A(VID=10224, Ver=10197, File='DV10224_SOL83_A8_V10197.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=9
+			A(VID=10224, Ver=10197, File='DV10224_SOL83_A9_V10197.sd')
 		$end 'SubData'
 	$end 'A'
 $end 'SolutionBlock1290'
@@ -105,11 +109,13 @@ $begin 'BlockMapName'
 	'SolutionKey(SimSetup=10256, Instance=\'SolutionDefinition\', Solution=10257, VersionID=0)'='SolutionBlock1297'
 	'SolutionKey(SimSetup=10256, Instance=\'SolutionDefinition\', Solution=10258, VersionID=0)'='SolutionBlock1298'
 	'SolutionKey(SimSetup=10256, Instance=\'SolutionDefinition\', Solution=10261, VersionID=10340)'='SolutionBlock1301'
+	'SolutionKey(SimSetup=10256, Instance=\'arm1=\\\'-12.5mm\\\' length=\\\'105mm\\\' param=\\\'-50.3mm\\\' pp=\\\'10mm\\\' thickness=\\\'1.6mm\\\' width=\\\'60mm\\\'\', Solution=-3, VersionID=0)'='SolutionBlock1303'
 	'SolutionKey(SimSetup=10256, Instance=\'arm1=\\\'-12.5mm\\\' length=\\\'120mm\\\' param=\\\'-50.3mm\\\' pp=\\\'10mm\\\' thickness=\\\'1.6mm\\\' width=\\\'60mm\\\'\', Solution=-3, VersionID=0)'='SolutionBlock1300'
 	'SolutionKey(SimSetup=82, Instance=\'SetupDefinition\', Solution=-1, VersionID=10197)'='SolutionBlock1293'
 	'SolutionKey(SimSetup=82, Instance=\'SolutionDefinition\', Solution=6732, VersionID=10253)'='SolutionBlock1296'
 	'SolutionKey(SimSetup=82, Instance=\'SolutionDefinition\', Solution=83, VersionID=10197)'='SolutionBlock1290'
 	'SolutionKey(SimSetup=82, Instance=\'SolutionDefinition\', Solution=84, VersionID=10197)'='SolutionBlock1291'
+	'SolutionKey(SimSetup=82, Instance=\'arm1=\\\'-12.5mm\\\' length=\\\'105mm\\\' param=\\\'-50.3mm\\\' pp=\\\'10mm\\\' thickness=\\\'1.6mm\\\' width=\\\'60mm\\\'\', Solution=-3, VersionID=10197)'='SolutionBlock1302'
 	'SolutionKey(SimSetup=82, Instance=\'arm1=\\\'-12.5mm\\\' length=\\\'120mm\\\' param=\\\'-50.3mm\\\' pp=\\\'10mm\\\' thickness=\\\'1.6mm\\\' width=\\\'60mm\\\'\', Solution=-3, VersionID=10197)'='SolutionBlock1294'
 $end 'BlockMapName'
 $begin 'SolutionBlock1291'
@@ -118,6 +124,7 @@ $begin 'SolutionBlock1291'
 	V=10197
 	$begin 'States'
 		F(VID=10224, Ver=10197)
+		F(VID=11335, Ver=10197)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=false
@@ -134,6 +141,7 @@ $begin 'SolutionBlock1291'
 		$begin 'SubData'
 			ID=0
 			M(VID=10224, Ver=10197, File='DV10224_SOL84_M0_V10197.sd')
+			M(VID=11335, Ver=10197, File='DV11335_SOL84_M0_V10197.sd')
 		$end 'SubData'
 	$end 'M'
 	$begin 'Fields'
@@ -143,6 +151,11 @@ $begin 'SolutionBlock1291'
 			Ver=10197
 			F(DblID=10229, Dir='DV10224_S84_V10197_F10229/')
 		$end 'DataMap'
+		$begin 'DataMap'
+			VID=11335
+			Ver=10197
+			F(DblID=10229, Dir='DV11335_S84_V10197_F10229/')
+		$end 'DataMap'
 	$end 'Fields'
 $end 'SolutionBlock1291'
 $begin 'SolutionBlock1296'
@@ -151,6 +164,7 @@ $begin 'SolutionBlock1296'
 	V=10253
 	$begin 'States'
 		F(VID=10224, Ver=10253)
+		F(VID=11335, Ver=10253)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=true
@@ -170,6 +184,7 @@ $begin 'SolutionBlock1296'
 		$begin 'SubData'
 			ID=0
 			M(VID=10224, Ver=10253, File='DV10224_SOL6732_M0_V10253.sd')
+			M(VID=11335, Ver=10253, File='DV11335_SOL6732_M0_V10253.sd')
 		$end 'SubData'
 	$end 'M'
 	$begin 'Fields'
@@ -178,6 +193,11 @@ $begin 'SolutionBlock1296'
 			VID=10224
 			Ver=10253
 			F(DblID=10290, Dir='DV10224_S6732_V10253_F10290/')
+		$end 'DataMap'
+		$begin 'DataMap'
+			VID=11335
+			Ver=10253
+			F(DblID=10290, Dir='DV11335_S6732_V10253_F10290/')
 		$end 'DataMap'
 	$end 'Fields'
 $end 'SolutionBlock1296'
@@ -190,23 +210,29 @@ $begin 'SolutionBlock1293'
 	SolveSetupID=0
 	$begin 'CurrMeshes'
 		M(VID=10224, Ver=10197, Dir='DV10224_S82_V10197.cmesh/')
+		M(VID=11335, Ver=10197, Dir='DV11335_S82_V10197.cmesh/')
 	$end 'CurrMeshes'
 	$begin 'RadFieldSurfMeshes'
 		SM(VID=10224, Ver=10197, Dir='DV10224_S82_V10197.sfmesh/')
+		SM(VID=11335, Ver=10197, Dir='DV11335_S82_V10197.sfmesh/')
 	$end 'RadFieldSurfMeshes'
 	$begin 'WaveAdapt'
 		WA(VID=10224, Ver=10197, A=1)
+		WA(VID=11335, Ver=10197, A=1)
 	$end 'WaveAdapt'
 	$begin 'LastPassNumbers'
-		LP(VID=10224, Ver=10197, P=8)
+		LP(VID=10224, Ver=10197, P=9)
+		LP(VID=11335, Ver=10197, P=6)
 	$end 'LastPassNumbers'
 	$begin 'Profiles'
 		P(VID=10224, Ver=10197, File='DV10224_S82_V10197.profile')
+		P(VID=11335, Ver=10197, File='DV11335_S82_V10197.profile')
 	$end 'Profiles'
 	$begin 'MI'
 		$begin 'SubData'
 			ID=0
 			MI(VID=10224, Ver=10197, Dir='DV10224_S82_MI0_V10197.sd/')
+			MI(VID=11335, Ver=10197, Dir='DV11335_S82_MI0_V10197.sd/')
 		$end 'SubData'
 	$end 'MI'
 $end 'SolutionBlock1293'
@@ -216,6 +242,7 @@ $begin 'SolutionBlock1297'
 	V=0
 	$begin 'States'
 		F(VID=10224, Ver=0)
+		F(VID=11335, Ver=0)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=false
@@ -232,38 +259,47 @@ $begin 'SolutionBlock1297'
 		$begin 'SubData'
 			ID=1
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M1_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M1_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=2
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M2_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M2_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=3
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M3_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M3_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=4
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M4_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M4_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=5
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M5_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M5_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=6
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M6_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M6_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=7
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M7_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M7_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=8
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M8_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M8_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=9
 			M(VID=10224, Ver=0, File='DV10224_SOL10257_M9_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10257_M9_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=10
@@ -282,42 +318,52 @@ $begin 'SolutionBlock1297'
 		$begin 'SubData'
 			ID=0
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A0_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A0_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=1
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A1_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A1_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=2
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A2_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A2_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=3
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A3_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A3_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=4
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A4_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A4_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=5
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A5_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A5_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=6
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A6_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A6_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=7
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A7_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A7_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=8
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A8_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A8_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=9
 			A(VID=10224, Ver=0, File='DV10224_SOL10257_A9_V0.sd')
+			A(VID=11335, Ver=0, File='DV11335_SOL10257_A9_V0.sd')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=10
@@ -339,6 +385,7 @@ $begin 'SolutionBlock1298'
 	V=0
 	$begin 'States'
 		F(VID=10224, Ver=0)
+		F(VID=11335, Ver=0)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=false
@@ -355,6 +402,7 @@ $begin 'SolutionBlock1298'
 		$begin 'SubData'
 			ID=0
 			M(VID=10224, Ver=0, File='DV10224_SOL10258_M0_V0.sd')
+			M(VID=11335, Ver=0, File='DV11335_SOL10258_M0_V0.sd')
 		$end 'SubData'
 	$end 'M'
 	$begin 'Fields'
@@ -364,6 +412,11 @@ $begin 'SolutionBlock1298'
 			Ver=0
 			F(DblID=10294, Dir='DV10224_S10258_V0_F10294/')
 		$end 'DataMap'
+		$begin 'DataMap'
+			VID=11335
+			Ver=0
+			F(DblID=10294, Dir='DV11335_S10258_V0_F10294/')
+		$end 'DataMap'
 	$end 'Fields'
 $end 'SolutionBlock1298'
 $begin 'SolutionBlock1301'
@@ -372,6 +425,7 @@ $begin 'SolutionBlock1301'
 	V=10340
 	$begin 'States'
 		F(VID=10224, Ver=10340)
+		F(VID=11335, Ver=10340)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=true
@@ -391,6 +445,7 @@ $begin 'SolutionBlock1301'
 		$begin 'SubData'
 			ID=0
 			M(VID=10224, Ver=10340, File='DV10224_SOL10261_M0_V10340.sd')
+			M(VID=11335, Ver=10340, File='DV11335_SOL10261_M0_V10340.sd')
 		$end 'SubData'
 	$end 'M'
 	$begin 'Fields'
@@ -399,6 +454,11 @@ $begin 'SolutionBlock1301'
 			VID=10224
 			Ver=10340
 			F(DblID=10348, Dir='DV10224_S10261_V10340_F10348/')
+		$end 'DataMap'
+		$begin 'DataMap'
+			VID=11335
+			Ver=10340
+			F(DblID=10348, Dir='DV11335_S10261_V10340_F10348/')
 		$end 'DataMap'
 	$end 'Fields'
 $end 'SolutionBlock1301'
@@ -411,23 +471,29 @@ $begin 'SolutionBlock1295'
 	SolveSetupID=1
 	$begin 'CurrMeshes'
 		M(VID=10224, Ver=0, Dir='DV10224_S10256_V0.cmesh/')
+		M(VID=11335, Ver=0, Dir='DV11335_S10256_V0.cmesh/')
 	$end 'CurrMeshes'
 	$begin 'RadFieldSurfMeshes'
 		SM(VID=10224, Ver=0, Dir='DV10224_S10256_V0.sfmesh/')
+		SM(VID=11335, Ver=0, Dir='DV11335_S10256_V0.sfmesh/')
 	$end 'RadFieldSurfMeshes'
 	$begin 'WaveAdapt'
 		WA(VID=10224, Ver=0, A=1)
+		WA(VID=11335, Ver=0, A=1)
 	$end 'WaveAdapt'
 	$begin 'LastPassNumbers'
 		LP(VID=10224, Ver=0, P=12)
+		LP(VID=11335, Ver=0, P=9)
 	$end 'LastPassNumbers'
 	$begin 'Profiles'
 		P(VID=10224, Ver=0, File='DV10224_S10256_V0.profile')
+		P(VID=11335, Ver=0, File='DV11335_S10256_V0.profile')
 	$end 'Profiles'
 	$begin 'MI'
 		$begin 'SubData'
 			ID=0
 			MI(VID=10224, Ver=0, Dir='DV10224_S10256_MI0_V0.sd/')
+			MI(VID=11335, Ver=0, Dir='DV11335_S10256_MI0_V0.sd/')
 		$end 'SubData'
 	$end 'MI'
 $end 'SolutionBlock1295'
@@ -437,13 +503,15 @@ $begin 'SolutionBlock1'
 	VersionID=10197
 	PostProcess=false
 	LossLess=true
-	NextUniqueID=10349
+	NextUniqueID=11336
 	MoveBackwards=false
 	$begin 'VariationIDs'
+		Map(V='', ID=10459)
 		Map(V='arm1=\'-10.5mm\' length=\'120mm\' param=\'-50.8mm\' pp=\'13mm\' thickness=\'1.6mm\' width=\'60mm\'', ID=9806)
 		Map(V='arm1=\'-10mm\' length=\'120mm\' param=\'-50.8mm\' pp=\'13mm\' thickness=\'1.6mm\' width=\'60mm\'', ID=9804)
 		Map(V='arm1=\'-11.5mm\' length=\'120mm\' param=\'-50.8mm\' pp=\'13mm\' thickness=\'1.6mm\' width=\'60mm\'', ID=9808)
 		Map(V='arm1=\'-11mm\' length=\'120mm\' param=\'-50.8mm\' pp=\'13mm\' thickness=\'1.6mm\' width=\'60mm\'', ID=9807)
+		Map(V='arm1=\'-12.5mm\' length=\'105mm\' param=\'-50.3mm\' pp=\'10mm\' thickness=\'1.6mm\' width=\'60mm\'', ID=11335)
 		Map(V='arm1=\'-12.5mm\' length=\'120mm\' param=\'-50.3mm\' pp=\'10mm\' thickness=\'1.6mm\' width=\'60mm\'', ID=10224)
 		Map(V='arm1=\'-12.5mm\' length=\'120mm\' param=\'-50.3mm\' pp=\'13mm\' thickness=\'1.6mm\' width=\'60mm\'', ID=10001)
 		Map(V='arm1=\'-12.5mm\' length=\'120mm\' param=\'-50.3mm\' pp=\'3mm\' thickness=\'1.6mm\' width=\'60mm\'', ID=10187)
@@ -738,12 +806,13 @@ $begin 'SolutionBlock1'
 	$begin 'LinkedDataList'
 	$end 'LinkedDataList'
 	$begin 'InitialMeshes'
-		M(VID=10224, Ver=10197, Dir='DV10224_V10197.imesh/')
+		M(VID=11335, Ver=10197, Dir='DV11335_V10197.imesh/')
 	$end 'InitialMeshes'
 	$begin 'MI'
 		$begin 'SubData'
 			ID=0
 			MI(VID=10224, Ver=10197, Dir='DV10224_MI0_V10197.sd/')
+			MI(VID=11335, Ver=10197, Dir='DV11335_MI0_V10197.sd/')
 		$end 'SubData'
 	$end 'MI'
 $end 'SolutionBlock1'
@@ -756,14 +825,50 @@ $begin 'SolutionBlock1294'
 	ConvTargetConsecPasses='1'
 	ConvCurrentConsecPasses='1'
 	c(numtets=2180, passno=1)
-	c(numtets=2841, magdeltas=0.7772311136347471, passno=2)
-	c(numtets=3701, magdeltas=0.05782477424527811, passno=3)
-	c(numtets=4815, magdeltas=0.04761719336684279, passno=4)
-	c(numtets=6269, magdeltas=0.05904567606139553, passno=5)
-	c(numtets=8153, magdeltas=0.03365124697154053, passno=6)
-	c(numtets=10609, magdeltas=0.03476880663539577, passno=7)
-	c(numtets=13796, magdeltas=0.01885213890970057, passno=8)
+	c(magdeltas=0.7772311136347471, numtets=2841, passno=2)
+	c(magdeltas=0.05782477424527811, numtets=3701, passno=3)
+	c(magdeltas=0.04761719336684279, numtets=4815, passno=4)
+	c(magdeltas=0.05904567606139553, numtets=6269, passno=5)
+	c(magdeltas=0.03365124697154053, numtets=8153, passno=6)
+	c(magdeltas=0.03476880663539577, numtets=10609, passno=7)
+	c(numtets=13796, passno=8)
+	c(magdeltas=0.01516492548248697, numtets=17945, passno=9)
 $end 'SolutionBlock1294'
+$begin 'OptimetricsResults'
+$end 'OptimetricsResults'
+$begin 'SolutionBlock1303'
+	ConvSetupName='DrivenDeltaSConvNOV'
+	IsConverged=true
+	MaxPasses='20'
+	MinPasses='1'
+	ConvTarget='0.02'
+	ConvTargetConsecPasses='1'
+	ConvCurrentConsecPasses='1'
+	c(numtets=1826, passno=1)
+	c(magdeltas=0.06347998867872438, numtets=2375, passno=2)
+	c(magdeltas=0.02280367513767612, numtets=3089, passno=3)
+	c(magdeltas=0.09081895963049606, numtets=4020, passno=4)
+	c(magdeltas=0.05245481241763321, numtets=5229, passno=5)
+	c(magdeltas=0.06125328544743471, numtets=6799, passno=6)
+	c(magdeltas=0.1742526404576348, numtets=8849, passno=7)
+	c(magdeltas=0.05163530043834761, numtets=11504, passno=8)
+	c(magdeltas=0.01813926020902673, numtets=14964, passno=9)
+$end 'SolutionBlock1303'
+$begin 'SolutionBlock1302'
+	ConvSetupName='DrivenDeltaSConvNOV'
+	IsConverged=true
+	MaxPasses='20'
+	MinPasses='1'
+	ConvTarget='0.02'
+	ConvTargetConsecPasses='1'
+	ConvCurrentConsecPasses='1'
+	c(numtets=2020, passno=1)
+	c(magdeltas=0.801953074478309, numtets=2638, passno=2)
+	c(magdeltas=0.09924243660256107, numtets=3436, passno=3)
+	c(magdeltas=0.1902913029275721, numtets=4467, passno=4)
+	c(magdeltas=0.06278177556889951, numtets=5821, passno=5)
+	c(magdeltas=0.01351273746623644, numtets=7579, passno=6)
+$end 'SolutionBlock1302'
 $begin 'SolutionBlock1300'
 	ConvSetupName='DrivenDeltaSConvNOV'
 	IsConverged=true
@@ -785,24 +890,24 @@ $begin 'SolutionBlock1300'
 	c(numtets=26585, magdeltas=0.02286566552238937, passno=11)
 	c(numtets=34588, magdeltas=0.01978771201925404, passno=12)
 $end 'SolutionBlock1300'
-$begin 'OptimetricsResults'
-$end 'OptimetricsResults'
 $begin '$index$'
 	$begin '$index$'
-		OptimetricsResults(pos=41644, lin=778, lvl=0)
+		SolutionBlock1300(pos=45414, lin=862, lvl=0)
 		SolutionBlock1290(pos=370, lin=1, lvl=0)
-		BlockMapName(pos=2607, lin=92, lvl=0)
-		SolutionBlock1291(pos=4000, lin=105, lvl=0)
-		SolutionBlock1296(pos=4695, lin=138, lvl=0)
-		SolutionBlock1293(pos=5499, lin=174, lvl=0)
-		SolutionBlock1297(pos=6251, lin=203, lvl=0)
-		SolutionBlock1298(pos=9227, lin=326, lvl=0)
-		SolutionBlock1301(pos=9905, lin=359, lvl=0)
-		SolutionBlock1295(pos=10665, lin=395, lvl=0)
-		SolutionBlock1(pos=11388, lin=424, lvl=0)
-		SolutionBlock1294(pos=40114, lin=740, lvl=0)
-		SolutionBlock1300(pos=40762, lin=757, lvl=0)
+		BlockMapName(pos=2819, lin=96, lvl=0)
+		SolutionBlock1291(pos=4641, lin=111, lvl=0)
+		SolutionBlock1296(pos=5538, lin=151, lvl=0)
+		SolutionBlock1293(pos=6548, lin=194, lvl=0)
+		SolutionBlock1297(pos=7607, lin=229, lvl=0)
+		SolutionBlock1298(pos=11688, lin=372, lvl=0)
+		SolutionBlock1301(pos=12554, lin=412, lvl=0)
+		SolutionBlock1295(pos=13522, lin=455, lvl=0)
+		SolutionBlock1(pos=14524, lin=490, lvl=0)
+		SolutionBlock1294(pos=43450, lin=809, lvl=0)
+		OptimetricsResults(pos=44126, lin=827, lvl=0)
+		SolutionBlock1303(pos=44180, lin=829, lvl=0)
+		SolutionBlock1302(pos=44886, lin=847, lvl=0)
 		$base_index$(pos=0, lin=1, lvl=0)
-		$index$(pos=41698, lin=780, lvl=0)
+		$index$(pos=46296, lin=883, lvl=0)
 	$end '$index$'
 $end '$index$'

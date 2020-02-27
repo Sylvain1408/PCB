@@ -4,5 +4,5 @@ $begin 'Krylov Vector File Header'
 	DataFormat='BINARY'
 	DataPrecision='Double'
 	ReducedSize=20
-	TotalSize=84947
+	TotalSize=110819
 $end 'Krylov Vector File Header'

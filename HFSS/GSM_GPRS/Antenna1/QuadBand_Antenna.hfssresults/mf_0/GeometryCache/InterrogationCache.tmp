@@ -1,11 +1,11 @@
 $begin 'CacheDataVersion'
-	DataVersion=743
+	DataVersion=759
 $end 'CacheDataVersion'
 $begin 'InterrogationCache'
 	Version=1
 	$begin 'VariableValues'
 		thickness='1.6mm'
-		length='120mm'
+		length='105mm'
 		width='60mm'
 		param='-50.3mm'
 		pp='10mm'
@@ -22,7 +22,7 @@ $begin 'InterrogationCache'
 	$begin 'BodyCaches'
 		$begin '6'
 			$begin 'BoundingBox'
-				Low[3: 0, -67, 0]
+				Low[3: 0, -51.999999999999986, 0]
 				High[3: 60, 67, 1.6000000000000001]
 				Exact=false
 				Valid=true
@@ -46,6 +46,10 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '34'
 		$begin '46'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
 			$begin 'Properties'
 				Volume='0'
 				Area='18.75'
@@ -63,11 +67,6 @@ $begin 'InterrogationCache'
 				CheckLevel=20
 				Status=true
 			$end 'CheckStatus'
-			$begin 'Properties'
-				Volume='0'
-				Area='0.94999999999999996'
-				Valid=true
-			$end 'Properties'
 			$begin 'BoundingBox'
 				Low[3: 0, 55.5, 1.6000000000000001]
 				High[3: 1.8999999999999999, 56, 1.6000000000000001]
@@ -76,6 +75,10 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '58'
 		$begin '70'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
 			$begin 'Properties'
 				Volume='0'
 				Area='13.75'
@@ -89,6 +92,10 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '70'
 		$begin '82'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
 			$begin 'Properties'
 				Volume='0'
 				Area='22.649999999999999'
@@ -102,6 +109,10 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '82'
 		$begin '94'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
 			$begin 'Properties'
 				Volume='0'
 				Area='1.2'
@@ -115,6 +126,10 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '94'
 		$begin '106'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
 			$begin 'Properties'
 				Volume='0'
 				Area='2.4000000000000004'
@@ -145,6 +160,10 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '118'
 		$begin '154'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
 			$begin 'Properties'
 				Volume='0'
 				Area='50.299999999999997'
@@ -162,11 +181,6 @@ $begin 'InterrogationCache'
 				CheckLevel=20
 				Status=true
 			$end 'CheckStatus'
-			$begin 'Properties'
-				Volume='0'
-				Area='0.75'
-				Valid=true
-			$end 'Properties'
 			$begin 'BoundingBox'
 				Low[3: 4.7999999999999998, 56, 0]
 				High[3: 6.2999999999999998, 56.5, 0]
@@ -196,11 +210,6 @@ $begin 'InterrogationCache'
 				CheckLevel=20
 				Status=true
 			$end 'CheckStatus'
-			$begin 'Properties'
-				Volume='0'
-				Area='2.3999999999999999'
-				Valid=true
-			$end 'Properties'
 			$begin 'BoundingBox'
 				Low[3: 0, 49.5, 0]
 				High[3: 4.7999999999999998, 50, 0]
@@ -213,11 +222,6 @@ $begin 'InterrogationCache'
 				CheckLevel=20
 				Status=true
 			$end 'CheckStatus'
-			$begin 'Properties'
-				Volume='0'
-				Area='5'
-				Valid=true
-			$end 'Properties'
 			$begin 'BoundingBox'
 				Low[3: 0, 50, 0]
 				High[3: 0.5, 60, 0]
@@ -226,11 +230,10 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '202'
 		$begin '214'
-			$begin 'Properties'
-				Volume='0'
-				Area='2.25'
-				Valid=true
-			$end 'Properties'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
 			$begin 'BoundingBox'
 				Low[3: 0.5, 59.5, 0]
 				High[3: 5, 60, 0]
@@ -256,6 +259,10 @@ $begin 'InterrogationCache'
 			$end 'BoundingBox'
 		$end '226'
 		$begin '238'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
 			$begin 'BoundingBox'
 				Low[3: -20, -125, -30]
 				High[3: 80, 115, 30]
@@ -266,17 +273,26 @@ $begin 'InterrogationCache'
 		$begin '305'
 			$begin 'Properties'
 				Volume='0'
-				Area='6240'
+				Area='5460'
 				Valid=true
 			$end 'Properties'
 			$begin 'BoundingBox'
-				Low[3: 8, -67, 1.6000000000000001]
+				Low[3: 8, -52, 1.6000000000000001]
 				High[3: 60, 53, 1.6000000000000001]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
 		$end '305'
 		$begin '329'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'Properties'
+				Volume='0'
+				Area='520'
+				Valid=true
+			$end 'Properties'
 			$begin 'BoundingBox'
 				Low[3: 8, 57, 1.6000000000000001]
 				High[3: 60, 67, 1.6000000000000001]
@@ -291,12 +307,12 @@ $begin 'InterrogationCache'
 			$end 'CheckStatus'
 			$begin 'Properties'
 				Volume='0'
-				Area='1.6999999999999993'
+				Area='1.7000000000000002'
 				Valid=true
 			$end 'Properties'
 			$begin 'BoundingBox'
 				Low[3: 6.2999999999999998, 59, 0]
-				High[3: 7.9999999999999991, 60, 0]
+				High[3: 8, 60, 0]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
@@ -304,17 +320,26 @@ $begin 'InterrogationCache'
 		$begin '433'
 			$begin 'Properties'
 				Volume='0'
-				Area='192'
+				Area='168'
 				Valid=true
 			$end 'Properties'
 			$begin 'BoundingBox'
-				Low[3: 9.9999999999999929, -67, -2.6645352591003757e-014]
+				Low[3: 9.9999999999999929, -52, -2.3314683517128287e-014]
 				High[3: 10, 53, 1.6000000000000001]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
 		$end '433'
 		$begin '457'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'Properties'
+				Volume='0'
+				Area='16'
+				Valid=true
+			$end 'Properties'
 			$begin 'BoundingBox'
 				Low[3: 10, 57, 0]
 				High[3: 10, 67, 1.6000000000000023]
@@ -325,11 +350,11 @@ $begin 'InterrogationCache'
 		$begin '469'
 			$begin 'Properties'
 				Volume='0'
-				Area='6968'
+				Area='6187.9999999999991'
 				Valid=true
 			$end 'Properties'
 			$begin 'BoundingBox'
-				Low[3: 8, -67, 0]
+				Low[3: 8, -51.999999999999986, 0]
 				High[3: 60, 67, 0]
 				Exact=false
 				Valid=true

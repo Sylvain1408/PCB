@@ -159,4 +159,73 @@ $begin 'Profile'
 		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
 		ProfileTask('Solution Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:00 , Hfss ComEngine Memory : 76.9 M', false, true)
 	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		StartInfo='Time:  02/07/2020 15:10:21, Host DESKTOP-104CIH4, HFSS Version 13.0.0'
+		TotalInfo='Time:  02/07/2020 15:10:56, Status: Normal Completion'
+		ProfileTask('', 0, 0, 0, 0, 0, 'Desired RAM limit not set.', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Solution Basis Order: 1', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Adaptive Pass 8', 0, 0, 0, 0, 0, ' Frequency: 1.9  GHz', false, true)
+		ProfileTask('Simulation Setup', 0, 0, 0, 0, 38580, 'Disk = 0 KBytes', true, true)
+		ProfileTask('Matrix Assembly', 1, 0, 1, 0, 79848, 'Disk = 0 KBytes, 13796 tetrahedra , 1: 22 triangles ', true, true)
+		ProfileTask('Solver MCS1', 9, 0, 9, 0, 351404, 'Disk = 0 KBytes, matrix size 84947 , matrix bandwidth  21.1 ', true, true)
+		ProfileTask('Field Recovery', 0, 0, 0, 0, 351404, 'Disk = 1726 KBytes, 1 excitations ', true, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Adaptive Pass 9', 0, 0, 0, 0, 0, ' Frequency: 1.9  GHz', false, true)
+		ProfileTask('  Mesh (volume, adaptive)', 2, 0, 2, 0, 42800, '17945 tetrahedra', true, true)
+		ProfileTask('Simulation Setup', 0, 0, 0, 0, 43208, 'Disk = 0 KBytes', true, true)
+		ProfileTask('Matrix Assembly', 1, 0, 1, 0, 96400, 'Disk = 0 KBytes, 17945 tetrahedra , 1: 22 triangles ', true, true)
+		ProfileTask('Solver MCS1', 16, 0, 16, 0, 493320, 'Disk = 0 KBytes, matrix size 110819 , matrix bandwidth  21.2 ', true, true)
+		ProfileTask('Field Recovery', 0, 0, 0, 0, 493320, 'Disk = 750 KBytes, 1 excitations ', true, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Adaptive Passes converged', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Adaptive Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:35 , Hfss ComEngine Memory : 78 M', false, true)
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		StartInfo='Time:  02/07/2020 15:10:56, Host DESKTOP-104CIH4, HFSS Version 13.0.0'
+		TotalInfo='Time:  02/07/2020 15:11:34, Status: Normal Completion'
+		ProfileTask('', 0, 0, 0, 0, 0, 'Desired RAM limit not set.', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Solution Basis Order: 1', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Solution Sweep', 0, 0, 0, 0, 0, 'Fast Sweep', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'From 1.6 GHz to 2.1 GHz, 100 Steps', false, true)
+		ProfileTask('Simulation Setup', 0, 0, 0, 0, 43348, 'Disk = 0 KBytes', true, true)
+		ProfileTask('Matrix Assembly', 2, 0, 2, 0, 205576, 'Disk = 0 KBytes, 17945 tetrahedra , 1: 22 triangles ', true, true)
+		ProfileTask('Solver MCS1', 33, 0, 33, 0, 697876, 'Disk = 34737 KBytes, matrix size 110819 , matrix bandwidth  21.2 , reduced matrix size 20 ', true, true)
+		ProfileTask('Field Recovery', 0, 0, 0, 0, 697876, 'Disk = 4358 KBytes, 1 excitations ', true, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Solution Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:37 , Hfss ComEngine Memory : 78 M', false, true)
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		StartInfo='Time:  02/07/2020 15:14:15, Host DESKTOP-104CIH4, HFSS Version 13.0.0'
+		TotalInfo='Time:  02/07/2020 15:14:15, Status: Normal Completion'
+		ProfileTask('', 0, 0, 0, 0, 0, 'Desired RAM limit not set.', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Solution Basis Order: 1', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Adaptive Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:00 , Hfss ComEngine Memory : 74.8 M', false, true)
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		StartInfo='Time:  02/07/2020 15:14:15, Host DESKTOP-104CIH4, HFSS Version 13.0.0'
+		TotalInfo='Time:  02/07/2020 15:14:15, Status: Normal Completion'
+		ProfileTask('', 0, 0, 0, 0, 0, 'Desired RAM limit not set.', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Solution Basis Order: 1', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Solution Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:00 , Hfss ComEngine Memory : 74.8 M', false, true)
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		StartInfo='Time:  02/07/2020 15:15:22, Host DESKTOP-104CIH4, HFSS Version 13.0.0'
+		TotalInfo='Time:  02/07/2020 15:15:22, Status: Normal Completion'
+		ProfileTask('', 0, 0, 0, 0, 0, 'Desired RAM limit not set.', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Solution Basis Order: 1', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Adaptive Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:00 , Hfss ComEngine Memory : 77 M', false, true)
+	$end 'ProfileGroup'
+	$begin 'ProfileGroup'
+		StartInfo='Time:  02/07/2020 15:15:22, Host DESKTOP-104CIH4, HFSS Version 13.0.0'
+		TotalInfo='Time:  02/07/2020 15:15:22, Status: Normal Completion'
+		ProfileTask('', 0, 0, 0, 0, 0, 'Desired RAM limit not set.', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, 'Solution Basis Order: 1', false, true)
+		ProfileTask('', 0, 0, 0, 0, 0, '', false, true)
+		ProfileTask('Solution Process', 0, 0, 0, 0, 0, 'Elapsed time : 00:00:00 , Hfss ComEngine Memory : 77 M', false, true)
+	$end 'ProfileGroup'
 $end 'Profile'
