@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 4:39:40 PM On 9/25/2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [EMI_Probe.PrjPcb]
+   Generated File[//kickmaker17-my.sharepoint.com/personal/sylvain_kickmaker_net/Documents/KickMaker/EMI_Probe/EMI_Probe/Project Outputs for EMI_Probe/BOM/Bill of Materials-EMI_Probe.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:40:12 PM On 9/25/2020
